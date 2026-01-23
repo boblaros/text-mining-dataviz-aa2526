@@ -36,6 +36,12 @@ Word vectors and text representation.
 - Feature Engineering for Text Data
 - Word2Vec (CBOW and Skip-gram)
 - GloVe embeddings
+- Sentence-Transformers (modern embeddings)
+
+### 05 - LSTM
+Recurrent Neural Networks for NLP.
+- Text Generation with Neural Networks
+- LSTM for Classification
 
 ## Getting Started
 
@@ -112,6 +118,12 @@ The [tools/](tools/) folder contains helpful resources and tutorials:
 
 - [Git-Quick-Tutorial.md](tools/Git-Quick-Tutorial.md) - A quick reference guide for Git commands and workflows
 - [Git-Exercises.md](tools/Git-Exercises.md) - Practice exercises to reinforce Git skills
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This repository is intended for academic and educational purposes.
 
 ## Contact
 

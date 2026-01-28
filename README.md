@@ -43,6 +43,13 @@ Recurrent Neural Networks for NLP.
 - Text Generation with Neural Networks
 - LSTM for Classification
 
+### 06 - Topic Modeling
+Unsupervised methods for discovering topics in text.
+- Latent Dirichlet Allocation (LDA)
+- Non-Negative Matrix Factorization (NMF)
+- Topic Model Evaluation (coherence, perplexity, diversity)
+- BERTopic (modern embedding-based approach)
+
 ## Getting Started
 
 ### Clone the Repository

@@ -11,25 +11,24 @@ This repository contains notebooks and materials for the Data Visualization and 
 
 ### 01 - NLP In Practice
 Introduction to Natural Language Processing using spaCy and NLTK.
+- NLP Basics and pipeline overview
 - Tokenization, Stemming, Lemmatization
 - Stop Words
-- Part of Speech (POS) Tagging
-- Named Entity Recognition (NER)
-- Visualization with displacy
-- EDA on Text Data with matplotlib and seaborn
+- Part of Speech (POS) Tagging and visualization
+- Named Entity Recognition (NER) and visualization with displacy
+- Exploratory Data Analysis on Text Data
 
 ### 02 - Text Classification
-Apply Machine Learning to text data sources.
+Machine Learning applied to text data.
 - Scikit-Learn basics
 - N-grams
 - Bag-of-Words, CountVectorizer, TfidfVectorizer
-- Text Classification project
+- Text Classification project (end-to-end)
 
 ### 03 - Neural Networks
 Introduction to Deep Learning for NLP.
 - Simple Classifier with Keras
-- PyTorch basics
-- Building Neural Network classifiers
+- PyTorch Simple Classifier
 
 ### 04 - Embeddings
 Word vectors and text representation.
@@ -41,7 +40,8 @@ Word vectors and text representation.
 ### 05 - LSTM
 Recurrent Neural Networks for NLP.
 - Text Generation with Neural Networks
-- LSTM for Classification
+- LSTM for Sentiment Classification
+- LSTM for Named Entity Recognition (BiLSTM on CoNLL-2003)
 
 ### 06 - Topic Modeling
 Unsupervised methods for discovering topics in text.
@@ -79,10 +79,10 @@ You can open any notebook directly in Google Colab without cloning the repositor
 **Example:**
 ```
 # Original GitHub URL
-https://github.com/username/text-mining-dataviz-aa2526/blob/main/notebook.ipynb
+https://github.com/nluninja/text-mining-dataviz-aa2526/blob/main/notebook.ipynb
 
 # Colab URL
-https://colab.research.google.com/github/username/text-mining-dataviz-aa2526/blob/main/notebook.ipynb
+https://colab.research.google.com/github/nluninja/text-mining-dataviz-aa2526/blob/main/notebook.ipynb
 ```
 
 Alternatively, from Google Colab:

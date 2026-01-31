@@ -127,11 +127,9 @@ def create_BiLSTM(vocabulary_size, seq_len, n_classes, hidden_cells=128,
     model.add(Dropout(drop))
     model.add(Dense(n_classes, activation='softmax'))
     
-    model.compile(loss='categorical_crossentropy', 
+    model.compile(loss='sparse_categorical_crossentropy', 
                   optimizer='adam',
-                  metrics=['accuracy',
-                           Precision(),
-                           Recall()])
+                  metrics=['accuracy'])
     model.summary()
 #     plot_model(model, to_file='model_plot.png', show_shapes=True, show_layer_names=True)
     return model
@@ -155,12 +153,10 @@ def create_paper_BiLSTM(vocabulary_size, seq_len, n_classes, hidden_cells=200,
 
     model.add(Dense(n_classes, activation='softmax'))
     
-    model.compile(loss='categorical_crossentropy', 
+    model.compile(loss='sparse_categorical_crossentropy', 
                   optimizer='adam',
 #                   optimizer=SGD(learning_rate=0.015, momentum=0.9, clipvalue=5.),  # decay rate missing
-                  metrics=['accuracy',
-                           Precision(),
-                           Recall()])
+                  metrics=['accuracy'])
     model.summary()
 #     plot_model(model, to_file='model_plot.png', show_shapes=True, show_layer_names=True)
     return model

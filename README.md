@@ -50,6 +50,24 @@ Unsupervised methods for discovering topics in text.
 - Topic Model Evaluation (coherence, perplexity, diversity)
 - BERTopic (modern embedding-based approach)
 
+### 07 - Data Visualization
+Comprehensive guide to data visualization in Python.
+- Matplotlib basics and line plots
+- Area plots, histograms, and bar charts
+- Pie charts, box plots, scatter plots, and bubble plots
+- Waffle charts, word clouds, and regression plots
+- Generating maps in Python
+- Plotly basics for interactive visualizations
+
+### 08 - Dashboards
+Interactive dashboard development with Dash.
+- Layout creation with HTML and Dash Bootstrap Components
+- Navigation bars and cards
+- HTML and core components
+- Tables and interactive elements
+- Callbacks (basic, multiple inputs/outputs, chained, with State)
+- Real-world applications: COVID dashboard, sales app, NLP Q&A app
+
 ## Getting Started
 
 ### Clone the Repository

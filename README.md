@@ -137,6 +137,27 @@ git checkout -- .
 git pull origin main
 ```
 
+## Project Track
+
+The [project-track/](project-track/) folder contains information and resources for the final course project:
+
+- [README.md](project-track/README.md) - Complete project requirements and guidelines
+- [datasets/](project-track/datasets/) - Collection of 10 curated datasets for text classification and entity extraction tasks
+  - 5 Text Classification datasets (Sentiment Analysis, News Categorization, Spam Detection, etc.)
+  - 5 Entity Extraction datasets (NER, Product Attributes, Medical Entities, etc.)
+  - [LLM_USE_CASES.md](project-track/datasets/LLM_USE_CASES.md) - Optional guidance for using LLMs in your project
+
+### Project Requirements Summary
+
+Students must build a text processing pipeline that includes:
+1. Data Exploratory Analysis with visualizations
+2. Neural Network approach (LSTM, BiLSTM, RNN, etc.)
+3. Transformer-based approach (BERT, etc.)
+4. Model comparison and metrics
+5. Interactive dashboard combining all aspects
+
+See the [project-track README](project-track/README.md) for full details and submission guidelines.
+
 ## Tools
 
 The [tools/](tools/) folder contains helpful resources and tutorials:

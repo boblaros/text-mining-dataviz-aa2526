@@ -1,4 +1,4 @@
-# Team 08: Medical Entity Extraction
+# Dataset 08: Medical Entity Extraction
 
 ## Task Description
 Extract medical entities: DISEASE, SYMPTOM, TREATMENT, and MEDICATION from clinical text.

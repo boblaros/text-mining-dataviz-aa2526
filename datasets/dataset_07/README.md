@@ -1,4 +1,4 @@
-# Team 07: Product Attribute Extraction
+# Dataset 07: Product Attribute Extraction
 
 ## Task Description
 Extract product attributes: BRAND, PRODUCT, PRICE, and FEATURE from product descriptions.

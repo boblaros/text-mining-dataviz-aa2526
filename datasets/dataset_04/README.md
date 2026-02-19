@@ -1,4 +1,4 @@
-# Team 04: Topic Classification
+# Dataset 04: Topic Classification
 
 ## Task Description
 Classify research paper abstracts into academic disciplines.

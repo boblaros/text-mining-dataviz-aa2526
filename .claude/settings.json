@@ -4,6 +4,9 @@
       "Bash(source .venv/bin/activate)",
       "Bash(python3:*)",
       "Bash(ls:*)"
+    ],
+    "additionalDirectories": [
+      "/home/abelli/projects/text-mining-dataviz-aa2526/datasets/datasets"
     ]
   }
 }

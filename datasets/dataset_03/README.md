@@ -1,4 +1,4 @@
-# Team 03: Spam Detection
+# Dataset 03: Spam Detection
 
 ## Task Description
 Classify messages as spam or legitimate (ham).

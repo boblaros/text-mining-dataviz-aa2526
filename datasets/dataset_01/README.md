@@ -1,4 +1,4 @@
-# Team 01: Sentiment Classification
+# Dataset 01: Sentiment Classification
 
 ## Task Description
 Classify movie reviews into positive or negative sentiment.

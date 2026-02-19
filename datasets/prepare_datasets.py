@@ -14,12 +14,12 @@ import random
 random.seed(42)
 np.random.seed(42)
 
-def create_team_folders():
-    """Create folder structure for 10 teams"""
+def create_dataset_folders():
+    """Create folder structure for 10 datasets"""
     for i in range(1, 11):
-        team_folder = Path(f"team_{i:02d}")
-        team_folder.mkdir(exist_ok=True)
-        print(f"Created {team_folder}")
+        dataset_folder = Path(f"datasets/dataset_{i:02d}")
+        dataset_folder.mkdir(parents=True, exist_ok=True)
+        print(f"Created {dataset_folder}")
 
 def anonymize_column_names(df, text_col='text', label_col='label'):
     """
@@ -160,9 +160,9 @@ def prepare_team_01():
     test_df = anonymize_column_names(test_df, label_col='label')
 
     # Save
-    team_folder = Path("team_01")
-    train_df.to_csv(team_folder / "train.csv", index=False)
-    test_df[['content']].to_csv(team_folder / "test.csv", index=False)
+    dataset_folder = Path("datasets/dataset_01")
+    train_df.to_csv(dataset_folder / "train.csv", index=False)
+    test_df[['content']].to_csv(dataset_folder / "test.csv", index=False)
 
     # Create README
     readme = """# Team 01: Sentiment Classification
@@ -191,7 +191,7 @@ Classify movie reviews into positive or negative sentiment.
 - Experiment with different model architectures
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 01 dataset created: {len(train_df)} train, {len(test_df)} test")
@@ -302,9 +302,9 @@ def prepare_team_02():
     test_df = anonymize_column_names(test_df)
 
     # Save
-    team_folder = Path("team_02")
-    train_df.to_csv(team_folder / "train.csv", index=False)
-    test_df[['content']].to_csv(team_folder / "test.csv", index=False)
+    dataset_folder = Path("datasets/dataset_02")
+    train_df.to_csv(dataset_folder / "train.csv", index=False)
+    test_df[['content']].to_csv(dataset_folder / "test.csv", index=False)
 
     readme = """# Team 02: News Category Classification
 
@@ -333,7 +333,7 @@ Classify news articles into one of five categories.
 - Try different vectorization techniques
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 02 dataset created: {len(train_df)} train, {len(test_df)} test")
@@ -440,9 +440,9 @@ def prepare_team_03():
     test_df = anonymize_column_names(test_df)
 
     # Save
-    team_folder = Path("team_03")
-    train_df.to_csv(team_folder / "train.csv", index=False)
-    test_df[['content']].to_csv(team_folder / "test.csv", index=False)
+    dataset_folder = Path("datasets/dataset_03")
+    train_df.to_csv(dataset_folder / "train.csv", index=False)
+    test_df[['content']].to_csv(dataset_folder / "test.csv", index=False)
 
     readme = """# Team 03: Spam Detection
 
@@ -471,7 +471,7 @@ Classify messages as spam or legitimate (ham).
 - Balance between catching spam and not blocking legitimate messages
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 03 dataset created: {len(train_df)} train, {len(test_df)} test")
@@ -675,9 +675,9 @@ def prepare_team_04():
     test_df = anonymize_column_names(test_df)
 
     # Save
-    team_folder = Path("team_04")
-    train_df.to_csv(team_folder / "train.csv", index=False)
-    test_df[['content']].to_csv(team_folder / "test.csv", index=False)
+    dataset_folder = Path("datasets/dataset_04")
+    train_df.to_csv(dataset_folder / "train.csv", index=False)
+    test_df[['content']].to_csv(dataset_folder / "test.csv", index=False)
 
     readme = """# Team 04: Topic Classification
 
@@ -706,7 +706,7 @@ Classify research paper abstracts into academic disciplines.
 - Technical terms may be indicators of specific fields
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 04 dataset created: {len(train_df)} train, {len(test_df)} test")
@@ -828,9 +828,9 @@ def prepare_team_05():
     test_df = anonymize_column_names(test_df)
 
     # Save
-    team_folder = Path("team_05")
-    train_df.to_csv(team_folder / "train.csv", index=False)
-    test_df[['content']].to_csv(team_folder / "test.csv", index=False)
+    dataset_folder = Path("datasets/dataset_05")
+    train_df.to_csv(dataset_folder / "train.csv", index=False)
+    test_df[['content']].to_csv(dataset_folder / "test.csv", index=False)
 
     readme = """# Team 05: Intent Classification
 
@@ -859,7 +859,7 @@ Classify customer service queries by intent.
 - Consider the emotional tone and urgency
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 05 dataset created: {len(train_df)} train, {len(test_df)} test")
@@ -939,13 +939,13 @@ def prepare_team_06():
     test_samples = samples[3200:]
 
     # Save train with labels
-    team_folder = Path("team_06")
-    with open(team_folder / "train.jsonl", "w") as f:
+    dataset_folder = Path("datasets/dataset_06")
+    with open(dataset_folder / "train.jsonl", "w") as f:
         for sample in train_samples:
             f.write(json.dumps(sample) + "\n")
 
     # Save test without labels
-    with open(team_folder / "test.jsonl", "w") as f:
+    with open(dataset_folder / "test.jsonl", "w") as f:
         for sample in test_samples:
             test_sample = {'id': sample['id'], 'tokens': sample['tokens']}
             f.write(json.dumps(test_sample) + "\n")
@@ -996,7 +996,7 @@ Test data (test.jsonl):
 - Evaluate at both token and entity level
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 06 dataset created: {len(train_samples)} train, {len(test_samples)} test")
@@ -1088,12 +1088,12 @@ def prepare_team_07():
     test_samples = samples[3200:]
 
     # Save
-    team_folder = Path("team_07")
-    with open(team_folder / "train.jsonl", "w") as f:
+    dataset_folder = Path("datasets/dataset_07")
+    with open(dataset_folder / "train.jsonl", "w") as f:
         for sample in train_samples:
             f.write(json.dumps(sample) + "\n")
 
-    with open(team_folder / "test.jsonl", "w") as f:
+    with open(dataset_folder / "test.jsonl", "w") as f:
         for sample in test_samples:
             test_sample = {'id': sample['id'], 'tokens': sample['tokens']}
             f.write(json.dumps(test_sample) + "\n")
@@ -1139,7 +1139,7 @@ Test data (test.jsonl):
 - Consider character-level features for price detection
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 07 dataset created: {len(train_samples)} train, {len(test_samples)} test")
@@ -1244,12 +1244,12 @@ def prepare_team_08():
     test_samples = samples[3200:]
 
     # Save
-    team_folder = Path("team_08")
-    with open(team_folder / "train.jsonl", "w") as f:
+    dataset_folder = Path("datasets/dataset_08")
+    with open(dataset_folder / "train.jsonl", "w") as f:
         for sample in train_samples:
             f.write(json.dumps(sample) + "\n")
 
-    with open(team_folder / "test.jsonl", "w") as f:
+    with open(dataset_folder / "test.jsonl", "w") as f:
         for sample in test_samples:
             test_sample = {'id': sample['id'], 'tokens': sample['tokens']}
             f.write(json.dumps(test_sample) + "\n")
@@ -1296,7 +1296,7 @@ Test data (test.jsonl):
 - Consider using medical word embeddings
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 08 dataset created: {len(train_samples)} train, {len(test_samples)} test")
@@ -1402,12 +1402,12 @@ def prepare_team_09():
     test_samples = samples[3200:]
 
     # Save
-    team_folder = Path("team_09")
-    with open(team_folder / "train.jsonl", "w") as f:
+    dataset_folder = Path("datasets/dataset_09")
+    with open(dataset_folder / "train.jsonl", "w") as f:
         for sample in train_samples:
             f.write(json.dumps(sample) + "\n")
 
-    with open(team_folder / "test.jsonl", "w") as f:
+    with open(dataset_folder / "test.jsonl", "w") as f:
         for sample in test_samples:
             test_sample = {'id': sample['id'], 'tokens': sample['tokens']}
             f.write(json.dumps(test_sample) + "\n")
@@ -1454,7 +1454,7 @@ Test data (test.jsonl):
 - Consider using job-domain specific features
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 09 dataset created: {len(train_samples)} train, {len(test_samples)} test")
@@ -1552,12 +1552,12 @@ def prepare_team_10():
     test_samples = samples[3200:]
 
     # Save
-    team_folder = Path("team_10")
-    with open(team_folder / "train.jsonl", "w") as f:
+    dataset_folder = Path("datasets/dataset_10")
+    with open(dataset_folder / "train.jsonl", "w") as f:
         for sample in train_samples:
             f.write(json.dumps(sample) + "\n")
 
-    with open(team_folder / "test.jsonl", "w") as f:
+    with open(dataset_folder / "test.jsonl", "w") as f:
         for sample in test_samples:
             test_sample = {'id': sample['id'], 'tokens': sample['tokens']}
             f.write(json.dumps(test_sample) + "\n")
@@ -1604,7 +1604,7 @@ Test data (test.jsonl):
 - Consider sequential patterns in recipe instructions
 """
 
-    with open(team_folder / "README.md", "w") as f:
+    with open(dataset_folder / "README.md", "w") as f:
         f.write(readme)
 
     print(f"✓ Team 10 dataset created: {len(train_samples)} train, {len(test_samples)} test")
@@ -1615,7 +1615,7 @@ def main():
     print("Creating Dataset Preparation Environment")
     print("=" * 60)
 
-    create_team_folders()
+    create_dataset_folders()
 
     print("\n" + "=" * 60)
     print("Preparing Individual Team Datasets")

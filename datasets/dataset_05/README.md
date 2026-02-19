@@ -1,4 +1,4 @@
-# Team 05: Intent Classification
+# Dataset 05: Intent Classification
 
 ## Task Description
 Classify customer service queries by intent.

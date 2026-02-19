@@ -1,4 +1,4 @@
-# Team 02: News Category Classification
+# Dataset 02: News Category Classification
 
 ## Task Description
 Classify news articles into one of five categories.

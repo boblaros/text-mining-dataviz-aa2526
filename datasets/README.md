@@ -4,25 +4,25 @@ This folder contains 10 different datasets assigned to each team for the Data Vi
 
 ## Dataset Distribution
 
-### Text Classification Tasks (Teams 1-5)
+### Text Classification Tasks (Datasets 1-5)
 
-- **Team 1**: Sentiment Analysis Dataset
-- **Team 2**: News Category Classification Dataset
-- **Team 3**: Spam Detection Dataset
-- **Team 4**: Topic Classification Dataset
-- **Team 5**: Intent Classification Dataset
+- **Dataset 01**: Sentiment Analysis Dataset
+- **Dataset 02**: News Category Classification Dataset
+- **Dataset 03**: Spam Detection Dataset
+- **Dataset 04**: Topic Classification Dataset
+- **Dataset 05**: Intent Classification Dataset
 
-### Entity Extraction Tasks (Teams 6-10)
+### Entity Extraction Tasks (Datasets 6-10)
 
-- **Team 6**: Named Entity Recognition Dataset
-- **Team 7**: Product Attribute Extraction Dataset
-- **Team 8**: Medical Entity Extraction Dataset
-- **Team 9**: Job Posting Entity Extraction Dataset
-- **Team 10**: Recipe Entity Extraction Dataset
+- **Dataset 06**: Named Entity Recognition Dataset
+- **Dataset 07**: Product Attribute Extraction Dataset
+- **Dataset 08**: Medical Entity Extraction Dataset
+- **Dataset 09**: Job Posting Entity Extraction Dataset
+- **Dataset 10**: Recipe Entity Extraction Dataset
 
 ## Dataset Structure
 
-Each team folder contains:
+Each dataset folder contains:
 - `train.csv` or `train.json` - Training data
 - `test.csv` or `test.json` - Test data (unlabeled or partially labeled)
 - `README.md` - Dataset description and task details
@@ -50,14 +50,14 @@ Uses IOB2 (Inside-Outside-Beginning) tagging format.
 ## Notes
 
 - All datasets have been preprocessed and anonymized
-- Test sets may be partially or fully unlabeled depending on team assignment
+- Test sets may be partially or fully unlabeled depending on dataset assignment
 - Ensure you perform proper train/validation split from the training data
 - For entity extraction tasks, you must implement token-level classification
 
 ## Getting Started
 
-1. Navigate to your team folder
-2. Read the team-specific README.md
+1. Navigate to your assigned dataset folder
+2. Read the dataset-specific README.md
 3. Explore the data structure
 4. Perform exploratory data analysis
 5. Build your classification pipeline

@@ -1,4 +1,4 @@
-# Team 09: Job Posting Entity Extraction
+# Dataset 09: Job Posting Entity Extraction
 
 ## Task Description
 Extract entities from job postings: JOBTITLE, COMPANY, SKILL, and LOCATION.

@@ -1,4 +1,4 @@
-# Team 06: Named Entity Recognition
+# Dataset 06: Named Entity Recognition
 
 ## Task Description
 Extract person (PER), location (LOC), and organization (ORG) entities from text.

@@ -1,4 +1,4 @@
-# Team 10: Recipe Entity Extraction
+# Dataset 10: Recipe Entity Extraction
 
 ## Task Description
 Extract recipe components: INGREDIENT, QUANTITY, ACTION, and EQUIPMENT from recipe instructions.

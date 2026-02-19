@@ -1,0 +1,800 @@
+{"id": "medical_03200", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03201", "tokens": ["The", "chest", "pain", "is", "characteristic", "of", "arthritis", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03202", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "dizziness", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03203", "tokens": ["diet", "modification", "combined", "with", "prednisone", "effectively", "manages", "arthritis", "and", "cough."]}
+{"id": "medical_03204", "tokens": ["Prescribed", "omeprazole", "for", "migraine", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03205", "tokens": ["The", "fatigue", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03206", "tokens": ["The", "nausea", "associated", "with", "arthritis", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03207", "tokens": ["Prescribed", "ibuprofen", "for", "hypertension", "management", "along", "with", "counseling."]}
+{"id": "medical_03208", "tokens": ["The", "fatigue", "associated", "with", "hypertension", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03209", "tokens": ["sinusitis", "patient", "reports", "chest", "pain", "despite", "taking", "metformin."]}
+{"id": "medical_03210", "tokens": ["Treatment", "for", "bronchitis", "includes", "lisinopril", "and", "lifestyle", "changes."]}
+{"id": "medical_03211", "tokens": ["For", "diabetes", "presenting", "with", "dizziness,", "recommend", "lisinopril", "and", "exercise."]}
+{"id": "medical_03212", "tokens": ["Prescribed", "levothyroxine", "for", "asthma", "management", "along", "with", "rest."]}
+{"id": "medical_03213", "tokens": ["Initiated", "counseling", "and", "aspirin", "for", "hypertension", "with", "nausea."]}
+{"id": "medical_03214", "tokens": ["exercise", "combined", "with", "levothyroxine", "effectively", "manages", "gastritis", "and", "chest", "pain."]}
+{"id": "medical_03215", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "pain", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03216", "tokens": ["For", "bronchitis", "presenting", "with", "cough,", "recommend", "albuterol", "and", "compression", "therapy."]}
+{"id": "medical_03217", "tokens": ["The", "headache", "is", "characteristic", "of", "diabetes", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03218", "tokens": ["For", "pneumonia", "presenting", "with", "pain,", "recommend", "prednisone", "and", "wound", "care."]}
+{"id": "medical_03219", "tokens": ["asthma", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03220", "tokens": ["The", "nausea", "is", "characteristic", "of", "arthritis", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03221", "tokens": ["Treatment", "for", "migraine", "includes", "lisinopril", "and", "surgery."]}
+{"id": "medical_03222", "tokens": ["compression", "therapy", "combined", "with", "ibuprofen", "effectively", "manages", "hypertension", "and", "dizziness."]}
+{"id": "medical_03223", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "inflammation", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03224", "tokens": ["Initiated", "physical", "therapy", "and", "prednisone", "for", "arthritis", "with", "headache."]}
+{"id": "medical_03225", "tokens": ["Prescribed", "atorvastatin", "for", "migraine", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03226", "tokens": ["Initiated", "exercise", "and", "ibuprofen", "for", "gastritis", "with", "pain."]}
+{"id": "medical_03227", "tokens": ["For", "bronchitis", "presenting", "with", "chest", "pain,", "recommend", "amoxicillin", "and", "diet", "modification."]}
+{"id": "medical_03228", "tokens": ["For", "sinusitis", "presenting", "with", "chest", "pain,", "recommend", "prednisone", "and", "exercise."]}
+{"id": "medical_03229", "tokens": ["The", "headache", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03230", "tokens": ["dermatitis", "patient", "reports", "dizziness", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03231", "tokens": ["For", "asthma", "presenting", "with", "headache,", "recommend", "levothyroxine", "and", "compression", "therapy."]}
+{"id": "medical_03232", "tokens": ["For", "gastritis", "presenting", "with", "fatigue,", "recommend", "amoxicillin", "and", "compression", "therapy."]}
+{"id": "medical_03233", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "dizziness", "which", "requires", "diet", "modification."]}
+{"id": "medical_03234", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03235", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "headache", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03236", "tokens": ["rest", "combined", "with", "atorvastatin", "effectively", "manages", "bronchitis", "and", "dizziness."]}
+{"id": "medical_03237", "tokens": ["Treatment", "for", "hypertension", "includes", "ibuprofen", "and", "counseling."]}
+{"id": "medical_03238", "tokens": ["The", "nausea", "associated", "with", "gastritis", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03239", "tokens": ["Initiated", "exercise", "and", "albuterol", "for", "gastritis", "with", "chest", "pain."]}
+{"id": "medical_03240", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "asthma", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03241", "tokens": ["asthma", "patient", "reports", "inflammation", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03242", "tokens": ["diabetes", "patient", "reports", "inflammation", "despite", "taking", "ibuprofen."]}
+{"id": "medical_03243", "tokens": ["The", "inflammation", "associated", "with", "pneumonia", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03244", "tokens": ["The", "headache", "associated", "with", "diabetes", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03245", "tokens": ["The", "nausea", "associated", "with", "asthma", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03246", "tokens": ["For", "sinusitis", "presenting", "with", "fatigue,", "recommend", "ibuprofen", "and", "counseling."]}
+{"id": "medical_03247", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "hypertension", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03248", "tokens": ["Treatment", "for", "dermatitis", "includes", "amoxicillin", "and", "diet", "modification."]}
+{"id": "medical_03249", "tokens": ["For", "bronchitis", "presenting", "with", "pain,", "recommend", "levothyroxine", "and", "physical", "therapy."]}
+{"id": "medical_03250", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03251", "tokens": ["The", "pain", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03252", "tokens": ["compression", "therapy", "combined", "with", "amoxicillin", "effectively", "manages", "arthritis", "and", "pain."]}
+{"id": "medical_03253", "tokens": ["Prescribed", "amoxicillin", "for", "sinusitis", "management", "along", "with", "surgery."]}
+{"id": "medical_03254", "tokens": ["Treatment", "for", "dermatitis", "includes", "aspirin", "and", "rest."]}
+{"id": "medical_03255", "tokens": ["Treatment", "for", "gastritis", "includes", "levothyroxine", "and", "rest."]}
+{"id": "medical_03256", "tokens": ["For", "hypertension", "presenting", "with", "fatigue,", "recommend", "prednisone", "and", "exercise."]}
+{"id": "medical_03257", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "gastritis", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03258", "tokens": ["For", "sinusitis", "presenting", "with", "pain,", "recommend", "aspirin", "and", "lifestyle", "changes."]}
+{"id": "medical_03259", "tokens": ["gastritis", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03260", "tokens": ["Treatment", "for", "pneumonia", "includes", "albuterol", "and", "lifestyle", "changes."]}
+{"id": "medical_03261", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "chest", "pain", "which", "requires", "surgery."]}
+{"id": "medical_03262", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "headache", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03263", "tokens": ["Treatment", "for", "asthma", "includes", "levothyroxine", "and", "counseling."]}
+{"id": "medical_03264", "tokens": ["surgery", "combined", "with", "amoxicillin", "effectively", "manages", "pneumonia", "and", "nausea."]}
+{"id": "medical_03265", "tokens": ["The", "nausea", "associated", "with", "gastritis", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03266", "tokens": ["Prescribed", "amoxicillin", "for", "migraine", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03267", "tokens": ["The", "fatigue", "is", "characteristic", "of", "asthma", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03268", "tokens": ["Treatment", "for", "hypertension", "includes", "levothyroxine", "and", "counseling."]}
+{"id": "medical_03269", "tokens": ["The", "fatigue", "associated", "with", "migraine", "improved", "after", "amoxicillin", "administration."]}
+{"id": "medical_03270", "tokens": ["Treatment", "for", "pneumonia", "includes", "atorvastatin", "and", "rest."]}
+{"id": "medical_03271", "tokens": ["The", "nausea", "associated", "with", "migraine", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03272", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "inflammation", "which", "requires", "wound", "care."]}
+{"id": "medical_03273", "tokens": ["The", "nausea", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03274", "tokens": ["Prescribed", "levothyroxine", "for", "hypertension", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03275", "tokens": ["sinusitis", "patient", "reports", "headache", "despite", "taking", "omeprazole."]}
+{"id": "medical_03276", "tokens": ["Common", "symptoms", "of", "asthma", "include", "fever", "which", "requires", "counseling."]}
+{"id": "medical_03277", "tokens": ["Patient", "presents", "with", "shortness", "of", "breath", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03278", "tokens": ["dermatitis", "patient", "reports", "pain", "despite", "taking", "aspirin."]}
+{"id": "medical_03279", "tokens": ["Treatment", "for", "bronchitis", "includes", "albuterol", "and", "compression", "therapy."]}
+{"id": "medical_03280", "tokens": ["Initiated", "wound", "care", "and", "amoxicillin", "for", "sinusitis", "with", "chest", "pain."]}
+{"id": "medical_03281", "tokens": ["For", "diabetes", "presenting", "with", "headache,", "recommend", "omeprazole", "and", "compression", "therapy."]}
+{"id": "medical_03282", "tokens": ["The", "dizziness", "is", "characteristic", "of", "gastritis", "and", "treated", "with", "prednisone."]}
+{"id": "medical_03283", "tokens": ["Treatment", "for", "hypertension", "includes", "ibuprofen", "and", "breathing", "exercises."]}
+{"id": "medical_03284", "tokens": ["sinusitis", "patient", "reports", "cough", "despite", "taking", "metformin."]}
+{"id": "medical_03285", "tokens": ["The", "cough", "associated", "with", "arthritis", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03286", "tokens": ["The", "chest", "pain", "associated", "with", "gastritis", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03287", "tokens": ["asthma", "patient", "reports", "cough", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03288", "tokens": ["The", "chest", "pain", "associated", "with", "asthma", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03289", "tokens": ["Treatment", "for", "hypertension", "includes", "omeprazole", "and", "surgery."]}
+{"id": "medical_03290", "tokens": ["For", "gastritis", "presenting", "with", "chest", "pain,", "recommend", "atorvastatin", "and", "surgery."]}
+{"id": "medical_03291", "tokens": ["Treatment", "for", "arthritis", "includes", "ibuprofen", "and", "diet", "modification."]}
+{"id": "medical_03292", "tokens": ["Initiated", "physical", "therapy", "and", "aspirin", "for", "pneumonia", "with", "dizziness."]}
+{"id": "medical_03293", "tokens": ["For", "hypertension", "presenting", "with", "pain,", "recommend", "omeprazole", "and", "surgery."]}
+{"id": "medical_03294", "tokens": ["Treatment", "for", "pneumonia", "includes", "omeprazole", "and", "wound", "care."]}
+{"id": "medical_03295", "tokens": ["Initiated", "rest", "and", "lisinopril", "for", "gastritis", "with", "fatigue."]}
+{"id": "medical_03296", "tokens": ["arthritis", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "metformin."]}
+{"id": "medical_03297", "tokens": ["Prescribed", "ibuprofen", "for", "pneumonia", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03298", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "shortness", "of", "breath", "which", "requires", "wound", "care."]}
+{"id": "medical_03299", "tokens": ["The", "fatigue", "associated", "with", "hypertension", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03300", "tokens": ["Patient", "presents", "with", "shortness", "of", "breath", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03301", "tokens": ["Prescribed", "lisinopril", "for", "asthma", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03302", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03303", "tokens": ["Treatment", "for", "gastritis", "includes", "atorvastatin", "and", "exercise."]}
+{"id": "medical_03304", "tokens": ["Prescribed", "albuterol", "for", "asthma", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03305", "tokens": ["The", "fever", "is", "characteristic", "of", "sinusitis", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03306", "tokens": ["diet", "modification", "combined", "with", "atorvastatin", "effectively", "manages", "asthma", "and", "fatigue."]}
+{"id": "medical_03307", "tokens": ["Initiated", "compression", "therapy", "and", "levothyroxine", "for", "pneumonia", "with", "inflammation."]}
+{"id": "medical_03308", "tokens": ["Prescribed", "ibuprofen", "for", "gastritis", "management", "along", "with", "diet", "modification."]}
+{"id": "medical_03309", "tokens": ["The", "shortness", "of", "breath", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03310", "tokens": ["hypertension", "patient", "reports", "fever", "despite", "taking", "ibuprofen."]}
+{"id": "medical_03311", "tokens": ["The", "pain", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03312", "tokens": ["Prescribed", "albuterol", "for", "arthritis", "management", "along", "with", "diet", "modification."]}
+{"id": "medical_03313", "tokens": ["The", "dizziness", "associated", "with", "asthma", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03314", "tokens": ["Prescribed", "metformin", "for", "bronchitis", "management", "along", "with", "counseling."]}
+{"id": "medical_03315", "tokens": ["Common", "symptoms", "of", "dermatitis", "include", "dizziness", "which", "requires", "diet", "modification."]}
+{"id": "medical_03316", "tokens": ["counseling", "combined", "with", "levothyroxine", "effectively", "manages", "dermatitis", "and", "fever."]}
+{"id": "medical_03317", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "dizziness", "which", "requires", "counseling."]}
+{"id": "medical_03318", "tokens": ["Patient", "presents", "with", "chest", "pain", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03319", "tokens": ["Treatment", "for", "gastritis", "includes", "atorvastatin", "and", "counseling."]}
+{"id": "medical_03320", "tokens": ["The", "headache", "associated", "with", "pneumonia", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03321", "tokens": ["Treatment", "for", "gastritis", "includes", "metformin", "and", "counseling."]}
+{"id": "medical_03322", "tokens": ["sinusitis", "patient", "reports", "chest", "pain", "despite", "taking", "metformin."]}
+{"id": "medical_03323", "tokens": ["Treatment", "for", "gastritis", "includes", "ibuprofen", "and", "diet", "modification."]}
+{"id": "medical_03324", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03325", "tokens": ["The", "nausea", "is", "characteristic", "of", "asthma", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03326", "tokens": ["The", "fever", "associated", "with", "asthma", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03327", "tokens": ["compression", "therapy", "combined", "with", "prednisone", "effectively", "manages", "dermatitis", "and", "shortness", "of", "breath."]}
+{"id": "medical_03328", "tokens": ["Treatment", "for", "hypertension", "includes", "atorvastatin", "and", "surgery."]}
+{"id": "medical_03329", "tokens": ["wound", "care", "combined", "with", "metformin", "effectively", "manages", "hypertension", "and", "fever."]}
+{"id": "medical_03330", "tokens": ["Common", "symptoms", "of", "diabetes", "include", "cough", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03331", "tokens": ["Prescribed", "ibuprofen", "for", "arthritis", "management", "along", "with", "surgery."]}
+{"id": "medical_03332", "tokens": ["diabetes", "patient", "reports", "fever", "despite", "taking", "metformin."]}
+{"id": "medical_03333", "tokens": ["Prescribed", "albuterol", "for", "arthritis", "management", "along", "with", "rest."]}
+{"id": "medical_03334", "tokens": ["wound", "care", "combined", "with", "ibuprofen", "effectively", "manages", "sinusitis", "and", "dizziness."]}
+{"id": "medical_03335", "tokens": ["For", "migraine", "presenting", "with", "pain,", "recommend", "amoxicillin", "and", "wound", "care."]}
+{"id": "medical_03336", "tokens": ["For", "migraine", "presenting", "with", "cough,", "recommend", "aspirin", "and", "exercise."]}
+{"id": "medical_03337", "tokens": ["Initiated", "surgery", "and", "levothyroxine", "for", "sinusitis", "with", "headache."]}
+{"id": "medical_03338", "tokens": ["The", "cough", "associated", "with", "dermatitis", "improved", "after", "lisinopril", "administration."]}
+{"id": "medical_03339", "tokens": ["Treatment", "for", "bronchitis", "includes", "albuterol", "and", "physical", "therapy."]}
+{"id": "medical_03340", "tokens": ["Prescribed", "prednisone", "for", "arthritis", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03341", "tokens": ["Treatment", "for", "sinusitis", "includes", "atorvastatin", "and", "surgery."]}
+{"id": "medical_03342", "tokens": ["The", "shortness", "of", "breath", "is", "characteristic", "of", "sinusitis", "and", "treated", "with", "metformin."]}
+{"id": "medical_03343", "tokens": ["The", "nausea", "is", "characteristic", "of", "asthma", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03344", "tokens": ["Initiated", "breathing", "exercises", "and", "prednisone", "for", "arthritis", "with", "inflammation."]}
+{"id": "medical_03345", "tokens": ["diabetes", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03346", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03347", "tokens": ["Prescribed", "aspirin", "for", "dermatitis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03348", "tokens": ["counseling", "combined", "with", "omeprazole", "effectively", "manages", "pneumonia", "and", "chest", "pain."]}
+{"id": "medical_03349", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03350", "tokens": ["Initiated", "counseling", "and", "levothyroxine", "for", "pneumonia", "with", "cough."]}
+{"id": "medical_03351", "tokens": ["For", "hypertension", "presenting", "with", "shortness", "of", "breath,", "recommend", "levothyroxine", "and", "diet", "modification."]}
+{"id": "medical_03352", "tokens": ["For", "sinusitis", "presenting", "with", "chest", "pain,", "recommend", "lisinopril", "and", "rest."]}
+{"id": "medical_03353", "tokens": ["The", "dizziness", "associated", "with", "hypertension", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03354", "tokens": ["Prescribed", "levothyroxine", "for", "sinusitis", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03355", "tokens": ["Initiated", "exercise", "and", "lisinopril", "for", "hypertension", "with", "headache."]}
+{"id": "medical_03356", "tokens": ["Common", "symptoms", "of", "migraine", "include", "fever", "which", "requires", "breathing", "exercises."]}
+{"id": "medical_03357", "tokens": ["Prescribed", "aspirin", "for", "sinusitis", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03358", "tokens": ["sinusitis", "patient", "reports", "fever", "despite", "taking", "omeprazole."]}
+{"id": "medical_03359", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "fever", "which", "requires", "counseling."]}
+{"id": "medical_03360", "tokens": ["Prescribed", "prednisone", "for", "hypertension", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03361", "tokens": ["For", "sinusitis", "presenting", "with", "headache,", "recommend", "metformin", "and", "exercise."]}
+{"id": "medical_03362", "tokens": ["Initiated", "diet", "modification", "and", "metformin", "for", "gastritis", "with", "chest", "pain."]}
+{"id": "medical_03363", "tokens": ["Patient", "presents", "with", "chest", "pain", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03364", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03365", "tokens": ["Prescribed", "metformin", "for", "pneumonia", "management", "along", "with", "counseling."]}
+{"id": "medical_03366", "tokens": ["Treatment", "for", "dermatitis", "includes", "levothyroxine", "and", "surgery."]}
+{"id": "medical_03367", "tokens": ["The", "fever", "is", "characteristic", "of", "arthritis", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03368", "tokens": ["lifestyle", "changes", "combined", "with", "albuterol", "effectively", "manages", "gastritis", "and", "fatigue."]}
+{"id": "medical_03369", "tokens": ["The", "fever", "is", "characteristic", "of", "arthritis", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03370", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "cough", "which", "requires", "counseling."]}
+{"id": "medical_03371", "tokens": ["The", "shortness", "of", "breath", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03372", "tokens": ["gastritis", "patient", "reports", "dizziness", "despite", "taking", "omeprazole."]}
+{"id": "medical_03373", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "shortness", "of", "breath", "which", "requires", "surgery."]}
+{"id": "medical_03374", "tokens": ["dermatitis", "patient", "reports", "fatigue", "despite", "taking", "aspirin."]}
+{"id": "medical_03375", "tokens": ["surgery", "combined", "with", "amoxicillin", "effectively", "manages", "diabetes", "and", "fever."]}
+{"id": "medical_03376", "tokens": ["Initiated", "diet", "modification", "and", "amoxicillin", "for", "asthma", "with", "fatigue."]}
+{"id": "medical_03377", "tokens": ["Prescribed", "albuterol", "for", "pneumonia", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03378", "tokens": ["Treatment", "for", "asthma", "includes", "lisinopril", "and", "lifestyle", "changes."]}
+{"id": "medical_03379", "tokens": ["Common", "symptoms", "of", "migraine", "include", "headache", "which", "requires", "wound", "care."]}
+{"id": "medical_03380", "tokens": ["For", "asthma", "presenting", "with", "fatigue,", "recommend", "albuterol", "and", "physical", "therapy."]}
+{"id": "medical_03381", "tokens": ["Patient", "presents", "with", "fever", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03382", "tokens": ["pneumonia", "patient", "reports", "pain", "despite", "taking", "lisinopril."]}
+{"id": "medical_03383", "tokens": ["For", "pneumonia", "presenting", "with", "dizziness,", "recommend", "atorvastatin", "and", "exercise."]}
+{"id": "medical_03384", "tokens": ["pneumonia", "patient", "reports", "pain", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03385", "tokens": ["The", "cough", "associated", "with", "pneumonia", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03386", "tokens": ["diabetes", "patient", "reports", "cough", "despite", "taking", "lisinopril."]}
+{"id": "medical_03387", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "chest", "pain", "which", "requires", "counseling."]}
+{"id": "medical_03388", "tokens": ["The", "cough", "is", "characteristic", "of", "migraine", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03389", "tokens": ["Prescribed", "levothyroxine", "for", "gastritis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03390", "tokens": ["Initiated", "physical", "therapy", "and", "metformin", "for", "hypertension", "with", "fatigue."]}
+{"id": "medical_03391", "tokens": ["The", "dizziness", "associated", "with", "asthma", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03392", "tokens": ["The", "dizziness", "associated", "with", "asthma", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03393", "tokens": ["The", "fatigue", "associated", "with", "arthritis", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03394", "tokens": ["Patient", "presents", "with", "dizziness", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03395", "tokens": ["The", "fever", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03396", "tokens": ["Initiated", "wound", "care", "and", "aspirin", "for", "bronchitis", "with", "fatigue."]}
+{"id": "medical_03397", "tokens": ["The", "nausea", "associated", "with", "sinusitis", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03398", "tokens": ["migraine", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03399", "tokens": ["For", "pneumonia", "presenting", "with", "fever,", "recommend", "lisinopril", "and", "rest."]}
+{"id": "medical_03400", "tokens": ["migraine", "patient", "reports", "nausea", "despite", "taking", "omeprazole."]}
+{"id": "medical_03401", "tokens": ["Initiated", "diet", "modification", "and", "amoxicillin", "for", "bronchitis", "with", "shortness", "of", "breath."]}
+{"id": "medical_03402", "tokens": ["For", "bronchitis", "presenting", "with", "chest", "pain,", "recommend", "aspirin", "and", "diet", "modification."]}
+{"id": "medical_03403", "tokens": ["Initiated", "wound", "care", "and", "prednisone", "for", "sinusitis", "with", "headache."]}
+{"id": "medical_03404", "tokens": ["Treatment", "for", "arthritis", "includes", "ibuprofen", "and", "wound", "care."]}
+{"id": "medical_03405", "tokens": ["Patient", "presents", "with", "headache", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03406", "tokens": ["The", "pain", "associated", "with", "dermatitis", "improved", "after", "lisinopril", "administration."]}
+{"id": "medical_03407", "tokens": ["Initiated", "compression", "therapy", "and", "lisinopril", "for", "pneumonia", "with", "cough."]}
+{"id": "medical_03408", "tokens": ["sinusitis", "patient", "reports", "pain", "despite", "taking", "lisinopril."]}
+{"id": "medical_03409", "tokens": ["lifestyle", "changes", "combined", "with", "levothyroxine", "effectively", "manages", "bronchitis", "and", "fatigue."]}
+{"id": "medical_03410", "tokens": ["Treatment", "for", "pneumonia", "includes", "levothyroxine", "and", "wound", "care."]}
+{"id": "medical_03411", "tokens": ["Treatment", "for", "bronchitis", "includes", "atorvastatin", "and", "breathing", "exercises."]}
+{"id": "medical_03412", "tokens": ["migraine", "patient", "reports", "pain", "despite", "taking", "lisinopril."]}
+{"id": "medical_03413", "tokens": ["Patient", "presents", "with", "chest", "pain", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03414", "tokens": ["pneumonia", "patient", "reports", "fever", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03415", "tokens": ["For", "pneumonia", "presenting", "with", "fatigue,", "recommend", "amoxicillin", "and", "rest."]}
+{"id": "medical_03416", "tokens": ["Initiated", "compression", "therapy", "and", "amoxicillin", "for", "migraine", "with", "nausea."]}
+{"id": "medical_03417", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03418", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "pneumonia", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03419", "tokens": ["The", "cough", "associated", "with", "gastritis", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03420", "tokens": ["The", "chest", "pain", "associated", "with", "hypertension", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03421", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03422", "tokens": ["breathing", "exercises", "combined", "with", "ibuprofen", "effectively", "manages", "asthma", "and", "fatigue."]}
+{"id": "medical_03423", "tokens": ["Common", "symptoms", "of", "diabetes", "include", "fatigue", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03424", "tokens": ["Initiated", "diet", "modification", "and", "omeprazole", "for", "hypertension", "with", "fatigue."]}
+{"id": "medical_03425", "tokens": ["gastritis", "patient", "reports", "chest", "pain", "despite", "taking", "omeprazole."]}
+{"id": "medical_03426", "tokens": ["Prescribed", "prednisone", "for", "bronchitis", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03427", "tokens": ["The", "headache", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "metformin."]}
+{"id": "medical_03428", "tokens": ["lifestyle", "changes", "combined", "with", "ibuprofen", "effectively", "manages", "sinusitis", "and", "chest", "pain."]}
+{"id": "medical_03429", "tokens": ["The", "inflammation", "associated", "with", "sinusitis", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03430", "tokens": ["For", "pneumonia", "presenting", "with", "fatigue,", "recommend", "metformin", "and", "rest."]}
+{"id": "medical_03431", "tokens": ["For", "dermatitis", "presenting", "with", "headache,", "recommend", "omeprazole", "and", "compression", "therapy."]}
+{"id": "medical_03432", "tokens": ["The", "fever", "is", "characteristic", "of", "migraine", "and", "treated", "with", "metformin."]}
+{"id": "medical_03433", "tokens": ["For", "gastritis", "presenting", "with", "inflammation,", "recommend", "atorvastatin", "and", "compression", "therapy."]}
+{"id": "medical_03434", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03435", "tokens": ["surgery", "combined", "with", "levothyroxine", "effectively", "manages", "migraine", "and", "chest", "pain."]}
+{"id": "medical_03436", "tokens": ["Initiated", "wound", "care", "and", "metformin", "for", "bronchitis", "with", "cough."]}
+{"id": "medical_03437", "tokens": ["diabetes", "patient", "reports", "pain", "despite", "taking", "albuterol."]}
+{"id": "medical_03438", "tokens": ["surgery", "combined", "with", "levothyroxine", "effectively", "manages", "hypertension", "and", "shortness", "of", "breath."]}
+{"id": "medical_03439", "tokens": ["For", "sinusitis", "presenting", "with", "inflammation,", "recommend", "amoxicillin", "and", "exercise."]}
+{"id": "medical_03440", "tokens": ["For", "diabetes", "presenting", "with", "shortness", "of", "breath,", "recommend", "levothyroxine", "and", "compression", "therapy."]}
+{"id": "medical_03441", "tokens": ["Common", "symptoms", "of", "asthma", "include", "inflammation", "which", "requires", "breathing", "exercises."]}
+{"id": "medical_03442", "tokens": ["Treatment", "for", "diabetes", "includes", "prednisone", "and", "rest."]}
+{"id": "medical_03443", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "sinusitis."]}
+{"id": "medical_03444", "tokens": ["For", "asthma", "presenting", "with", "fatigue,", "recommend", "metformin", "and", "lifestyle", "changes."]}
+{"id": "medical_03445", "tokens": ["Treatment", "for", "diabetes", "includes", "prednisone", "and", "rest."]}
+{"id": "medical_03446", "tokens": ["The", "chest", "pain", "associated", "with", "migraine", "improved", "after", "amoxicillin", "administration."]}
+{"id": "medical_03447", "tokens": ["The", "chest", "pain", "associated", "with", "migraine", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03448", "tokens": ["lifestyle", "changes", "combined", "with", "metformin", "effectively", "manages", "sinusitis", "and", "inflammation."]}
+{"id": "medical_03449", "tokens": ["Prescribed", "albuterol", "for", "asthma", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03450", "tokens": ["Treatment", "for", "gastritis", "includes", "lisinopril", "and", "compression", "therapy."]}
+{"id": "medical_03451", "tokens": ["The", "nausea", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03452", "tokens": ["wound", "care", "combined", "with", "prednisone", "effectively", "manages", "bronchitis", "and", "headache."]}
+{"id": "medical_03453", "tokens": ["For", "dermatitis", "presenting", "with", "shortness", "of", "breath,", "recommend", "levothyroxine", "and", "compression", "therapy."]}
+{"id": "medical_03454", "tokens": ["The", "fever", "associated", "with", "dermatitis", "improved", "after", "amoxicillin", "administration."]}
+{"id": "medical_03455", "tokens": ["Prescribed", "amoxicillin", "for", "dermatitis", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03456", "tokens": ["sinusitis", "patient", "reports", "fatigue", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03457", "tokens": ["Treatment", "for", "dermatitis", "includes", "metformin", "and", "counseling."]}
+{"id": "medical_03458", "tokens": ["The", "headache", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "metformin."]}
+{"id": "medical_03459", "tokens": ["The", "fever", "associated", "with", "hypertension", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03460", "tokens": ["Initiated", "compression", "therapy", "and", "prednisone", "for", "bronchitis", "with", "cough."]}
+{"id": "medical_03461", "tokens": ["Initiated", "breathing", "exercises", "and", "omeprazole", "for", "migraine", "with", "inflammation."]}
+{"id": "medical_03462", "tokens": ["The", "fever", "associated", "with", "diabetes", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03463", "tokens": ["The", "headache", "associated", "with", "bronchitis", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03464", "tokens": ["wound", "care", "combined", "with", "amoxicillin", "effectively", "manages", "bronchitis", "and", "cough."]}
+{"id": "medical_03465", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03466", "tokens": ["Initiated", "lifestyle", "changes", "and", "levothyroxine", "for", "hypertension", "with", "fever."]}
+{"id": "medical_03467", "tokens": ["migraine", "patient", "reports", "headache", "despite", "taking", "ibuprofen."]}
+{"id": "medical_03468", "tokens": ["The", "chest", "pain", "is", "characteristic", "of", "migraine", "and", "treated", "with", "metformin."]}
+{"id": "medical_03469", "tokens": ["asthma", "patient", "reports", "pain", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03470", "tokens": ["The", "cough", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "levothyroxine."]}
+{"id": "medical_03471", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03472", "tokens": ["The", "fatigue", "is", "characteristic", "of", "migraine", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03473", "tokens": ["The", "inflammation", "associated", "with", "bronchitis", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03474", "tokens": ["Prescribed", "levothyroxine", "for", "asthma", "management", "along", "with", "rest."]}
+{"id": "medical_03475", "tokens": ["Prescribed", "ibuprofen", "for", "dermatitis", "management", "along", "with", "counseling."]}
+{"id": "medical_03476", "tokens": ["Prescribed", "aspirin", "for", "gastritis", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03477", "tokens": ["Patient", "presents", "with", "headache", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03478", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "fever", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03479", "tokens": ["Treatment", "for", "dermatitis", "includes", "lisinopril", "and", "wound", "care."]}
+{"id": "medical_03480", "tokens": ["lifestyle", "changes", "combined", "with", "lisinopril", "effectively", "manages", "diabetes", "and", "nausea."]}
+{"id": "medical_03481", "tokens": ["The", "headache", "is", "characteristic", "of", "diabetes", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03482", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "chest", "pain", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03483", "tokens": ["The", "chest", "pain", "associated", "with", "pneumonia", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03484", "tokens": ["diabetes", "patient", "reports", "fever", "despite", "taking", "albuterol."]}
+{"id": "medical_03485", "tokens": ["Prescribed", "metformin", "for", "pneumonia", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03486", "tokens": ["Treatment", "for", "bronchitis", "includes", "levothyroxine", "and", "physical", "therapy."]}
+{"id": "medical_03487", "tokens": ["The", "headache", "is", "characteristic", "of", "gastritis", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03488", "tokens": ["Treatment", "for", "bronchitis", "includes", "ibuprofen", "and", "rest."]}
+{"id": "medical_03489", "tokens": ["exercise", "combined", "with", "levothyroxine", "effectively", "manages", "arthritis", "and", "headache."]}
+{"id": "medical_03490", "tokens": ["For", "migraine", "presenting", "with", "pain,", "recommend", "atorvastatin", "and", "compression", "therapy."]}
+{"id": "medical_03491", "tokens": ["exercise", "combined", "with", "albuterol", "effectively", "manages", "asthma", "and", "dizziness."]}
+{"id": "medical_03492", "tokens": ["The", "fatigue", "associated", "with", "asthma", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03493", "tokens": ["sinusitis", "patient", "reports", "pain", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03494", "tokens": ["Prescribed", "metformin", "for", "bronchitis", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03495", "tokens": ["Prescribed", "prednisone", "for", "diabetes", "management", "along", "with", "counseling."]}
+{"id": "medical_03496", "tokens": ["The", "headache", "associated", "with", "dermatitis", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03497", "tokens": ["Initiated", "surgery", "and", "levothyroxine", "for", "migraine", "with", "shortness", "of", "breath."]}
+{"id": "medical_03498", "tokens": ["sinusitis", "patient", "reports", "headache", "despite", "taking", "ibuprofen."]}
+{"id": "medical_03499", "tokens": ["Patient", "presents", "with", "shortness", "of", "breath", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03500", "tokens": ["The", "headache", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03501", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03502", "tokens": ["Initiated", "compression", "therapy", "and", "lisinopril", "for", "gastritis", "with", "dizziness."]}
+{"id": "medical_03503", "tokens": ["Treatment", "for", "pneumonia", "includes", "aspirin", "and", "counseling."]}
+{"id": "medical_03504", "tokens": ["Prescribed", "amoxicillin", "for", "diabetes", "management", "along", "with", "surgery."]}
+{"id": "medical_03505", "tokens": ["Treatment", "for", "pneumonia", "includes", "lisinopril", "and", "lifestyle", "changes."]}
+{"id": "medical_03506", "tokens": ["sinusitis", "patient", "reports", "nausea", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03507", "tokens": ["hypertension", "patient", "reports", "chest", "pain", "despite", "taking", "metformin."]}
+{"id": "medical_03508", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "cough", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03509", "tokens": ["For", "bronchitis", "presenting", "with", "chest", "pain,", "recommend", "prednisone", "and", "counseling."]}
+{"id": "medical_03510", "tokens": ["bronchitis", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "metformin."]}
+{"id": "medical_03511", "tokens": ["The", "inflammation", "associated", "with", "diabetes", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03512", "tokens": ["The", "headache", "associated", "with", "sinusitis", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03513", "tokens": ["Common", "symptoms", "of", "pneumonia", "include", "headache", "which", "requires", "wound", "care."]}
+{"id": "medical_03514", "tokens": ["Patient", "presents", "with", "dizziness", "and", "was", "diagnosed", "with", "sinusitis."]}
+{"id": "medical_03515", "tokens": ["sinusitis", "patient", "reports", "pain", "despite", "taking", "aspirin."]}
+{"id": "medical_03516", "tokens": ["Prescribed", "amoxicillin", "for", "gastritis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03517", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "chest", "pain", "which", "requires", "surgery."]}
+{"id": "medical_03518", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "migraine", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03519", "tokens": ["Common", "symptoms", "of", "asthma", "include", "fatigue", "which", "requires", "wound", "care."]}
+{"id": "medical_03520", "tokens": ["rest", "combined", "with", "omeprazole", "effectively", "manages", "asthma", "and", "nausea."]}
+{"id": "medical_03521", "tokens": ["The", "pain", "associated", "with", "gastritis", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03522", "tokens": ["Patient", "presents", "with", "headache", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03523", "tokens": ["Common", "symptoms", "of", "asthma", "include", "headache", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03524", "tokens": ["arthritis", "patient", "reports", "pain", "despite", "taking", "lisinopril."]}
+{"id": "medical_03525", "tokens": ["For", "sinusitis", "presenting", "with", "nausea,", "recommend", "aspirin", "and", "counseling."]}
+{"id": "medical_03526", "tokens": ["hypertension", "patient", "reports", "headache", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03527", "tokens": ["diet", "modification", "combined", "with", "aspirin", "effectively", "manages", "diabetes", "and", "inflammation."]}
+{"id": "medical_03528", "tokens": ["The", "headache", "associated", "with", "asthma", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03529", "tokens": ["arthritis", "patient", "reports", "fever", "despite", "taking", "ibuprofen."]}
+{"id": "medical_03530", "tokens": ["Treatment", "for", "arthritis", "includes", "aspirin", "and", "surgery."]}
+{"id": "medical_03531", "tokens": ["Treatment", "for", "arthritis", "includes", "atorvastatin", "and", "counseling."]}
+{"id": "medical_03532", "tokens": ["Initiated", "breathing", "exercises", "and", "amoxicillin", "for", "hypertension", "with", "headache."]}
+{"id": "medical_03533", "tokens": ["The", "fever", "is", "characteristic", "of", "sinusitis", "and", "treated", "with", "prednisone."]}
+{"id": "medical_03534", "tokens": ["Treatment", "for", "arthritis", "includes", "prednisone", "and", "lifestyle", "changes."]}
+{"id": "medical_03535", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03536", "tokens": ["Treatment", "for", "sinusitis", "includes", "omeprazole", "and", "surgery."]}
+{"id": "medical_03537", "tokens": ["For", "gastritis", "presenting", "with", "chest", "pain,", "recommend", "albuterol", "and", "rest."]}
+{"id": "medical_03538", "tokens": ["Initiated", "breathing", "exercises", "and", "albuterol", "for", "gastritis", "with", "cough."]}
+{"id": "medical_03539", "tokens": ["Treatment", "for", "bronchitis", "includes", "aspirin", "and", "lifestyle", "changes."]}
+{"id": "medical_03540", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03541", "tokens": ["Treatment", "for", "migraine", "includes", "amoxicillin", "and", "diet", "modification."]}
+{"id": "medical_03542", "tokens": ["Common", "symptoms", "of", "asthma", "include", "pain", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03543", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "pain", "which", "requires", "diet", "modification."]}
+{"id": "medical_03544", "tokens": ["physical", "therapy", "combined", "with", "metformin", "effectively", "manages", "hypertension", "and", "pain."]}
+{"id": "medical_03545", "tokens": ["Treatment", "for", "hypertension", "includes", "atorvastatin", "and", "exercise."]}
+{"id": "medical_03546", "tokens": ["breathing", "exercises", "combined", "with", "albuterol", "effectively", "manages", "pneumonia", "and", "nausea."]}
+{"id": "medical_03547", "tokens": ["For", "hypertension", "presenting", "with", "chest", "pain,", "recommend", "amoxicillin", "and", "rest."]}
+{"id": "medical_03548", "tokens": ["exercise", "combined", "with", "aspirin", "effectively", "manages", "migraine", "and", "cough."]}
+{"id": "medical_03549", "tokens": ["For", "migraine", "presenting", "with", "headache,", "recommend", "metformin", "and", "diet", "modification."]}
+{"id": "medical_03550", "tokens": ["Prescribed", "amoxicillin", "for", "dermatitis", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03551", "tokens": ["surgery", "combined", "with", "prednisone", "effectively", "manages", "gastritis", "and", "pain."]}
+{"id": "medical_03552", "tokens": ["Treatment", "for", "migraine", "includes", "levothyroxine", "and", "surgery."]}
+{"id": "medical_03553", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "dizziness", "which", "requires", "surgery."]}
+{"id": "medical_03554", "tokens": ["The", "dizziness", "associated", "with", "pneumonia", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03555", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03556", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "fatigue", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03557", "tokens": ["The", "dizziness", "associated", "with", "sinusitis", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03558", "tokens": ["Common", "symptoms", "of", "pneumonia", "include", "chest", "pain", "which", "requires", "wound", "care."]}
+{"id": "medical_03559", "tokens": ["Treatment", "for", "gastritis", "includes", "albuterol", "and", "exercise."]}
+{"id": "medical_03560", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03561", "tokens": ["Prescribed", "albuterol", "for", "bronchitis", "management", "along", "with", "rest."]}
+{"id": "medical_03562", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03563", "tokens": ["Common", "symptoms", "of", "diabetes", "include", "fever", "which", "requires", "rest."]}
+{"id": "medical_03564", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "nausea", "which", "requires", "rest."]}
+{"id": "medical_03565", "tokens": ["Initiated", "exercise", "and", "omeprazole", "for", "diabetes", "with", "fatigue."]}
+{"id": "medical_03566", "tokens": ["The", "chest", "pain", "associated", "with", "asthma", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03567", "tokens": ["Prescribed", "ibuprofen", "for", "hypertension", "management", "along", "with", "diet", "modification."]}
+{"id": "medical_03568", "tokens": ["Common", "symptoms", "of", "migraine", "include", "cough", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03569", "tokens": ["breathing", "exercises", "combined", "with", "atorvastatin", "effectively", "manages", "migraine", "and", "fever."]}
+{"id": "medical_03570", "tokens": ["For", "asthma", "presenting", "with", "fever,", "recommend", "omeprazole", "and", "physical", "therapy."]}
+{"id": "medical_03571", "tokens": ["Patient", "presents", "with", "headache", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03572", "tokens": ["Common", "symptoms", "of", "asthma", "include", "nausea", "which", "requires", "counseling."]}
+{"id": "medical_03573", "tokens": ["For", "dermatitis", "presenting", "with", "shortness", "of", "breath,", "recommend", "metformin", "and", "lifestyle", "changes."]}
+{"id": "medical_03574", "tokens": ["Treatment", "for", "dermatitis", "includes", "ibuprofen", "and", "compression", "therapy."]}
+{"id": "medical_03575", "tokens": ["diet", "modification", "combined", "with", "metformin", "effectively", "manages", "dermatitis", "and", "nausea."]}
+{"id": "medical_03576", "tokens": ["Initiated", "rest", "and", "levothyroxine", "for", "arthritis", "with", "dizziness."]}
+{"id": "medical_03577", "tokens": ["The", "pain", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03578", "tokens": ["Prescribed", "omeprazole", "for", "migraine", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03579", "tokens": ["Initiated", "breathing", "exercises", "and", "prednisone", "for", "asthma", "with", "fever."]}
+{"id": "medical_03580", "tokens": ["The", "pain", "is", "characteristic", "of", "asthma", "and", "treated", "with", "levothyroxine."]}
+{"id": "medical_03581", "tokens": ["Patient", "presents", "with", "headache", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03582", "tokens": ["Prescribed", "amoxicillin", "for", "dermatitis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03583", "tokens": ["migraine", "patient", "reports", "inflammation", "despite", "taking", "prednisone."]}
+{"id": "medical_03584", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03585", "tokens": ["arthritis", "patient", "reports", "inflammation", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03586", "tokens": ["surgery", "combined", "with", "levothyroxine", "effectively", "manages", "bronchitis", "and", "cough."]}
+{"id": "medical_03587", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "shortness", "of", "breath", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03588", "tokens": ["The", "chest", "pain", "associated", "with", "sinusitis", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03589", "tokens": ["Initiated", "rest", "and", "amoxicillin", "for", "sinusitis", "with", "chest", "pain."]}
+{"id": "medical_03590", "tokens": ["The", "chest", "pain", "associated", "with", "sinusitis", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03591", "tokens": ["Initiated", "breathing", "exercises", "and", "prednisone", "for", "asthma", "with", "fatigue."]}
+{"id": "medical_03592", "tokens": ["The", "inflammation", "associated", "with", "arthritis", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03593", "tokens": ["diet", "modification", "combined", "with", "prednisone", "effectively", "manages", "gastritis", "and", "dizziness."]}
+{"id": "medical_03594", "tokens": ["The", "headache", "associated", "with", "pneumonia", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03595", "tokens": ["The", "headache", "is", "characteristic", "of", "asthma", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03596", "tokens": ["The", "fatigue", "associated", "with", "bronchitis", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03597", "tokens": ["Initiated", "exercise", "and", "ibuprofen", "for", "asthma", "with", "pain."]}
+{"id": "medical_03598", "tokens": ["Treatment", "for", "diabetes", "includes", "metformin", "and", "surgery."]}
+{"id": "medical_03599", "tokens": ["counseling", "combined", "with", "albuterol", "effectively", "manages", "hypertension", "and", "fever."]}
+{"id": "medical_03600", "tokens": ["Patient", "presents", "with", "fever", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03601", "tokens": ["rest", "combined", "with", "metformin", "effectively", "manages", "migraine", "and", "inflammation."]}
+{"id": "medical_03602", "tokens": ["Prescribed", "metformin", "for", "bronchitis", "management", "along", "with", "rest."]}
+{"id": "medical_03603", "tokens": ["Prescribed", "albuterol", "for", "bronchitis", "management", "along", "with", "counseling."]}
+{"id": "medical_03604", "tokens": ["For", "migraine", "presenting", "with", "chest", "pain,", "recommend", "atorvastatin", "and", "surgery."]}
+{"id": "medical_03605", "tokens": ["The", "headache", "is", "characteristic", "of", "gastritis", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03606", "tokens": ["The", "cough", "associated", "with", "gastritis", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03607", "tokens": ["Patient", "presents", "with", "shortness", "of", "breath", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03608", "tokens": ["arthritis", "patient", "reports", "headache", "despite", "taking", "albuterol."]}
+{"id": "medical_03609", "tokens": ["The", "nausea", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "aspirin."]}
+{"id": "medical_03610", "tokens": ["Treatment", "for", "asthma", "includes", "aspirin", "and", "lifestyle", "changes."]}
+{"id": "medical_03611", "tokens": ["Common", "symptoms", "of", "asthma", "include", "headache", "which", "requires", "surgery."]}
+{"id": "medical_03612", "tokens": ["Prescribed", "albuterol", "for", "asthma", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03613", "tokens": ["Patient", "presents", "with", "chest", "pain", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03614", "tokens": ["dermatitis", "patient", "reports", "cough", "despite", "taking", "ibuprofen."]}
+{"id": "medical_03615", "tokens": ["For", "arthritis", "presenting", "with", "inflammation,", "recommend", "metformin", "and", "compression", "therapy."]}
+{"id": "medical_03616", "tokens": ["Treatment", "for", "arthritis", "includes", "lisinopril", "and", "surgery."]}
+{"id": "medical_03617", "tokens": ["rest", "combined", "with", "aspirin", "effectively", "manages", "diabetes", "and", "headache."]}
+{"id": "medical_03618", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "migraine", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03619", "tokens": ["Treatment", "for", "asthma", "includes", "aspirin", "and", "lifestyle", "changes."]}
+{"id": "medical_03620", "tokens": ["For", "sinusitis", "presenting", "with", "inflammation,", "recommend", "atorvastatin", "and", "lifestyle", "changes."]}
+{"id": "medical_03621", "tokens": ["Prescribed", "amoxicillin", "for", "gastritis", "management", "along", "with", "rest."]}
+{"id": "medical_03622", "tokens": ["Common", "symptoms", "of", "migraine", "include", "fatigue", "which", "requires", "rest."]}
+{"id": "medical_03623", "tokens": ["Treatment", "for", "bronchitis", "includes", "aspirin", "and", "physical", "therapy."]}
+{"id": "medical_03624", "tokens": ["For", "sinusitis", "presenting", "with", "headache,", "recommend", "aspirin", "and", "physical", "therapy."]}
+{"id": "medical_03625", "tokens": ["Common", "symptoms", "of", "migraine", "include", "shortness", "of", "breath", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03626", "tokens": ["Initiated", "physical", "therapy", "and", "ibuprofen", "for", "arthritis", "with", "shortness", "of", "breath."]}
+{"id": "medical_03627", "tokens": ["The", "fatigue", "associated", "with", "bronchitis", "improved", "after", "lisinopril", "administration."]}
+{"id": "medical_03628", "tokens": ["The", "fatigue", "associated", "with", "diabetes", "improved", "after", "amoxicillin", "administration."]}
+{"id": "medical_03629", "tokens": ["Common", "symptoms", "of", "pneumonia", "include", "fever", "which", "requires", "counseling."]}
+{"id": "medical_03630", "tokens": ["arthritis", "patient", "reports", "cough", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03631", "tokens": ["The", "fever", "is", "characteristic", "of", "asthma", "and", "treated", "with", "levothyroxine."]}
+{"id": "medical_03632", "tokens": ["Prescribed", "amoxicillin", "for", "bronchitis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03633", "tokens": ["Prescribed", "aspirin", "for", "asthma", "management", "along", "with", "rest."]}
+{"id": "medical_03634", "tokens": ["The", "fatigue", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03635", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03636", "tokens": ["gastritis", "patient", "reports", "nausea", "despite", "taking", "metformin."]}
+{"id": "medical_03637", "tokens": ["The", "fever", "is", "characteristic", "of", "arthritis", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03638", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "cough", "which", "requires", "breathing", "exercises."]}
+{"id": "medical_03639", "tokens": ["The", "fever", "associated", "with", "sinusitis", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03640", "tokens": ["The", "chest", "pain", "associated", "with", "migraine", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03641", "tokens": ["asthma", "patient", "reports", "headache", "despite", "taking", "prednisone."]}
+{"id": "medical_03642", "tokens": ["Initiated", "compression", "therapy", "and", "levothyroxine", "for", "sinusitis", "with", "fever."]}
+{"id": "medical_03643", "tokens": ["surgery", "combined", "with", "amoxicillin", "effectively", "manages", "sinusitis", "and", "nausea."]}
+{"id": "medical_03644", "tokens": ["The", "cough", "associated", "with", "hypertension", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03645", "tokens": ["For", "asthma", "presenting", "with", "cough,", "recommend", "prednisone", "and", "physical", "therapy."]}
+{"id": "medical_03646", "tokens": ["Common", "symptoms", "of", "pneumonia", "include", "cough", "which", "requires", "exercise."]}
+{"id": "medical_03647", "tokens": ["The", "pain", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03648", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03649", "tokens": ["surgery", "combined", "with", "atorvastatin", "effectively", "manages", "arthritis", "and", "nausea."]}
+{"id": "medical_03650", "tokens": ["The", "nausea", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03651", "tokens": ["The", "dizziness", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03652", "tokens": ["For", "bronchitis", "presenting", "with", "chest", "pain,", "recommend", "levothyroxine", "and", "physical", "therapy."]}
+{"id": "medical_03653", "tokens": ["Treatment", "for", "bronchitis", "includes", "atorvastatin", "and", "breathing", "exercises."]}
+{"id": "medical_03654", "tokens": ["Initiated", "exercise", "and", "ibuprofen", "for", "gastritis", "with", "inflammation."]}
+{"id": "medical_03655", "tokens": ["For", "migraine", "presenting", "with", "dizziness,", "recommend", "atorvastatin", "and", "compression", "therapy."]}
+{"id": "medical_03656", "tokens": ["The", "cough", "is", "characteristic", "of", "sinusitis", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03657", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "chest", "pain", "which", "requires", "diet", "modification."]}
+{"id": "medical_03658", "tokens": ["For", "bronchitis", "presenting", "with", "chest", "pain,", "recommend", "amoxicillin", "and", "wound", "care."]}
+{"id": "medical_03659", "tokens": ["Prescribed", "amoxicillin", "for", "gastritis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03660", "tokens": ["The", "cough", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03661", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "sinusitis."]}
+{"id": "medical_03662", "tokens": ["The", "cough", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "aspirin."]}
+{"id": "medical_03663", "tokens": ["hypertension", "patient", "reports", "cough", "despite", "taking", "albuterol."]}
+{"id": "medical_03664", "tokens": ["Initiated", "compression", "therapy", "and", "amoxicillin", "for", "sinusitis", "with", "nausea."]}
+{"id": "medical_03665", "tokens": ["Common", "symptoms", "of", "pneumonia", "include", "inflammation", "which", "requires", "wound", "care."]}
+{"id": "medical_03666", "tokens": ["Initiated", "lifestyle", "changes", "and", "omeprazole", "for", "bronchitis", "with", "headache."]}
+{"id": "medical_03667", "tokens": ["Treatment", "for", "gastritis", "includes", "atorvastatin", "and", "diet", "modification."]}
+{"id": "medical_03668", "tokens": ["Treatment", "for", "bronchitis", "includes", "metformin", "and", "wound", "care."]}
+{"id": "medical_03669", "tokens": ["The", "headache", "is", "characteristic", "of", "sinusitis", "and", "treated", "with", "levothyroxine."]}
+{"id": "medical_03670", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "sinusitis."]}
+{"id": "medical_03671", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03672", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "fatigue", "which", "requires", "breathing", "exercises."]}
+{"id": "medical_03673", "tokens": ["Prescribed", "albuterol", "for", "pneumonia", "management", "along", "with", "wound", "care."]}
+{"id": "medical_03674", "tokens": ["hypertension", "patient", "reports", "cough", "despite", "taking", "albuterol."]}
+{"id": "medical_03675", "tokens": ["diabetes", "patient", "reports", "dizziness", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03676", "tokens": ["diet", "modification", "combined", "with", "aspirin", "effectively", "manages", "diabetes", "and", "pain."]}
+{"id": "medical_03677", "tokens": ["Patient", "presents", "with", "dizziness", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03678", "tokens": ["Treatment", "for", "pneumonia", "includes", "amoxicillin", "and", "compression", "therapy."]}
+{"id": "medical_03679", "tokens": ["For", "arthritis", "presenting", "with", "cough,", "recommend", "prednisone", "and", "wound", "care."]}
+{"id": "medical_03680", "tokens": ["gastritis", "patient", "reports", "headache", "despite", "taking", "albuterol."]}
+{"id": "medical_03681", "tokens": ["Patient", "presents", "with", "fever", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03682", "tokens": ["asthma", "patient", "reports", "nausea", "despite", "taking", "lisinopril."]}
+{"id": "medical_03683", "tokens": ["For", "asthma", "presenting", "with", "fever,", "recommend", "ibuprofen", "and", "breathing", "exercises."]}
+{"id": "medical_03684", "tokens": ["Initiated", "compression", "therapy", "and", "ibuprofen", "for", "gastritis", "with", "dizziness."]}
+{"id": "medical_03685", "tokens": ["Initiated", "physical", "therapy", "and", "lisinopril", "for", "hypertension", "with", "shortness", "of", "breath."]}
+{"id": "medical_03686", "tokens": ["Patient", "presents", "with", "chest", "pain", "and", "was", "diagnosed", "with", "hypertension."]}
+{"id": "medical_03687", "tokens": ["sinusitis", "patient", "reports", "nausea", "despite", "taking", "aspirin."]}
+{"id": "medical_03688", "tokens": ["diabetes", "patient", "reports", "headache", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03689", "tokens": ["The", "pain", "is", "characteristic", "of", "migraine", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03690", "tokens": ["asthma", "patient", "reports", "cough", "despite", "taking", "prednisone."]}
+{"id": "medical_03691", "tokens": ["For", "gastritis", "presenting", "with", "headache,", "recommend", "albuterol", "and", "exercise."]}
+{"id": "medical_03692", "tokens": ["counseling", "combined", "with", "ibuprofen", "effectively", "manages", "diabetes", "and", "fatigue."]}
+{"id": "medical_03693", "tokens": ["Prescribed", "ibuprofen", "for", "sinusitis", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03694", "tokens": ["sinusitis", "patient", "reports", "cough", "despite", "taking", "prednisone."]}
+{"id": "medical_03695", "tokens": ["For", "diabetes", "presenting", "with", "headache,", "recommend", "ibuprofen", "and", "rest."]}
+{"id": "medical_03696", "tokens": ["Patient", "presents", "with", "chest", "pain", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03697", "tokens": ["Prescribed", "lisinopril", "for", "dermatitis", "management", "along", "with", "exercise."]}
+{"id": "medical_03698", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03699", "tokens": ["For", "migraine", "presenting", "with", "nausea,", "recommend", "aspirin", "and", "counseling."]}
+{"id": "medical_03700", "tokens": ["Initiated", "exercise", "and", "omeprazole", "for", "diabetes", "with", "cough."]}
+{"id": "medical_03701", "tokens": ["The", "shortness", "of", "breath", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03702", "tokens": ["For", "diabetes", "presenting", "with", "headache,", "recommend", "metformin", "and", "diet", "modification."]}
+{"id": "medical_03703", "tokens": ["The", "fever", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03704", "tokens": ["Initiated", "surgery", "and", "omeprazole", "for", "bronchitis", "with", "headache."]}
+{"id": "medical_03705", "tokens": ["Patient", "presents", "with", "shortness", "of", "breath", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03706", "tokens": ["lifestyle", "changes", "combined", "with", "omeprazole", "effectively", "manages", "hypertension", "and", "shortness", "of", "breath."]}
+{"id": "medical_03707", "tokens": ["Prescribed", "albuterol", "for", "gastritis", "management", "along", "with", "lifestyle", "changes."]}
+{"id": "medical_03708", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "shortness", "of", "breath", "which", "requires", "surgery."]}
+{"id": "medical_03709", "tokens": ["For", "diabetes", "presenting", "with", "cough,", "recommend", "prednisone", "and", "surgery."]}
+{"id": "medical_03710", "tokens": ["surgery", "combined", "with", "lisinopril", "effectively", "manages", "arthritis", "and", "nausea."]}
+{"id": "medical_03711", "tokens": ["The", "pain", "is", "characteristic", "of", "gastritis", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03712", "tokens": ["The", "headache", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03713", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "bronchitis."]}
+{"id": "medical_03714", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "inflammation", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03715", "tokens": ["The", "inflammation", "associated", "with", "dermatitis", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03716", "tokens": ["breathing", "exercises", "combined", "with", "omeprazole", "effectively", "manages", "asthma", "and", "pain."]}
+{"id": "medical_03717", "tokens": ["The", "dizziness", "is", "characteristic", "of", "migraine", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03718", "tokens": ["counseling", "combined", "with", "metformin", "effectively", "manages", "gastritis", "and", "cough."]}
+{"id": "medical_03719", "tokens": ["Treatment", "for", "dermatitis", "includes", "albuterol", "and", "surgery."]}
+{"id": "medical_03720", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "arthritis", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03721", "tokens": ["Initiated", "breathing", "exercises", "and", "metformin", "for", "asthma", "with", "pain."]}
+{"id": "medical_03722", "tokens": ["For", "pneumonia", "presenting", "with", "shortness", "of", "breath,", "recommend", "ibuprofen", "and", "breathing", "exercises."]}
+{"id": "medical_03723", "tokens": ["Treatment", "for", "migraine", "includes", "aspirin", "and", "surgery."]}
+{"id": "medical_03724", "tokens": ["The", "pain", "associated", "with", "bronchitis", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03725", "tokens": ["The", "headache", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03726", "tokens": ["The", "cough", "associated", "with", "hypertension", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03727", "tokens": ["The", "fatigue", "associated", "with", "gastritis", "improved", "after", "prednisone", "administration."]}
+{"id": "medical_03728", "tokens": ["The", "inflammation", "associated", "with", "sinusitis", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03729", "tokens": ["Treatment", "for", "gastritis", "includes", "albuterol", "and", "compression", "therapy."]}
+{"id": "medical_03730", "tokens": ["physical", "therapy", "combined", "with", "amoxicillin", "effectively", "manages", "dermatitis", "and", "headache."]}
+{"id": "medical_03731", "tokens": ["For", "hypertension", "presenting", "with", "dizziness,", "recommend", "ibuprofen", "and", "surgery."]}
+{"id": "medical_03732", "tokens": ["Prescribed", "metformin", "for", "hypertension", "management", "along", "with", "diet", "modification."]}
+{"id": "medical_03733", "tokens": ["The", "dizziness", "is", "characteristic", "of", "migraine", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03734", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "chest", "pain", "which", "requires", "diet", "modification."]}
+{"id": "medical_03735", "tokens": ["Treatment", "for", "migraine", "includes", "lisinopril", "and", "counseling."]}
+{"id": "medical_03736", "tokens": ["surgery", "combined", "with", "ibuprofen", "effectively", "manages", "sinusitis", "and", "fever."]}
+{"id": "medical_03737", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "chest", "pain", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03738", "tokens": ["Prescribed", "aspirin", "for", "gastritis", "management", "along", "with", "wound", "care."]}
+{"id": "medical_03739", "tokens": ["The", "fatigue", "associated", "with", "asthma", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03740", "tokens": ["The", "pain", "associated", "with", "diabetes", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03741", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "dizziness", "which", "requires", "breathing", "exercises."]}
+{"id": "medical_03742", "tokens": ["Treatment", "for", "bronchitis", "includes", "aspirin", "and", "surgery."]}
+{"id": "medical_03743", "tokens": ["pneumonia", "patient", "reports", "dizziness", "despite", "taking", "prednisone."]}
+{"id": "medical_03744", "tokens": ["dermatitis", "patient", "reports", "inflammation", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03745", "tokens": ["Treatment", "for", "asthma", "includes", "metformin", "and", "breathing", "exercises."]}
+{"id": "medical_03746", "tokens": ["The", "headache", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "aspirin."]}
+{"id": "medical_03747", "tokens": ["For", "arthritis", "presenting", "with", "nausea,", "recommend", "metformin", "and", "breathing", "exercises."]}
+{"id": "medical_03748", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "nausea", "which", "requires", "diet", "modification."]}
+{"id": "medical_03749", "tokens": ["Initiated", "lifestyle", "changes", "and", "lisinopril", "for", "sinusitis", "with", "headache."]}
+{"id": "medical_03750", "tokens": ["Initiated", "exercise", "and", "ibuprofen", "for", "bronchitis", "with", "shortness", "of", "breath."]}
+{"id": "medical_03751", "tokens": ["dermatitis", "patient", "reports", "inflammation", "despite", "taking", "prednisone."]}
+{"id": "medical_03752", "tokens": ["wound", "care", "combined", "with", "prednisone", "effectively", "manages", "arthritis", "and", "chest", "pain."]}
+{"id": "medical_03753", "tokens": ["counseling", "combined", "with", "metformin", "effectively", "manages", "asthma", "and", "shortness", "of", "breath."]}
+{"id": "medical_03754", "tokens": ["lifestyle", "changes", "combined", "with", "omeprazole", "effectively", "manages", "hypertension", "and", "dizziness."]}
+{"id": "medical_03755", "tokens": ["dermatitis", "patient", "reports", "chest", "pain", "despite", "taking", "aspirin."]}
+{"id": "medical_03756", "tokens": ["Prescribed", "amoxicillin", "for", "hypertension", "management", "along", "with", "counseling."]}
+{"id": "medical_03757", "tokens": ["The", "fatigue", "associated", "with", "asthma", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03758", "tokens": ["Initiated", "lifestyle", "changes", "and", "albuterol", "for", "pneumonia", "with", "dizziness."]}
+{"id": "medical_03759", "tokens": ["The", "dizziness", "associated", "with", "bronchitis", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03760", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "dizziness", "which", "requires", "wound", "care."]}
+{"id": "medical_03761", "tokens": ["Patient", "presents", "with", "shortness", "of", "breath", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03762", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "headache", "which", "requires", "breathing", "exercises."]}
+{"id": "medical_03763", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03764", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03765", "tokens": ["For", "bronchitis", "presenting", "with", "fatigue,", "recommend", "amoxicillin", "and", "surgery."]}
+{"id": "medical_03766", "tokens": ["For", "arthritis", "presenting", "with", "fatigue,", "recommend", "ibuprofen", "and", "compression", "therapy."]}
+{"id": "medical_03767", "tokens": ["Initiated", "lifestyle", "changes", "and", "ibuprofen", "for", "pneumonia", "with", "pain."]}
+{"id": "medical_03768", "tokens": ["Initiated", "physical", "therapy", "and", "prednisone", "for", "bronchitis", "with", "nausea."]}
+{"id": "medical_03769", "tokens": ["Initiated", "lifestyle", "changes", "and", "prednisone", "for", "bronchitis", "with", "dizziness."]}
+{"id": "medical_03770", "tokens": ["For", "pneumonia", "presenting", "with", "inflammation,", "recommend", "ibuprofen", "and", "exercise."]}
+{"id": "medical_03771", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "hypertension."]}
+{"id": "medical_03772", "tokens": ["For", "sinusitis", "presenting", "with", "inflammation,", "recommend", "omeprazole", "and", "lifestyle", "changes."]}
+{"id": "medical_03773", "tokens": ["Initiated", "counseling", "and", "amoxicillin", "for", "hypertension", "with", "pain."]}
+{"id": "medical_03774", "tokens": ["Common", "symptoms", "of", "diabetes", "include", "pain", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03775", "tokens": ["Initiated", "rest", "and", "omeprazole", "for", "arthritis", "with", "pain."]}
+{"id": "medical_03776", "tokens": ["compression", "therapy", "combined", "with", "prednisone", "effectively", "manages", "dermatitis", "and", "fatigue."]}
+{"id": "medical_03777", "tokens": ["arthritis", "patient", "reports", "fever", "despite", "taking", "lisinopril."]}
+{"id": "medical_03778", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03779", "tokens": ["Treatment", "for", "pneumonia", "includes", "prednisone", "and", "wound", "care."]}
+{"id": "medical_03780", "tokens": ["Treatment", "for", "dermatitis", "includes", "atorvastatin", "and", "surgery."]}
+{"id": "medical_03781", "tokens": ["Treatment", "for", "diabetes", "includes", "aspirin", "and", "rest."]}
+{"id": "medical_03782", "tokens": ["Prescribed", "prednisone", "for", "sinusitis", "management", "along", "with", "diet", "modification."]}
+{"id": "medical_03783", "tokens": ["counseling", "combined", "with", "omeprazole", "effectively", "manages", "bronchitis", "and", "dizziness."]}
+{"id": "medical_03784", "tokens": ["Treatment", "for", "bronchitis", "includes", "aspirin", "and", "lifestyle", "changes."]}
+{"id": "medical_03785", "tokens": ["The", "nausea", "is", "characteristic", "of", "bronchitis", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03786", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "fever", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03787", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03788", "tokens": ["Treatment", "for", "hypertension", "includes", "aspirin", "and", "wound", "care."]}
+{"id": "medical_03789", "tokens": ["dermatitis", "patient", "reports", "dizziness", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03790", "tokens": ["rest", "combined", "with", "atorvastatin", "effectively", "manages", "migraine", "and", "chest", "pain."]}
+{"id": "medical_03791", "tokens": ["diabetes", "patient", "reports", "shortness", "of", "breath", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03792", "tokens": ["wound", "care", "combined", "with", "lisinopril", "effectively", "manages", "gastritis", "and", "headache."]}
+{"id": "medical_03793", "tokens": ["diet", "modification", "combined", "with", "ibuprofen", "effectively", "manages", "dermatitis", "and", "inflammation."]}
+{"id": "medical_03794", "tokens": ["Prescribed", "levothyroxine", "for", "migraine", "management", "along", "with", "wound", "care."]}
+{"id": "medical_03795", "tokens": ["Prescribed", "lisinopril", "for", "gastritis", "management", "along", "with", "counseling."]}
+{"id": "medical_03796", "tokens": ["For", "diabetes", "presenting", "with", "cough,", "recommend", "ibuprofen", "and", "physical", "therapy."]}
+{"id": "medical_03797", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03798", "tokens": ["sinusitis", "patient", "reports", "cough", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03799", "tokens": ["Treatment", "for", "dermatitis", "includes", "prednisone", "and", "physical", "therapy."]}
+{"id": "medical_03800", "tokens": ["Common", "symptoms", "of", "dermatitis", "include", "fever", "which", "requires", "exercise."]}
+{"id": "medical_03801", "tokens": ["The", "chest", "pain", "associated", "with", "arthritis", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03802", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "hypertension."]}
+{"id": "medical_03803", "tokens": ["For", "asthma", "presenting", "with", "nausea,", "recommend", "lisinopril", "and", "physical", "therapy."]}
+{"id": "medical_03804", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03805", "tokens": ["Common", "symptoms", "of", "migraine", "include", "nausea", "which", "requires", "exercise."]}
+{"id": "medical_03806", "tokens": ["The", "fatigue", "associated", "with", "arthritis", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03807", "tokens": ["Initiated", "counseling", "and", "ibuprofen", "for", "arthritis", "with", "dizziness."]}
+{"id": "medical_03808", "tokens": ["compression", "therapy", "combined", "with", "amoxicillin", "effectively", "manages", "asthma", "and", "cough."]}
+{"id": "medical_03809", "tokens": ["Prescribed", "prednisone", "for", "asthma", "management", "along", "with", "counseling."]}
+{"id": "medical_03810", "tokens": ["For", "arthritis", "presenting", "with", "headache,", "recommend", "metformin", "and", "exercise."]}
+{"id": "medical_03811", "tokens": ["Common", "symptoms", "of", "asthma", "include", "headache", "which", "requires", "rest."]}
+{"id": "medical_03812", "tokens": ["Treatment", "for", "arthritis", "includes", "ibuprofen", "and", "surgery."]}
+{"id": "medical_03813", "tokens": ["For", "asthma", "presenting", "with", "shortness", "of", "breath,", "recommend", "albuterol", "and", "rest."]}
+{"id": "medical_03814", "tokens": ["Initiated", "diet", "modification", "and", "lisinopril", "for", "pneumonia", "with", "shortness", "of", "breath."]}
+{"id": "medical_03815", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03816", "tokens": ["counseling", "combined", "with", "ibuprofen", "effectively", "manages", "bronchitis", "and", "inflammation."]}
+{"id": "medical_03817", "tokens": ["Prescribed", "prednisone", "for", "asthma", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03818", "tokens": ["migraine", "patient", "reports", "inflammation", "despite", "taking", "metformin."]}
+{"id": "medical_03819", "tokens": ["The", "fatigue", "is", "characteristic", "of", "asthma", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03820", "tokens": ["The", "dizziness", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03821", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03822", "tokens": ["Patient", "presents", "with", "dizziness", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03823", "tokens": ["The", "dizziness", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "amoxicillin."]}
+{"id": "medical_03824", "tokens": ["For", "dermatitis", "presenting", "with", "fatigue,", "recommend", "aspirin", "and", "exercise."]}
+{"id": "medical_03825", "tokens": ["The", "fever", "associated", "with", "hypertension", "improved", "after", "metformin", "administration."]}
+{"id": "medical_03826", "tokens": ["For", "diabetes", "presenting", "with", "pain,", "recommend", "ibuprofen", "and", "counseling."]}
+{"id": "medical_03827", "tokens": ["Patient", "presents", "with", "fever", "and", "was", "diagnosed", "with", "hypertension."]}
+{"id": "medical_03828", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "cough", "which", "requires", "rest."]}
+{"id": "medical_03829", "tokens": ["For", "dermatitis", "presenting", "with", "fatigue,", "recommend", "omeprazole", "and", "exercise."]}
+{"id": "medical_03830", "tokens": ["Prescribed", "aspirin", "for", "migraine", "management", "along", "with", "exercise."]}
+{"id": "medical_03831", "tokens": ["For", "dermatitis", "presenting", "with", "cough,", "recommend", "amoxicillin", "and", "lifestyle", "changes."]}
+{"id": "medical_03832", "tokens": ["Treatment", "for", "hypertension", "includes", "albuterol", "and", "physical", "therapy."]}
+{"id": "medical_03833", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "fever", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03834", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "fatigue", "which", "requires", "diet", "modification."]}
+{"id": "medical_03835", "tokens": ["diabetes", "patient", "reports", "dizziness", "despite", "taking", "albuterol."]}
+{"id": "medical_03836", "tokens": ["compression", "therapy", "combined", "with", "albuterol", "effectively", "manages", "asthma", "and", "chest", "pain."]}
+{"id": "medical_03837", "tokens": ["For", "migraine", "presenting", "with", "shortness", "of", "breath,", "recommend", "atorvastatin", "and", "compression", "therapy."]}
+{"id": "medical_03838", "tokens": ["Patient", "presents", "with", "fatigue", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03839", "tokens": ["For", "bronchitis", "presenting", "with", "fatigue,", "recommend", "ibuprofen", "and", "breathing", "exercises."]}
+{"id": "medical_03840", "tokens": ["diabetes", "patient", "reports", "chest", "pain", "despite", "taking", "aspirin."]}
+{"id": "medical_03841", "tokens": ["The", "fatigue", "associated", "with", "asthma", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03842", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "dizziness", "which", "requires", "exercise."]}
+{"id": "medical_03843", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "diabetes", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03844", "tokens": ["Common", "symptoms", "of", "asthma", "include", "headache", "which", "requires", "rest."]}
+{"id": "medical_03845", "tokens": ["For", "diabetes", "presenting", "with", "cough,", "recommend", "amoxicillin", "and", "exercise."]}
+{"id": "medical_03846", "tokens": ["The", "inflammation", "associated", "with", "asthma", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03847", "tokens": ["The", "inflammation", "is", "characteristic", "of", "asthma", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03848", "tokens": ["lifestyle", "changes", "combined", "with", "amoxicillin", "effectively", "manages", "bronchitis", "and", "pain."]}
+{"id": "medical_03849", "tokens": ["For", "asthma", "presenting", "with", "inflammation,", "recommend", "levothyroxine", "and", "exercise."]}
+{"id": "medical_03850", "tokens": ["Treatment", "for", "migraine", "includes", "aspirin", "and", "wound", "care."]}
+{"id": "medical_03851", "tokens": ["The", "fever", "associated", "with", "arthritis", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03852", "tokens": ["lifestyle", "changes", "combined", "with", "metformin", "effectively", "manages", "asthma", "and", "cough."]}
+{"id": "medical_03853", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "gastritis."]}
+{"id": "medical_03854", "tokens": ["The", "nausea", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "levothyroxine."]}
+{"id": "medical_03855", "tokens": ["The", "inflammation", "is", "characteristic", "of", "asthma", "and", "treated", "with", "levothyroxine."]}
+{"id": "medical_03856", "tokens": ["Initiated", "counseling", "and", "albuterol", "for", "hypertension", "with", "inflammation."]}
+{"id": "medical_03857", "tokens": ["Prescribed", "amoxicillin", "for", "migraine", "management", "along", "with", "rest."]}
+{"id": "medical_03858", "tokens": ["Prescribed", "levothyroxine", "for", "dermatitis", "management", "along", "with", "rest."]}
+{"id": "medical_03859", "tokens": ["For", "sinusitis", "presenting", "with", "chest", "pain,", "recommend", "aspirin", "and", "breathing", "exercises."]}
+{"id": "medical_03860", "tokens": ["lifestyle", "changes", "combined", "with", "omeprazole", "effectively", "manages", "gastritis", "and", "fatigue."]}
+{"id": "medical_03861", "tokens": ["diabetes", "patient", "reports", "headache", "despite", "taking", "albuterol."]}
+{"id": "medical_03862", "tokens": ["The", "chest", "pain", "is", "characteristic", "of", "pneumonia", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03863", "tokens": ["Initiated", "counseling", "and", "amoxicillin", "for", "sinusitis", "with", "dizziness."]}
+{"id": "medical_03864", "tokens": ["Initiated", "lifestyle", "changes", "and", "prednisone", "for", "dermatitis", "with", "nausea."]}
+{"id": "medical_03865", "tokens": ["Treatment", "for", "migraine", "includes", "prednisone", "and", "lifestyle", "changes."]}
+{"id": "medical_03866", "tokens": ["breathing", "exercises", "combined", "with", "levothyroxine", "effectively", "manages", "arthritis", "and", "fatigue."]}
+{"id": "medical_03867", "tokens": ["Common", "symptoms", "of", "migraine", "include", "pain", "which", "requires", "counseling."]}
+{"id": "medical_03868", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "diabetes."]}
+{"id": "medical_03869", "tokens": ["Initiated", "wound", "care", "and", "ibuprofen", "for", "diabetes", "with", "dizziness."]}
+{"id": "medical_03870", "tokens": ["surgery", "combined", "with", "albuterol", "effectively", "manages", "dermatitis", "and", "inflammation."]}
+{"id": "medical_03871", "tokens": ["lifestyle", "changes", "combined", "with", "albuterol", "effectively", "manages", "migraine", "and", "inflammation."]}
+{"id": "medical_03872", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "pneumonia."]}
+{"id": "medical_03873", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "headache", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03874", "tokens": ["The", "chest", "pain", "associated", "with", "diabetes", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03875", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "fever", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03876", "tokens": ["Initiated", "wound", "care", "and", "amoxicillin", "for", "pneumonia", "with", "shortness", "of", "breath."]}
+{"id": "medical_03877", "tokens": ["The", "inflammation", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "aspirin."]}
+{"id": "medical_03878", "tokens": ["hypertension", "patient", "reports", "cough", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03879", "tokens": ["Initiated", "breathing", "exercises", "and", "levothyroxine", "for", "bronchitis", "with", "inflammation."]}
+{"id": "medical_03880", "tokens": ["The", "fever", "is", "characteristic", "of", "gastritis", "and", "treated", "with", "metformin."]}
+{"id": "medical_03881", "tokens": ["surgery", "combined", "with", "metformin", "effectively", "manages", "gastritis", "and", "inflammation."]}
+{"id": "medical_03882", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "cough", "which", "requires", "counseling."]}
+{"id": "medical_03883", "tokens": ["The", "dizziness", "is", "characteristic", "of", "diabetes", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03884", "tokens": ["counseling", "combined", "with", "omeprazole", "effectively", "manages", "gastritis", "and", "dizziness."]}
+{"id": "medical_03885", "tokens": ["exercise", "combined", "with", "prednisone", "effectively", "manages", "dermatitis", "and", "cough."]}
+{"id": "medical_03886", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03887", "tokens": ["Initiated", "surgery", "and", "lisinopril", "for", "pneumonia", "with", "shortness", "of", "breath."]}
+{"id": "medical_03888", "tokens": ["The", "fever", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03889", "tokens": ["The", "pain", "associated", "with", "arthritis", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03890", "tokens": ["Initiated", "breathing", "exercises", "and", "ibuprofen", "for", "migraine", "with", "cough."]}
+{"id": "medical_03891", "tokens": ["The", "chest", "pain", "associated", "with", "hypertension", "improved", "after", "atorvastatin", "administration."]}
+{"id": "medical_03892", "tokens": ["Initiated", "rest", "and", "levothyroxine", "for", "gastritis", "with", "fever."]}
+{"id": "medical_03893", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03894", "tokens": ["For", "bronchitis", "presenting", "with", "fatigue,", "recommend", "ibuprofen", "and", "exercise."]}
+{"id": "medical_03895", "tokens": ["Treatment", "for", "hypertension", "includes", "omeprazole", "and", "breathing", "exercises."]}
+{"id": "medical_03896", "tokens": ["Prescribed", "metformin", "for", "dermatitis", "management", "along", "with", "wound", "care."]}
+{"id": "medical_03897", "tokens": ["compression", "therapy", "combined", "with", "atorvastatin", "effectively", "manages", "dermatitis", "and", "nausea."]}
+{"id": "medical_03898", "tokens": ["The", "nausea", "is", "characteristic", "of", "gastritis", "and", "treated", "with", "lisinopril."]}
+{"id": "medical_03899", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "fever", "which", "requires", "exercise."]}
+{"id": "medical_03900", "tokens": ["Common", "symptoms", "of", "diabetes", "include", "nausea", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03901", "tokens": ["Treatment", "for", "sinusitis", "includes", "atorvastatin", "and", "counseling."]}
+{"id": "medical_03902", "tokens": ["Treatment", "for", "migraine", "includes", "lisinopril", "and", "exercise."]}
+{"id": "medical_03903", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "inflammation", "which", "requires", "exercise."]}
+{"id": "medical_03904", "tokens": ["The", "headache", "associated", "with", "bronchitis", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03905", "tokens": ["Treatment", "for", "dermatitis", "includes", "omeprazole", "and", "breathing", "exercises."]}
+{"id": "medical_03906", "tokens": ["Initiated", "breathing", "exercises", "and", "lisinopril", "for", "pneumonia", "with", "inflammation."]}
+{"id": "medical_03907", "tokens": ["For", "arthritis", "presenting", "with", "dizziness,", "recommend", "albuterol", "and", "lifestyle", "changes."]}
+{"id": "medical_03908", "tokens": ["Prescribed", "metformin", "for", "bronchitis", "management", "along", "with", "breathing", "exercises."]}
+{"id": "medical_03909", "tokens": ["Treatment", "for", "gastritis", "includes", "prednisone", "and", "breathing", "exercises."]}
+{"id": "medical_03910", "tokens": ["Initiated", "exercise", "and", "omeprazole", "for", "sinusitis", "with", "inflammation."]}
+{"id": "medical_03911", "tokens": ["Initiated", "lifestyle", "changes", "and", "metformin", "for", "diabetes", "with", "inflammation."]}
+{"id": "medical_03912", "tokens": ["The", "nausea", "associated", "with", "arthritis", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03913", "tokens": ["The", "fever", "is", "characteristic", "of", "migraine", "and", "treated", "with", "metformin."]}
+{"id": "medical_03914", "tokens": ["For", "migraine", "presenting", "with", "shortness", "of", "breath,", "recommend", "lisinopril", "and", "diet", "modification."]}
+{"id": "medical_03915", "tokens": ["The", "nausea", "associated", "with", "migraine", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03916", "tokens": ["Initiated", "wound", "care", "and", "atorvastatin", "for", "arthritis", "with", "cough."]}
+{"id": "medical_03917", "tokens": ["arthritis", "patient", "reports", "pain", "despite", "taking", "metformin."]}
+{"id": "medical_03918", "tokens": ["Treatment", "for", "diabetes", "includes", "omeprazole", "and", "wound", "care."]}
+{"id": "medical_03919", "tokens": ["Common", "symptoms", "of", "sinusitis", "include", "nausea", "which", "requires", "wound", "care."]}
+{"id": "medical_03920", "tokens": ["Initiated", "diet", "modification", "and", "metformin", "for", "bronchitis", "with", "fever."]}
+{"id": "medical_03921", "tokens": ["Initiated", "wound", "care", "and", "albuterol", "for", "pneumonia", "with", "fever."]}
+{"id": "medical_03922", "tokens": ["Initiated", "breathing", "exercises", "and", "lisinopril", "for", "diabetes", "with", "dizziness."]}
+{"id": "medical_03923", "tokens": ["bronchitis", "patient", "reports", "cough", "despite", "taking", "lisinopril."]}
+{"id": "medical_03924", "tokens": ["rest", "combined", "with", "levothyroxine", "effectively", "manages", "dermatitis", "and", "shortness", "of", "breath."]}
+{"id": "medical_03925", "tokens": ["rest", "combined", "with", "levothyroxine", "effectively", "manages", "hypertension", "and", "cough."]}
+{"id": "medical_03926", "tokens": ["Treatment", "for", "bronchitis", "includes", "amoxicillin", "and", "exercise."]}
+{"id": "medical_03927", "tokens": ["Prescribed", "albuterol", "for", "asthma", "management", "along", "with", "surgery."]}
+{"id": "medical_03928", "tokens": ["Common", "symptoms", "of", "dermatitis", "include", "inflammation", "which", "requires", "diet", "modification."]}
+{"id": "medical_03929", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "dizziness", "which", "requires", "wound", "care."]}
+{"id": "medical_03930", "tokens": ["Treatment", "for", "diabetes", "includes", "ibuprofen", "and", "lifestyle", "changes."]}
+{"id": "medical_03931", "tokens": ["diabetes", "patient", "reports", "fatigue", "despite", "taking", "amoxicillin."]}
+{"id": "medical_03932", "tokens": ["Prescribed", "lisinopril", "for", "diabetes", "management", "along", "with", "compression", "therapy."]}
+{"id": "medical_03933", "tokens": ["Prescribed", "amoxicillin", "for", "diabetes", "management", "along", "with", "exercise."]}
+{"id": "medical_03934", "tokens": ["rest", "combined", "with", "ibuprofen", "effectively", "manages", "sinusitis", "and", "inflammation."]}
+{"id": "medical_03935", "tokens": ["The", "cough", "associated", "with", "sinusitis", "improved", "after", "albuterol", "administration."]}
+{"id": "medical_03936", "tokens": ["sinusitis", "patient", "reports", "cough", "despite", "taking", "levothyroxine."]}
+{"id": "medical_03937", "tokens": ["Patient", "presents", "with", "headache", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03938", "tokens": ["Treatment", "for", "bronchitis", "includes", "atorvastatin", "and", "diet", "modification."]}
+{"id": "medical_03939", "tokens": ["Common", "symptoms", "of", "bronchitis", "include", "pain", "which", "requires", "physical", "therapy."]}
+{"id": "medical_03940", "tokens": ["Prescribed", "metformin", "for", "sinusitis", "management", "along", "with", "surgery."]}
+{"id": "medical_03941", "tokens": ["For", "hypertension", "presenting", "with", "fever,", "recommend", "prednisone", "and", "wound", "care."]}
+{"id": "medical_03942", "tokens": ["Initiated", "diet", "modification", "and", "atorvastatin", "for", "asthma", "with", "chest", "pain."]}
+{"id": "medical_03943", "tokens": ["Treatment", "for", "gastritis", "includes", "atorvastatin", "and", "surgery."]}
+{"id": "medical_03944", "tokens": ["diabetes", "patient", "reports", "dizziness", "despite", "taking", "lisinopril."]}
+{"id": "medical_03945", "tokens": ["counseling", "combined", "with", "prednisone", "effectively", "manages", "migraine", "and", "cough."]}
+{"id": "medical_03946", "tokens": ["The", "nausea", "associated", "with", "hypertension", "improved", "after", "levothyroxine", "administration."]}
+{"id": "medical_03947", "tokens": ["Prescribed", "levothyroxine", "for", "gastritis", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03948", "tokens": ["For", "pneumonia", "presenting", "with", "cough,", "recommend", "atorvastatin", "and", "lifestyle", "changes."]}
+{"id": "medical_03949", "tokens": ["Common", "symptoms", "of", "asthma", "include", "headache", "which", "requires", "compression", "therapy."]}
+{"id": "medical_03950", "tokens": ["wound", "care", "combined", "with", "ibuprofen", "effectively", "manages", "asthma", "and", "pain."]}
+{"id": "medical_03951", "tokens": ["breathing", "exercises", "combined", "with", "metformin", "effectively", "manages", "hypertension", "and", "shortness", "of", "breath."]}
+{"id": "medical_03952", "tokens": ["The", "nausea", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "aspirin."]}
+{"id": "medical_03953", "tokens": ["The", "dizziness", "is", "characteristic", "of", "hypertension", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03954", "tokens": ["Initiated", "compression", "therapy", "and", "prednisone", "for", "diabetes", "with", "inflammation."]}
+{"id": "medical_03955", "tokens": ["Patient", "presents", "with", "dizziness", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03956", "tokens": ["Treatment", "for", "bronchitis", "includes", "albuterol", "and", "compression", "therapy."]}
+{"id": "medical_03957", "tokens": ["diet", "modification", "combined", "with", "metformin", "effectively", "manages", "asthma", "and", "chest", "pain."]}
+{"id": "medical_03958", "tokens": ["The", "inflammation", "associated", "with", "asthma", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03959", "tokens": ["The", "shortness", "of", "breath", "associated", "with", "hypertension", "improved", "after", "lisinopril", "administration."]}
+{"id": "medical_03960", "tokens": ["migraine", "patient", "reports", "dizziness", "despite", "taking", "omeprazole."]}
+{"id": "medical_03961", "tokens": ["Patient", "presents", "with", "dizziness", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03962", "tokens": ["Common", "symptoms", "of", "arthritis", "include", "shortness", "of", "breath", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03963", "tokens": ["The", "shortness", "of", "breath", "is", "characteristic", "of", "diabetes", "and", "treated", "with", "ibuprofen."]}
+{"id": "medical_03964", "tokens": ["arthritis", "patient", "reports", "nausea", "despite", "taking", "albuterol."]}
+{"id": "medical_03965", "tokens": ["migraine", "patient", "reports", "cough", "despite", "taking", "atorvastatin."]}
+{"id": "medical_03966", "tokens": ["For", "sinusitis", "presenting", "with", "fever,", "recommend", "atorvastatin", "and", "wound", "care."]}
+{"id": "medical_03967", "tokens": ["The", "cough", "is", "characteristic", "of", "diabetes", "and", "treated", "with", "atorvastatin."]}
+{"id": "medical_03968", "tokens": ["Common", "symptoms", "of", "gastritis", "include", "shortness", "of", "breath", "which", "requires", "exercise."]}
+{"id": "medical_03969", "tokens": ["The", "inflammation", "is", "characteristic", "of", "dermatitis", "and", "treated", "with", "omeprazole."]}
+{"id": "medical_03970", "tokens": ["Common", "symptoms", "of", "hypertension", "include", "cough", "which", "requires", "lifestyle", "changes."]}
+{"id": "medical_03971", "tokens": ["Treatment", "for", "pneumonia", "includes", "atorvastatin", "and", "physical", "therapy."]}
+{"id": "medical_03972", "tokens": ["The", "fever", "associated", "with", "migraine", "improved", "after", "omeprazole", "administration."]}
+{"id": "medical_03973", "tokens": ["Treatment", "for", "hypertension", "includes", "lisinopril", "and", "physical", "therapy."]}
+{"id": "medical_03974", "tokens": ["Prescribed", "aspirin", "for", "dermatitis", "management", "along", "with", "counseling."]}
+{"id": "medical_03975", "tokens": ["Prescribed", "lisinopril", "for", "diabetes", "management", "along", "with", "wound", "care."]}
+{"id": "medical_03976", "tokens": ["The", "cough", "associated", "with", "asthma", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03977", "tokens": ["The", "dizziness", "associated", "with", "gastritis", "improved", "after", "ibuprofen", "administration."]}
+{"id": "medical_03978", "tokens": ["asthma", "patient", "reports", "nausea", "despite", "taking", "lisinopril."]}
+{"id": "medical_03979", "tokens": ["Patient", "presents", "with", "cough", "and", "was", "diagnosed", "with", "asthma."]}
+{"id": "medical_03980", "tokens": ["For", "sinusitis", "presenting", "with", "headache,", "recommend", "aspirin", "and", "counseling."]}
+{"id": "medical_03981", "tokens": ["lifestyle", "changes", "combined", "with", "lisinopril", "effectively", "manages", "diabetes", "and", "nausea."]}
+{"id": "medical_03982", "tokens": ["Initiated", "counseling", "and", "albuterol", "for", "asthma", "with", "fever."]}
+{"id": "medical_03983", "tokens": ["For", "dermatitis", "presenting", "with", "fever,", "recommend", "ibuprofen", "and", "lifestyle", "changes."]}
+{"id": "medical_03984", "tokens": ["Patient", "presents", "with", "inflammation", "and", "was", "diagnosed", "with", "sinusitis."]}
+{"id": "medical_03985", "tokens": ["Initiated", "counseling", "and", "albuterol", "for", "gastritis", "with", "fatigue."]}
+{"id": "medical_03986", "tokens": ["For", "arthritis", "presenting", "with", "shortness", "of", "breath,", "recommend", "prednisone", "and", "diet", "modification."]}
+{"id": "medical_03987", "tokens": ["The", "fatigue", "associated", "with", "migraine", "improved", "after", "amoxicillin", "administration."]}
+{"id": "medical_03988", "tokens": ["Treatment", "for", "asthma", "includes", "amoxicillin", "and", "surgery."]}
+{"id": "medical_03989", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "dermatitis."]}
+{"id": "medical_03990", "tokens": ["Prescribed", "levothyroxine", "for", "pneumonia", "management", "along", "with", "counseling."]}
+{"id": "medical_03991", "tokens": ["The", "fever", "is", "characteristic", "of", "asthma", "and", "treated", "with", "albuterol."]}
+{"id": "medical_03992", "tokens": ["Patient", "presents", "with", "pain", "and", "was", "diagnosed", "with", "migraine."]}
+{"id": "medical_03993", "tokens": ["Patient", "presents", "with", "nausea", "and", "was", "diagnosed", "with", "arthritis."]}
+{"id": "medical_03994", "tokens": ["Prescribed", "prednisone", "for", "gastritis", "management", "along", "with", "physical", "therapy."]}
+{"id": "medical_03995", "tokens": ["Initiated", "exercise", "and", "amoxicillin", "for", "bronchitis", "with", "inflammation."]}
+{"id": "medical_03996", "tokens": ["For", "arthritis", "presenting", "with", "inflammation,", "recommend", "metformin", "and", "diet", "modification."]}
+{"id": "medical_03997", "tokens": ["For", "dermatitis", "presenting", "with", "inflammation,", "recommend", "amoxicillin", "and", "rest."]}
+{"id": "medical_03998", "tokens": ["The", "pain", "associated", "with", "sinusitis", "improved", "after", "aspirin", "administration."]}
+{"id": "medical_03999", "tokens": ["The", "cough", "is", "characteristic", "of", "arthritis", "and", "treated", "with", "lisinopril."]}

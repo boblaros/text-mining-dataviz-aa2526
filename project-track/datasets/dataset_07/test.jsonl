@@ -1,0 +1,800 @@
+{"id": "product_03200", "tokens": ["The", "wireless", "Canon", "television", "is", "priced", "at", "$499."]}
+{"id": "product_03201", "tokens": ["Apple's", "latest", "speaker", "offers", "fast", "charging", "for", "$149."]}
+{"id": "product_03202", "tokens": ["New", "Sony", "tablet", "available", "for", "$799", "with", "portable", "design."]}
+{"id": "product_03203", "tokens": ["Get", "the", "touch", "screen", "Samsung", "smartwatch", "today", "for", "$149."]}
+{"id": "product_03204", "tokens": ["Buy", "the", "Canon", "headphones", "-", "noise", "cancelling", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03205", "tokens": ["Buy", "the", "Apple", "monitor", "-", "lightweight", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03206", "tokens": ["Buy", "the", "Sony", "camera", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03207", "tokens": ["The", "Apple", "laptop", "costs", "$999", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03208", "tokens": ["New", "Adidas", "laptop", "available", "for", "$1", ",", "299", "with", "fast", "charging", "design."]}
+{"id": "product_03209", "tokens": ["Great", "deal:", "HP", "smartwatch", "(", "wireless", ")", "now", "only", "$599!"]}
+{"id": "product_03210", "tokens": ["Great", "deal:", "Apple", "smartwatch", "(", "wireless", ")", "now", "only", "$149!"]}
+{"id": "product_03211", "tokens": ["The", "noise", "cancelling", "LG", "smartphone", "is", "priced", "at", "$299."]}
+{"id": "product_03212", "tokens": ["Nike", "announces", "monitor", "with", "portable", "at", "$1", ",", "299."]}
+{"id": "product_03213", "tokens": ["Great", "deal:", "Dell", "television", "(", "waterproof", ")", "now", "only", "$999!"]}
+{"id": "product_03214", "tokens": ["Buy", "the", "Canon", "tablet", "-", "portable", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03215", "tokens": ["Get", "the", "touch", "screen", "Nike", "camera", "today", "for", "$1", ",", "299."]}
+{"id": "product_03216", "tokens": ["Looking", "for", "a", "portable", "television?", "The", "LG", "model", "is", "$499."]}
+{"id": "product_03217", "tokens": ["Adidas's", "latest", "smartphone", "offers", "noise", "cancelling", "for", "$1", ",", "299."]}
+{"id": "product_03218", "tokens": ["The", "Apple", "headphones", "costs", "$999", "and", "features", "wireless", "technology."]}
+{"id": "product_03219", "tokens": ["Great", "deal:", "Apple", "keyboard", "(", "ergonomic", ")", "now", "only", "$599!"]}
+{"id": "product_03220", "tokens": ["New", "Dell", "laptop", "available", "for", "$299", "with", "ergonomic", "design."]}
+{"id": "product_03221", "tokens": ["Premium", "Adidas", "monitor", "with", "4K", "resolution", "available", "at", "$1", ",", "499."]}
+{"id": "product_03222", "tokens": ["Canon", "announces", "smartphone", "with", "touch", "screen", "at", "$149."]}
+{"id": "product_03223", "tokens": ["Looking", "for", "a", "4K", "resolution", "television?", "The", "Nike", "model", "is", "$1", ",", "499."]}
+{"id": "product_03224", "tokens": ["New", "Adidas", "headphones", "available", "for", "$599", "with", "HD", "display", "design."]}
+{"id": "product_03225", "tokens": ["Nike", "announces", "laptop", "with", "ergonomic", "at", "$499."]}
+{"id": "product_03226", "tokens": ["The", "HD", "display", "Adidas", "camera", "is", "priced", "at", "$999."]}
+{"id": "product_03227", "tokens": ["Buy", "the", "Samsung", "smartphone", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03228", "tokens": ["Premium", "Sony", "laptop", "with", "lightweight", "available", "at", "$499."]}
+{"id": "product_03229", "tokens": ["Great", "deal:", "Dell", "laptop", "(", "portable", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03230", "tokens": ["Great", "deal:", "Dell", "speaker", "(", "4K", "resolution", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03231", "tokens": ["Premium", "Adidas", "television", "with", "wireless", "available", "at", "$599."]}
+{"id": "product_03232", "tokens": ["New", "Dell", "laptop", "available", "for", "$799", "with", "fast", "charging", "design."]}
+{"id": "product_03233", "tokens": ["The", "Sony", "keyboard", "costs", "$799", "and", "features", "wireless", "technology."]}
+{"id": "product_03234", "tokens": ["Great", "deal:", "Adidas", "smartwatch", "(", "wireless", ")", "now", "only", "$999!"]}
+{"id": "product_03235", "tokens": ["Buy", "the", "Samsung", "smartwatch", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03236", "tokens": ["The", "Samsung", "tablet", "costs", "$499", "and", "features", "portable", "technology."]}
+{"id": "product_03237", "tokens": ["New", "Samsung", "keyboard", "available", "for", "$799", "with", "noise", "cancelling", "design."]}
+{"id": "product_03238", "tokens": ["Apple", "announces", "smartphone", "with", "4K", "resolution", "at", "$799."]}
+{"id": "product_03239", "tokens": ["Get", "the", "lightweight", "Canon", "camera", "today", "for", "$1", ",", "299."]}
+{"id": "product_03240", "tokens": ["Adidas", "announces", "speaker", "with", "wireless", "at", "$299."]}
+{"id": "product_03241", "tokens": ["LG's", "latest", "smartwatch", "offers", "ergonomic", "for", "$499."]}
+{"id": "product_03242", "tokens": ["Looking", "for", "a", "HD", "display", "headphones?", "The", "Nike", "model", "is", "$499."]}
+{"id": "product_03243", "tokens": ["Buy", "the", "HP", "tablet", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03244", "tokens": ["Great", "deal:", "Sony", "television", "(", "4K", "resolution", ")", "now", "only", "$999!"]}
+{"id": "product_03245", "tokens": ["The", "portable", "Canon", "smartphone", "is", "priced", "at", "$599."]}
+{"id": "product_03246", "tokens": ["Lenovo", "announces", "tablet", "with", "lightweight", "at", "$1", ",", "299."]}
+{"id": "product_03247", "tokens": ["Nike's", "latest", "keyboard", "offers", "noise", "cancelling", "for", "$999."]}
+{"id": "product_03248", "tokens": ["Looking", "for", "a", "4K", "resolution", "television?", "The", "Apple", "model", "is", "$1", ",", "299."]}
+{"id": "product_03249", "tokens": ["Buy", "the", "Lenovo", "television", "-", "touch", "screen", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03250", "tokens": ["New", "Canon", "television", "available", "for", "$1", ",", "299", "with", "HD", "display", "design."]}
+{"id": "product_03251", "tokens": ["New", "Adidas", "smartphone", "available", "for", "$999", "with", "ergonomic", "design."]}
+{"id": "product_03252", "tokens": ["Get", "the", "ergonomic", "Sony", "keyboard", "today", "for", "$599."]}
+{"id": "product_03253", "tokens": ["Dell", "announces", "speaker", "with", "portable", "at", "$149."]}
+{"id": "product_03254", "tokens": ["Get", "the", "4K", "resolution", "Apple", "speaker", "today", "for", "$149."]}
+{"id": "product_03255", "tokens": ["Looking", "for", "a", "4K", "resolution", "camera?", "The", "Dell", "model", "is", "$299."]}
+{"id": "product_03256", "tokens": ["Buy", "the", "Canon", "smartwatch", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03257", "tokens": ["The", "lightweight", "Sony", "smartphone", "is", "priced", "at", "$599."]}
+{"id": "product_03258", "tokens": ["The", "Canon", "speaker", "costs", "$999", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03259", "tokens": ["Premium", "Apple", "laptop", "with", "ergonomic", "available", "at", "$1", ",", "299."]}
+{"id": "product_03260", "tokens": ["Get", "the", "portable", "Sony", "laptop", "today", "for", "$499."]}
+{"id": "product_03261", "tokens": ["The", "ergonomic", "Adidas", "camera", "is", "priced", "at", "$149."]}
+{"id": "product_03262", "tokens": ["Great", "deal:", "HP", "television", "(", "fast", "charging", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03263", "tokens": ["Great", "deal:", "Lenovo", "speaker", "(", "4K", "resolution", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03264", "tokens": ["Looking", "for", "a", "4K", "resolution", "speaker?", "The", "Lenovo", "model", "is", "$599."]}
+{"id": "product_03265", "tokens": ["Buy", "the", "Samsung", "speaker", "-", "lightweight", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03266", "tokens": ["The", "noise", "cancelling", "Sony", "laptop", "is", "priced", "at", "$299."]}
+{"id": "product_03267", "tokens": ["The", "HP", "smartwatch", "costs", "$799", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03268", "tokens": ["Dell's", "latest", "smartphone", "offers", "touch", "screen", "for", "$299."]}
+{"id": "product_03269", "tokens": ["LG's", "latest", "camera", "offers", "wireless", "for", "$999."]}
+{"id": "product_03270", "tokens": ["Adidas", "announces", "speaker", "with", "fast", "charging", "at", "$1", ",", "499."]}
+{"id": "product_03271", "tokens": ["Buy", "the", "HP", "headphones", "-", "wireless", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03272", "tokens": ["Premium", "Sony", "television", "with", "ergonomic", "available", "at", "$499."]}
+{"id": "product_03273", "tokens": ["LG's", "latest", "headphones", "offers", "lightweight", "for", "$299."]}
+{"id": "product_03274", "tokens": ["Premium", "LG", "smartphone", "with", "ergonomic", "available", "at", "$799."]}
+{"id": "product_03275", "tokens": ["New", "Canon", "keyboard", "available", "for", "$149", "with", "4K", "resolution", "design."]}
+{"id": "product_03276", "tokens": ["Great", "deal:", "HP", "headphones", "(", "fast", "charging", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03277", "tokens": ["Get", "the", "portable", "Sony", "television", "today", "for", "$499."]}
+{"id": "product_03278", "tokens": ["Great", "deal:", "Apple", "monitor", "(", "4K", "resolution", ")", "now", "only", "$799!"]}
+{"id": "product_03279", "tokens": ["Premium", "LG", "speaker", "with", "waterproof", "available", "at", "$599."]}
+{"id": "product_03280", "tokens": ["The", "Adidas", "monitor", "costs", "$1", ",", "299", "and", "features", "portable", "technology."]}
+{"id": "product_03281", "tokens": ["HP's", "latest", "television", "offers", "HD", "display", "for", "$599."]}
+{"id": "product_03282", "tokens": ["The", "Canon", "monitor", "costs", "$1", ",", "499", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03283", "tokens": ["Get", "the", "touch", "screen", "Dell", "television", "today", "for", "$299."]}
+{"id": "product_03284", "tokens": ["Get", "the", "ergonomic", "Dell", "smartphone", "today", "for", "$599."]}
+{"id": "product_03285", "tokens": ["Great", "deal:", "Canon", "laptop", "(", "ergonomic", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03286", "tokens": ["Get", "the", "ergonomic", "Apple", "tablet", "today", "for", "$499."]}
+{"id": "product_03287", "tokens": ["Adidas's", "latest", "smartphone", "offers", "portable", "for", "$1", ",", "499."]}
+{"id": "product_03288", "tokens": ["Looking", "for", "a", "touch", "screen", "headphones?", "The", "Samsung", "model", "is", "$799."]}
+{"id": "product_03289", "tokens": ["The", "touch", "screen", "Nike", "headphones", "is", "priced", "at", "$799."]}
+{"id": "product_03290", "tokens": ["Get", "the", "HD", "display", "Apple", "camera", "today", "for", "$149."]}
+{"id": "product_03291", "tokens": ["Premium", "Sony", "keyboard", "with", "fast", "charging", "available", "at", "$999."]}
+{"id": "product_03292", "tokens": ["Buy", "the", "Dell", "monitor", "-", "portable", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03293", "tokens": ["The", "HP", "tablet", "costs", "$999", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03294", "tokens": ["Premium", "HP", "smartphone", "with", "fast", "charging", "available", "at", "$599."]}
+{"id": "product_03295", "tokens": ["The", "Apple", "laptop", "costs", "$499", "and", "features", "lightweight", "technology."]}
+{"id": "product_03296", "tokens": ["The", "HD", "display", "HP", "keyboard", "is", "priced", "at", "$499."]}
+{"id": "product_03297", "tokens": ["The", "HD", "display", "LG", "laptop", "is", "priced", "at", "$299."]}
+{"id": "product_03298", "tokens": ["New", "HP", "laptop", "available", "for", "$1", ",", "299", "with", "fast", "charging", "design."]}
+{"id": "product_03299", "tokens": ["Looking", "for", "a", "fast", "charging", "speaker?", "The", "Apple", "model", "is", "$1", ",", "499."]}
+{"id": "product_03300", "tokens": ["New", "Apple", "camera", "available", "for", "$1", ",", "499", "with", "4K", "resolution", "design."]}
+{"id": "product_03301", "tokens": ["Buy", "the", "Lenovo", "laptop", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03302", "tokens": ["Looking", "for", "a", "waterproof", "headphones?", "The", "Adidas", "model", "is", "$799."]}
+{"id": "product_03303", "tokens": ["Premium", "Nike", "camera", "with", "wireless", "available", "at", "$299."]}
+{"id": "product_03304", "tokens": ["New", "Adidas", "headphones", "available", "for", "$799", "with", "fast", "charging", "design."]}
+{"id": "product_03305", "tokens": ["Great", "deal:", "Samsung", "camera", "(", "lightweight", ")", "now", "only", "$299!"]}
+{"id": "product_03306", "tokens": ["The", "lightweight", "LG", "camera", "is", "priced", "at", "$149."]}
+{"id": "product_03307", "tokens": ["Get", "the", "touch", "screen", "Adidas", "television", "today", "for", "$499."]}
+{"id": "product_03308", "tokens": ["Looking", "for", "a", "4K", "resolution", "speaker?", "The", "Apple", "model", "is", "$149."]}
+{"id": "product_03309", "tokens": ["The", "HP", "smartwatch", "costs", "$1", ",", "499", "and", "features", "portable", "technology."]}
+{"id": "product_03310", "tokens": ["The", "fast", "charging", "LG", "keyboard", "is", "priced", "at", "$599."]}
+{"id": "product_03311", "tokens": ["Canon", "announces", "laptop", "with", "touch", "screen", "at", "$149."]}
+{"id": "product_03312", "tokens": ["Get", "the", "HD", "display", "HP", "laptop", "today", "for", "$299."]}
+{"id": "product_03313", "tokens": ["Great", "deal:", "Sony", "smartwatch", "(", "wireless", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03314", "tokens": ["The", "portable", "Nike", "keyboard", "is", "priced", "at", "$799."]}
+{"id": "product_03315", "tokens": ["New", "Dell", "monitor", "available", "for", "$999", "with", "wireless", "design."]}
+{"id": "product_03316", "tokens": ["Looking", "for", "a", "4K", "resolution", "headphones?", "The", "Apple", "model", "is", "$1", ",", "499."]}
+{"id": "product_03317", "tokens": ["The", "fast", "charging", "Sony", "speaker", "is", "priced", "at", "$599."]}
+{"id": "product_03318", "tokens": ["HP", "announces", "smartwatch", "with", "ergonomic", "at", "$799."]}
+{"id": "product_03319", "tokens": ["Premium", "Lenovo", "laptop", "with", "wireless", "available", "at", "$599."]}
+{"id": "product_03320", "tokens": ["Buy", "the", "Lenovo", "camera", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03321", "tokens": ["Looking", "for", "a", "wireless", "keyboard?", "The", "Apple", "model", "is", "$1", ",", "499."]}
+{"id": "product_03322", "tokens": ["Canon", "announces", "monitor", "with", "fast", "charging", "at", "$999."]}
+{"id": "product_03323", "tokens": ["Great", "deal:", "Adidas", "speaker", "(", "touch", "screen", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03324", "tokens": ["Great", "deal:", "Adidas", "laptop", "(", "fast", "charging", ")", "now", "only", "$599!"]}
+{"id": "product_03325", "tokens": ["Great", "deal:", "LG", "camera", "(", "portable", ")", "now", "only", "$799!"]}
+{"id": "product_03326", "tokens": ["Buy", "the", "Adidas", "smartwatch", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$299."]}
+{"id": "product_03327", "tokens": ["LG's", "latest", "speaker", "offers", "noise", "cancelling", "for", "$599."]}
+{"id": "product_03328", "tokens": ["Premium", "Samsung", "smartwatch", "with", "wireless", "available", "at", "$799."]}
+{"id": "product_03329", "tokens": ["Looking", "for", "a", "HD", "display", "tablet?", "The", "HP", "model", "is", "$799."]}
+{"id": "product_03330", "tokens": ["Get", "the", "touch", "screen", "Canon", "smartwatch", "today", "for", "$1", ",", "499."]}
+{"id": "product_03331", "tokens": ["Get", "the", "fast", "charging", "LG", "tablet", "today", "for", "$1", ",", "499."]}
+{"id": "product_03332", "tokens": ["Buy", "the", "Apple", "tablet", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03333", "tokens": ["Looking", "for", "a", "wireless", "television?", "The", "Samsung", "model", "is", "$999."]}
+{"id": "product_03334", "tokens": ["Looking", "for", "a", "noise", "cancelling", "television?", "The", "Nike", "model", "is", "$1", ",", "299."]}
+{"id": "product_03335", "tokens": ["HP's", "latest", "smartphone", "offers", "ergonomic", "for", "$999."]}
+{"id": "product_03336", "tokens": ["The", "touch", "screen", "Dell", "laptop", "is", "priced", "at", "$799."]}
+{"id": "product_03337", "tokens": ["Samsung", "announces", "headphones", "with", "touch", "screen", "at", "$999."]}
+{"id": "product_03338", "tokens": ["Looking", "for", "a", "fast", "charging", "monitor?", "The", "Nike", "model", "is", "$149."]}
+{"id": "product_03339", "tokens": ["The", "Nike", "laptop", "costs", "$149", "and", "features", "wireless", "technology."]}
+{"id": "product_03340", "tokens": ["Great", "deal:", "Canon", "headphones", "(", "fast", "charging", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03341", "tokens": ["Premium", "Nike", "camera", "with", "lightweight", "available", "at", "$599."]}
+{"id": "product_03342", "tokens": ["The", "ergonomic", "HP", "monitor", "is", "priced", "at", "$149."]}
+{"id": "product_03343", "tokens": ["The", "Dell", "camera", "costs", "$149", "and", "features", "portable", "technology."]}
+{"id": "product_03344", "tokens": ["Looking", "for", "a", "4K", "resolution", "television?", "The", "Canon", "model", "is", "$999."]}
+{"id": "product_03345", "tokens": ["The", "Apple", "headphones", "costs", "$799", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03346", "tokens": ["Premium", "Apple", "tablet", "with", "wireless", "available", "at", "$299."]}
+{"id": "product_03347", "tokens": ["The", "ergonomic", "Adidas", "camera", "is", "priced", "at", "$1", ",", "499."]}
+{"id": "product_03348", "tokens": ["The", "lightweight", "Dell", "television", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03349", "tokens": ["Great", "deal:", "HP", "camera", "(", "fast", "charging", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03350", "tokens": ["Buy", "the", "Apple", "smartwatch", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03351", "tokens": ["New", "Apple", "monitor", "available", "for", "$799", "with", "waterproof", "design."]}
+{"id": "product_03352", "tokens": ["Great", "deal:", "Samsung", "camera", "(", "waterproof", ")", "now", "only", "$999!"]}
+{"id": "product_03353", "tokens": ["Premium", "HP", "monitor", "with", "noise", "cancelling", "available", "at", "$299."]}
+{"id": "product_03354", "tokens": ["Premium", "LG", "speaker", "with", "HD", "display", "available", "at", "$149."]}
+{"id": "product_03355", "tokens": ["The", "wireless", "Canon", "smartwatch", "is", "priced", "at", "$499."]}
+{"id": "product_03356", "tokens": ["The", "Apple", "headphones", "costs", "$299", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03357", "tokens": ["The", "4K", "resolution", "HP", "smartphone", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03358", "tokens": ["Premium", "Lenovo", "speaker", "with", "touch", "screen", "available", "at", "$149."]}
+{"id": "product_03359", "tokens": ["Apple's", "latest", "tablet", "offers", "noise", "cancelling", "for", "$299."]}
+{"id": "product_03360", "tokens": ["The", "HD", "display", "Adidas", "keyboard", "is", "priced", "at", "$299."]}
+{"id": "product_03361", "tokens": ["Looking", "for", "a", "ergonomic", "smartphone?", "The", "Canon", "model", "is", "$299."]}
+{"id": "product_03362", "tokens": ["Canon's", "latest", "speaker", "offers", "ergonomic", "for", "$999."]}
+{"id": "product_03363", "tokens": ["HP", "announces", "smartphone", "with", "wireless", "at", "$999."]}
+{"id": "product_03364", "tokens": ["Get", "the", "touch", "screen", "Samsung", "tablet", "today", "for", "$299."]}
+{"id": "product_03365", "tokens": ["Get", "the", "noise", "cancelling", "HP", "television", "today", "for", "$799."]}
+{"id": "product_03366", "tokens": ["The", "Canon", "monitor", "costs", "$1", ",", "299", "and", "features", "portable", "technology."]}
+{"id": "product_03367", "tokens": ["Looking", "for", "a", "touch", "screen", "smartwatch?", "The", "LG", "model", "is", "$1", ",", "499."]}
+{"id": "product_03368", "tokens": ["Get", "the", "HD", "display", "Samsung", "headphones", "today", "for", "$999."]}
+{"id": "product_03369", "tokens": ["Looking", "for", "a", "4K", "resolution", "smartwatch?", "The", "Canon", "model", "is", "$599."]}
+{"id": "product_03370", "tokens": ["Buy", "the", "Apple", "smartphone", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03371", "tokens": ["The", "4K", "resolution", "Nike", "keyboard", "is", "priced", "at", "$499."]}
+{"id": "product_03372", "tokens": ["Lenovo's", "latest", "smartwatch", "offers", "fast", "charging", "for", "$1", ",", "299."]}
+{"id": "product_03373", "tokens": ["Buy", "the", "Lenovo", "camera", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03374", "tokens": ["New", "Lenovo", "camera", "available", "for", "$599", "with", "4K", "resolution", "design."]}
+{"id": "product_03375", "tokens": ["Premium", "Apple", "television", "with", "ergonomic", "available", "at", "$1", ",", "499."]}
+{"id": "product_03376", "tokens": ["Get", "the", "noise", "cancelling", "Nike", "television", "today", "for", "$599."]}
+{"id": "product_03377", "tokens": ["Premium", "Samsung", "television", "with", "ergonomic", "available", "at", "$149."]}
+{"id": "product_03378", "tokens": ["Buy", "the", "Apple", "monitor", "-", "wireless", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03379", "tokens": ["Looking", "for", "a", "fast", "charging", "smartwatch?", "The", "Dell", "model", "is", "$1", ",", "499."]}
+{"id": "product_03380", "tokens": ["The", "4K", "resolution", "Canon", "television", "is", "priced", "at", "$999."]}
+{"id": "product_03381", "tokens": ["The", "Apple", "speaker", "costs", "$999", "and", "features", "portable", "technology."]}
+{"id": "product_03382", "tokens": ["New", "Sony", "smartphone", "available", "for", "$499", "with", "portable", "design."]}
+{"id": "product_03383", "tokens": ["The", "HD", "display", "Samsung", "tablet", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03384", "tokens": ["Great", "deal:", "HP", "smartphone", "(", "wireless", ")", "now", "only", "$149!"]}
+{"id": "product_03385", "tokens": ["Buy", "the", "Nike", "headphones", "-", "noise", "cancelling", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03386", "tokens": ["Looking", "for", "a", "noise", "cancelling", "laptop?", "The", "Canon", "model", "is", "$799."]}
+{"id": "product_03387", "tokens": ["The", "waterproof", "Canon", "smartphone", "is", "priced", "at", "$1", ",", "499."]}
+{"id": "product_03388", "tokens": ["New", "Adidas", "monitor", "available", "for", "$299", "with", "ergonomic", "design."]}
+{"id": "product_03389", "tokens": ["Samsung", "announces", "speaker", "with", "ergonomic", "at", "$499."]}
+{"id": "product_03390", "tokens": ["Buy", "the", "Adidas", "laptop", "-", "touch", "screen", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03391", "tokens": ["Get", "the", "4K", "resolution", "Canon", "speaker", "today", "for", "$499."]}
+{"id": "product_03392", "tokens": ["Buy", "the", "Sony", "camera", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03393", "tokens": ["Buy", "the", "Adidas", "laptop", "-", "portable", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03394", "tokens": ["Get", "the", "HD", "display", "Canon", "tablet", "today", "for", "$599."]}
+{"id": "product_03395", "tokens": ["The", "Sony", "smartwatch", "costs", "$1", ",", "299", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03396", "tokens": ["Great", "deal:", "Lenovo", "laptop", "(", "waterproof", ")", "now", "only", "$149!"]}
+{"id": "product_03397", "tokens": ["New", "Canon", "television", "available", "for", "$599", "with", "noise", "cancelling", "design."]}
+{"id": "product_03398", "tokens": ["The", "Sony", "speaker", "costs", "$799", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03399", "tokens": ["Premium", "LG", "smartwatch", "with", "fast", "charging", "available", "at", "$599."]}
+{"id": "product_03400", "tokens": ["Lenovo's", "latest", "speaker", "offers", "waterproof", "for", "$499."]}
+{"id": "product_03401", "tokens": ["Get", "the", "HD", "display", "Dell", "keyboard", "today", "for", "$1", ",", "499."]}
+{"id": "product_03402", "tokens": ["The", "ergonomic", "Samsung", "tablet", "is", "priced", "at", "$299."]}
+{"id": "product_03403", "tokens": ["Great", "deal:", "Adidas", "tablet", "(", "4K", "resolution", ")", "now", "only", "$999!"]}
+{"id": "product_03404", "tokens": ["Looking", "for", "a", "fast", "charging", "monitor?", "The", "LG", "model", "is", "$799."]}
+{"id": "product_03405", "tokens": ["New", "Dell", "smartphone", "available", "for", "$1", ",", "499", "with", "portable", "design."]}
+{"id": "product_03406", "tokens": ["Looking", "for", "a", "HD", "display", "headphones?", "The", "Adidas", "model", "is", "$499."]}
+{"id": "product_03407", "tokens": ["LG", "announces", "smartwatch", "with", "portable", "at", "$999."]}
+{"id": "product_03408", "tokens": ["The", "portable", "Lenovo", "keyboard", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03409", "tokens": ["The", "noise", "cancelling", "Sony", "camera", "is", "priced", "at", "$499."]}
+{"id": "product_03410", "tokens": ["Nike's", "latest", "laptop", "offers", "lightweight", "for", "$299."]}
+{"id": "product_03411", "tokens": ["Looking", "for", "a", "fast", "charging", "keyboard?", "The", "Adidas", "model", "is", "$999."]}
+{"id": "product_03412", "tokens": ["The", "Lenovo", "keyboard", "costs", "$499", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03413", "tokens": ["The", "Nike", "keyboard", "costs", "$499", "and", "features", "portable", "technology."]}
+{"id": "product_03414", "tokens": ["Buy", "the", "Nike", "keyboard", "-", "portable", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03415", "tokens": ["Adidas's", "latest", "smartwatch", "offers", "fast", "charging", "for", "$1", ",", "299."]}
+{"id": "product_03416", "tokens": ["The", "Apple", "television", "costs", "$149", "and", "features", "touch", "screen", "technology."]}
+{"id": "product_03417", "tokens": ["The", "Dell", "television", "costs", "$799", "and", "features", "portable", "technology."]}
+{"id": "product_03418", "tokens": ["The", "Dell", "television", "costs", "$799", "and", "features", "lightweight", "technology."]}
+{"id": "product_03419", "tokens": ["Premium", "Nike", "speaker", "with", "fast", "charging", "available", "at", "$299."]}
+{"id": "product_03420", "tokens": ["Premium", "LG", "smartwatch", "with", "portable", "available", "at", "$599."]}
+{"id": "product_03421", "tokens": ["Looking", "for", "a", "touch", "screen", "television?", "The", "Canon", "model", "is", "$299."]}
+{"id": "product_03422", "tokens": ["Lenovo", "announces", "smartphone", "with", "fast", "charging", "at", "$149."]}
+{"id": "product_03423", "tokens": ["The", "fast", "charging", "Samsung", "smartphone", "is", "priced", "at", "$149."]}
+{"id": "product_03424", "tokens": ["Get", "the", "4K", "resolution", "Canon", "television", "today", "for", "$1", ",", "499."]}
+{"id": "product_03425", "tokens": ["Premium", "Apple", "camera", "with", "wireless", "available", "at", "$999."]}
+{"id": "product_03426", "tokens": ["Looking", "for", "a", "wireless", "monitor?", "The", "Canon", "model", "is", "$299."]}
+{"id": "product_03427", "tokens": ["Sony", "announces", "smartwatch", "with", "HD", "display", "at", "$599."]}
+{"id": "product_03428", "tokens": ["Buy", "the", "Adidas", "smartphone", "-", "portable", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03429", "tokens": ["Looking", "for", "a", "ergonomic", "keyboard?", "The", "Dell", "model", "is", "$999."]}
+{"id": "product_03430", "tokens": ["Great", "deal:", "Apple", "monitor", "(", "waterproof", ")", "now", "only", "$149!"]}
+{"id": "product_03431", "tokens": ["Looking", "for", "a", "touch", "screen", "headphones?", "The", "Samsung", "model", "is", "$1", ",", "499."]}
+{"id": "product_03432", "tokens": ["Canon", "announces", "tablet", "with", "waterproof", "at", "$999."]}
+{"id": "product_03433", "tokens": ["The", "Nike", "laptop", "costs", "$999", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03434", "tokens": ["Get", "the", "4K", "resolution", "Lenovo", "keyboard", "today", "for", "$799."]}
+{"id": "product_03435", "tokens": ["Premium", "Samsung", "monitor", "with", "waterproof", "available", "at", "$799."]}
+{"id": "product_03436", "tokens": ["Great", "deal:", "Lenovo", "smartphone", "(", "portable", ")", "now", "only", "$799!"]}
+{"id": "product_03437", "tokens": ["Adidas's", "latest", "laptop", "offers", "touch", "screen", "for", "$499."]}
+{"id": "product_03438", "tokens": ["Get", "the", "lightweight", "Samsung", "tablet", "today", "for", "$799."]}
+{"id": "product_03439", "tokens": ["Buy", "the", "Dell", "smartwatch", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03440", "tokens": ["Looking", "for", "a", "ergonomic", "laptop?", "The", "Nike", "model", "is", "$599."]}
+{"id": "product_03441", "tokens": ["Get", "the", "waterproof", "Sony", "camera", "today", "for", "$499."]}
+{"id": "product_03442", "tokens": ["Buy", "the", "Adidas", "camera", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03443", "tokens": ["New", "Dell", "speaker", "available", "for", "$149", "with", "4K", "resolution", "design."]}
+{"id": "product_03444", "tokens": ["Great", "deal:", "Samsung", "headphones", "(", "wireless", ")", "now", "only", "$999!"]}
+{"id": "product_03445", "tokens": ["HP's", "latest", "laptop", "offers", "HD", "display", "for", "$149."]}
+{"id": "product_03446", "tokens": ["Buy", "the", "Apple", "keyboard", "-", "wireless", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03447", "tokens": ["Premium", "Samsung", "headphones", "with", "lightweight", "available", "at", "$299."]}
+{"id": "product_03448", "tokens": ["Sony's", "latest", "speaker", "offers", "lightweight", "for", "$1", ",", "299."]}
+{"id": "product_03449", "tokens": ["Apple's", "latest", "smartwatch", "offers", "HD", "display", "for", "$299."]}
+{"id": "product_03450", "tokens": ["Lenovo's", "latest", "monitor", "offers", "4K", "resolution", "for", "$1", ",", "499."]}
+{"id": "product_03451", "tokens": ["Looking", "for", "a", "fast", "charging", "television?", "The", "Adidas", "model", "is", "$499."]}
+{"id": "product_03452", "tokens": ["Looking", "for", "a", "waterproof", "tablet?", "The", "Sony", "model", "is", "$799."]}
+{"id": "product_03453", "tokens": ["The", "Lenovo", "keyboard", "costs", "$149", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03454", "tokens": ["Get", "the", "noise", "cancelling", "LG", "smartwatch", "today", "for", "$299."]}
+{"id": "product_03455", "tokens": ["Looking", "for", "a", "waterproof", "monitor?", "The", "Lenovo", "model", "is", "$1", ",", "299."]}
+{"id": "product_03456", "tokens": ["Great", "deal:", "Apple", "tablet", "(", "portable", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03457", "tokens": ["Premium", "Sony", "monitor", "with", "lightweight", "available", "at", "$799."]}
+{"id": "product_03458", "tokens": ["HP's", "latest", "television", "offers", "noise", "cancelling", "for", "$299."]}
+{"id": "product_03459", "tokens": ["Looking", "for", "a", "ergonomic", "speaker?", "The", "Adidas", "model", "is", "$599."]}
+{"id": "product_03460", "tokens": ["LG", "announces", "headphones", "with", "HD", "display", "at", "$149."]}
+{"id": "product_03461", "tokens": ["Buy", "the", "Apple", "television", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03462", "tokens": ["Buy", "the", "LG", "camera", "-", "lightweight", ",", "amazing", "quality", ",", "just", "$499."]}
+{"id": "product_03463", "tokens": ["Nike's", "latest", "television", "offers", "HD", "display", "for", "$799."]}
+{"id": "product_03464", "tokens": ["The", "Samsung", "television", "costs", "$799", "and", "features", "lightweight", "technology."]}
+{"id": "product_03465", "tokens": ["Great", "deal:", "Dell", "smartphone", "(", "ergonomic", ")", "now", "only", "$499!"]}
+{"id": "product_03466", "tokens": ["Apple", "announces", "keyboard", "with", "touch", "screen", "at", "$599."]}
+{"id": "product_03467", "tokens": ["The", "Dell", "headphones", "costs", "$599", "and", "features", "portable", "technology."]}
+{"id": "product_03468", "tokens": ["Buy", "the", "Canon", "television", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03469", "tokens": ["New", "LG", "smartwatch", "available", "for", "$1", ",", "499", "with", "portable", "design."]}
+{"id": "product_03470", "tokens": ["Premium", "Adidas", "monitor", "with", "fast", "charging", "available", "at", "$1", ",", "499."]}
+{"id": "product_03471", "tokens": ["Get", "the", "touch", "screen", "Lenovo", "speaker", "today", "for", "$299."]}
+{"id": "product_03472", "tokens": ["Adidas", "announces", "smartphone", "with", "wireless", "at", "$149."]}
+{"id": "product_03473", "tokens": ["New", "Dell", "keyboard", "available", "for", "$149", "with", "fast", "charging", "design."]}
+{"id": "product_03474", "tokens": ["Get", "the", "waterproof", "Canon", "smartwatch", "today", "for", "$999."]}
+{"id": "product_03475", "tokens": ["Lenovo's", "latest", "keyboard", "offers", "touch", "screen", "for", "$149."]}
+{"id": "product_03476", "tokens": ["Premium", "HP", "laptop", "with", "waterproof", "available", "at", "$149."]}
+{"id": "product_03477", "tokens": ["Great", "deal:", "HP", "smartphone", "(", "noise", "cancelling", ")", "now", "only", "$799!"]}
+{"id": "product_03478", "tokens": ["Adidas", "announces", "television", "with", "portable", "at", "$1", ",", "499."]}
+{"id": "product_03479", "tokens": ["The", "Dell", "speaker", "costs", "$149", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03480", "tokens": ["Canon's", "latest", "laptop", "offers", "lightweight", "for", "$599."]}
+{"id": "product_03481", "tokens": ["Apple's", "latest", "tablet", "offers", "noise", "cancelling", "for", "$299."]}
+{"id": "product_03482", "tokens": ["The", "touch", "screen", "LG", "headphones", "is", "priced", "at", "$999."]}
+{"id": "product_03483", "tokens": ["Apple", "announces", "speaker", "with", "lightweight", "at", "$499."]}
+{"id": "product_03484", "tokens": ["Great", "deal:", "Samsung", "smartwatch", "(", "ergonomic", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03485", "tokens": ["HP", "announces", "tablet", "with", "lightweight", "at", "$1", ",", "299."]}
+{"id": "product_03486", "tokens": ["Lenovo", "announces", "smartphone", "with", "wireless", "at", "$1", ",", "499."]}
+{"id": "product_03487", "tokens": ["Nike", "announces", "headphones", "with", "lightweight", "at", "$1", ",", "299."]}
+{"id": "product_03488", "tokens": ["The", "LG", "laptop", "costs", "$1", ",", "499", "and", "features", "wireless", "technology."]}
+{"id": "product_03489", "tokens": ["Sony's", "latest", "laptop", "offers", "ergonomic", "for", "$1", ",", "299."]}
+{"id": "product_03490", "tokens": ["Samsung", "announces", "television", "with", "lightweight", "at", "$299."]}
+{"id": "product_03491", "tokens": ["Nike", "announces", "television", "with", "lightweight", "at", "$599."]}
+{"id": "product_03492", "tokens": ["New", "Nike", "camera", "available", "for", "$799", "with", "fast", "charging", "design."]}
+{"id": "product_03493", "tokens": ["The", "Apple", "laptop", "costs", "$149", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03494", "tokens": ["New", "Samsung", "keyboard", "available", "for", "$1", ",", "499", "with", "touch", "screen", "design."]}
+{"id": "product_03495", "tokens": ["Get", "the", "HD", "display", "Adidas", "speaker", "today", "for", "$499."]}
+{"id": "product_03496", "tokens": ["Looking", "for", "a", "noise", "cancelling", "camera?", "The", "HP", "model", "is", "$149."]}
+{"id": "product_03497", "tokens": ["Premium", "HP", "keyboard", "with", "portable", "available", "at", "$1", ",", "299."]}
+{"id": "product_03498", "tokens": ["The", "LG", "smartphone", "costs", "$1", ",", "299", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03499", "tokens": ["Adidas", "announces", "camera", "with", "4K", "resolution", "at", "$299."]}
+{"id": "product_03500", "tokens": ["Adidas", "announces", "tablet", "with", "lightweight", "at", "$799."]}
+{"id": "product_03501", "tokens": ["The", "Sony", "headphones", "costs", "$799", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03502", "tokens": ["Get", "the", "portable", "Dell", "headphones", "today", "for", "$299."]}
+{"id": "product_03503", "tokens": ["New", "Canon", "smartwatch", "available", "for", "$599", "with", "ergonomic", "design."]}
+{"id": "product_03504", "tokens": ["HP", "announces", "keyboard", "with", "4K", "resolution", "at", "$799."]}
+{"id": "product_03505", "tokens": ["Get", "the", "ergonomic", "Sony", "headphones", "today", "for", "$999."]}
+{"id": "product_03506", "tokens": ["The", "wireless", "Sony", "television", "is", "priced", "at", "$499."]}
+{"id": "product_03507", "tokens": ["Looking", "for", "a", "waterproof", "monitor?", "The", "HP", "model", "is", "$1", ",", "499."]}
+{"id": "product_03508", "tokens": ["Sony's", "latest", "laptop", "offers", "waterproof", "for", "$1", ",", "499."]}
+{"id": "product_03509", "tokens": ["Great", "deal:", "Canon", "tablet", "(", "waterproof", ")", "now", "only", "$149!"]}
+{"id": "product_03510", "tokens": ["Great", "deal:", "Samsung", "smartphone", "(", "touch", "screen", ")", "now", "only", "$149!"]}
+{"id": "product_03511", "tokens": ["Looking", "for", "a", "4K", "resolution", "monitor?", "The", "Dell", "model", "is", "$1", ",", "299."]}
+{"id": "product_03512", "tokens": ["Lenovo", "announces", "television", "with", "portable", "at", "$999."]}
+{"id": "product_03513", "tokens": ["Great", "deal:", "Adidas", "laptop", "(", "wireless", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03514", "tokens": ["Looking", "for", "a", "waterproof", "smartphone?", "The", "LG", "model", "is", "$599."]}
+{"id": "product_03515", "tokens": ["Great", "deal:", "Apple", "monitor", "(", "ergonomic", ")", "now", "only", "$599!"]}
+{"id": "product_03516", "tokens": ["The", "lightweight", "Apple", "smartphone", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03517", "tokens": ["The", "Lenovo", "monitor", "costs", "$499", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03518", "tokens": ["Lenovo", "announces", "laptop", "with", "portable", "at", "$599."]}
+{"id": "product_03519", "tokens": ["Nike's", "latest", "smartwatch", "offers", "portable", "for", "$149."]}
+{"id": "product_03520", "tokens": ["Looking", "for", "a", "touch", "screen", "speaker?", "The", "Sony", "model", "is", "$599."]}
+{"id": "product_03521", "tokens": ["Canon's", "latest", "smartphone", "offers", "lightweight", "for", "$999."]}
+{"id": "product_03522", "tokens": ["Looking", "for", "a", "lightweight", "smartphone?", "The", "Canon", "model", "is", "$499."]}
+{"id": "product_03523", "tokens": ["Canon's", "latest", "television", "offers", "touch", "screen", "for", "$599."]}
+{"id": "product_03524", "tokens": ["Looking", "for", "a", "touch", "screen", "monitor?", "The", "Lenovo", "model", "is", "$1", ",", "299."]}
+{"id": "product_03525", "tokens": ["Buy", "the", "LG", "smartwatch", "-", "touch", "screen", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03526", "tokens": ["Buy", "the", "LG", "smartwatch", "-", "touch", "screen", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03527", "tokens": ["LG's", "latest", "smartwatch", "offers", "touch", "screen", "for", "$1", ",", "499."]}
+{"id": "product_03528", "tokens": ["The", "Samsung", "keyboard", "costs", "$1", ",", "299", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03529", "tokens": ["Get", "the", "4K", "resolution", "Nike", "smartwatch", "today", "for", "$149."]}
+{"id": "product_03530", "tokens": ["Great", "deal:", "Apple", "television", "(", "waterproof", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03531", "tokens": ["The", "4K", "resolution", "Adidas", "smartphone", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03532", "tokens": ["Looking", "for", "a", "noise", "cancelling", "laptop?", "The", "Samsung", "model", "is", "$499."]}
+{"id": "product_03533", "tokens": ["Looking", "for", "a", "portable", "speaker?", "The", "Adidas", "model", "is", "$999."]}
+{"id": "product_03534", "tokens": ["The", "Dell", "monitor", "costs", "$149", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03535", "tokens": ["Looking", "for", "a", "wireless", "headphones?", "The", "Apple", "model", "is", "$499."]}
+{"id": "product_03536", "tokens": ["Premium", "Adidas", "television", "with", "lightweight", "available", "at", "$599."]}
+{"id": "product_03537", "tokens": ["Buy", "the", "Nike", "camera", "-", "portable", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03538", "tokens": ["Looking", "for", "a", "portable", "monitor?", "The", "Dell", "model", "is", "$499."]}
+{"id": "product_03539", "tokens": ["Premium", "LG", "smartwatch", "with", "waterproof", "available", "at", "$799."]}
+{"id": "product_03540", "tokens": ["Premium", "Nike", "camera", "with", "wireless", "available", "at", "$799."]}
+{"id": "product_03541", "tokens": ["Canon", "announces", "speaker", "with", "wireless", "at", "$999."]}
+{"id": "product_03542", "tokens": ["The", "waterproof", "Dell", "television", "is", "priced", "at", "$1", ",", "499."]}
+{"id": "product_03543", "tokens": ["Premium", "Canon", "television", "with", "waterproof", "available", "at", "$999."]}
+{"id": "product_03544", "tokens": ["New", "Samsung", "television", "available", "for", "$799", "with", "4K", "resolution", "design."]}
+{"id": "product_03545", "tokens": ["Looking", "for", "a", "lightweight", "monitor?", "The", "Lenovo", "model", "is", "$599."]}
+{"id": "product_03546", "tokens": ["New", "Lenovo", "laptop", "available", "for", "$799", "with", "portable", "design."]}
+{"id": "product_03547", "tokens": ["Dell", "announces", "camera", "with", "fast", "charging", "at", "$1", ",", "499."]}
+{"id": "product_03548", "tokens": ["Buy", "the", "Canon", "television", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$299."]}
+{"id": "product_03549", "tokens": ["Premium", "Canon", "smartphone", "with", "4K", "resolution", "available", "at", "$499."]}
+{"id": "product_03550", "tokens": ["Great", "deal:", "Apple", "tablet", "(", "HD", "display", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03551", "tokens": ["Looking", "for", "a", "HD", "display", "tablet?", "The", "Apple", "model", "is", "$1", ",", "499."]}
+{"id": "product_03552", "tokens": ["Premium", "Apple", "headphones", "with", "fast", "charging", "available", "at", "$299."]}
+{"id": "product_03553", "tokens": ["The", "LG", "camera", "costs", "$999", "and", "features", "portable", "technology."]}
+{"id": "product_03554", "tokens": ["Dell", "announces", "tablet", "with", "4K", "resolution", "at", "$599."]}
+{"id": "product_03555", "tokens": ["The", "ergonomic", "Apple", "headphones", "is", "priced", "at", "$299."]}
+{"id": "product_03556", "tokens": ["The", "HD", "display", "Samsung", "laptop", "is", "priced", "at", "$599."]}
+{"id": "product_03557", "tokens": ["LG", "announces", "camera", "with", "noise", "cancelling", "at", "$799."]}
+{"id": "product_03558", "tokens": ["Looking", "for", "a", "portable", "television?", "The", "Adidas", "model", "is", "$149."]}
+{"id": "product_03559", "tokens": ["Great", "deal:", "LG", "monitor", "(", "ergonomic", ")", "now", "only", "$499!"]}
+{"id": "product_03560", "tokens": ["The", "touch", "screen", "Canon", "smartwatch", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03561", "tokens": ["New", "Adidas", "headphones", "available", "for", "$799", "with", "touch", "screen", "design."]}
+{"id": "product_03562", "tokens": ["Adidas", "announces", "smartwatch", "with", "touch", "screen", "at", "$1", ",", "499."]}
+{"id": "product_03563", "tokens": ["The", "Canon", "monitor", "costs", "$299", "and", "features", "wireless", "technology."]}
+{"id": "product_03564", "tokens": ["Get", "the", "wireless", "Lenovo", "monitor", "today", "for", "$499."]}
+{"id": "product_03565", "tokens": ["Premium", "LG", "monitor", "with", "HD", "display", "available", "at", "$149."]}
+{"id": "product_03566", "tokens": ["Great", "deal:", "Lenovo", "camera", "(", "portable", ")", "now", "only", "$799!"]}
+{"id": "product_03567", "tokens": ["Premium", "Sony", "speaker", "with", "wireless", "available", "at", "$1", ",", "499."]}
+{"id": "product_03568", "tokens": ["Get", "the", "portable", "Canon", "smartwatch", "today", "for", "$299."]}
+{"id": "product_03569", "tokens": ["New", "Apple", "monitor", "available", "for", "$799", "with", "fast", "charging", "design."]}
+{"id": "product_03570", "tokens": ["Buy", "the", "Samsung", "headphones", "-", "noise", "cancelling", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03571", "tokens": ["Looking", "for", "a", "noise", "cancelling", "speaker?", "The", "HP", "model", "is", "$299."]}
+{"id": "product_03572", "tokens": ["Looking", "for", "a", "waterproof", "camera?", "The", "LG", "model", "is", "$999."]}
+{"id": "product_03573", "tokens": ["Buy", "the", "HP", "camera", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03574", "tokens": ["New", "Adidas", "television", "available", "for", "$1", ",", "299", "with", "ergonomic", "design."]}
+{"id": "product_03575", "tokens": ["New", "Samsung", "laptop", "available", "for", "$999", "with", "lightweight", "design."]}
+{"id": "product_03576", "tokens": ["Lenovo's", "latest", "monitor", "offers", "waterproof", "for", "$499."]}
+{"id": "product_03577", "tokens": ["Get", "the", "HD", "display", "Canon", "camera", "today", "for", "$999."]}
+{"id": "product_03578", "tokens": ["Get", "the", "HD", "display", "Canon", "keyboard", "today", "for", "$1", ",", "299."]}
+{"id": "product_03579", "tokens": ["Looking", "for", "a", "4K", "resolution", "camera?", "The", "Lenovo", "model", "is", "$499."]}
+{"id": "product_03580", "tokens": ["New", "Canon", "tablet", "available", "for", "$499", "with", "ergonomic", "design."]}
+{"id": "product_03581", "tokens": ["The", "Adidas", "television", "costs", "$1", ",", "299", "and", "features", "waterproof", "technology."]}
+{"id": "product_03582", "tokens": ["Great", "deal:", "LG", "headphones", "(", "touch", "screen", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03583", "tokens": ["Lenovo's", "latest", "television", "offers", "touch", "screen", "for", "$1", ",", "499."]}
+{"id": "product_03584", "tokens": ["New", "LG", "television", "available", "for", "$599", "with", "touch", "screen", "design."]}
+{"id": "product_03585", "tokens": ["Canon", "announces", "keyboard", "with", "wireless", "at", "$1", ",", "499."]}
+{"id": "product_03586", "tokens": ["Apple's", "latest", "smartphone", "offers", "wireless", "for", "$499."]}
+{"id": "product_03587", "tokens": ["New", "Canon", "smartwatch", "available", "for", "$299", "with", "touch", "screen", "design."]}
+{"id": "product_03588", "tokens": ["New", "HP", "smartphone", "available", "for", "$499", "with", "ergonomic", "design."]}
+{"id": "product_03589", "tokens": ["New", "Sony", "tablet", "available", "for", "$799", "with", "wireless", "design."]}
+{"id": "product_03590", "tokens": ["Buy", "the", "Dell", "smartphone", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03591", "tokens": ["Get", "the", "touch", "screen", "Lenovo", "laptop", "today", "for", "$499."]}
+{"id": "product_03592", "tokens": ["Get", "the", "fast", "charging", "Adidas", "laptop", "today", "for", "$149."]}
+{"id": "product_03593", "tokens": ["HP", "announces", "camera", "with", "lightweight", "at", "$499."]}
+{"id": "product_03594", "tokens": ["The", "HP", "keyboard", "costs", "$499", "and", "features", "lightweight", "technology."]}
+{"id": "product_03595", "tokens": ["New", "Samsung", "speaker", "available", "for", "$799", "with", "portable", "design."]}
+{"id": "product_03596", "tokens": ["New", "Apple", "smartwatch", "available", "for", "$1", ",", "499", "with", "lightweight", "design."]}
+{"id": "product_03597", "tokens": ["HP", "announces", "speaker", "with", "4K", "resolution", "at", "$149."]}
+{"id": "product_03598", "tokens": ["Buy", "the", "Samsung", "speaker", "-", "HD", "display", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03599", "tokens": ["The", "HD", "display", "Sony", "smartwatch", "is", "priced", "at", "$599."]}
+{"id": "product_03600", "tokens": ["Great", "deal:", "Lenovo", "keyboard", "(", "waterproof", ")", "now", "only", "$149!"]}
+{"id": "product_03601", "tokens": ["Premium", "Dell", "television", "with", "fast", "charging", "available", "at", "$599."]}
+{"id": "product_03602", "tokens": ["Premium", "Lenovo", "smartwatch", "with", "fast", "charging", "available", "at", "$1", ",", "499."]}
+{"id": "product_03603", "tokens": ["Premium", "Apple", "smartphone", "with", "lightweight", "available", "at", "$1", ",", "299."]}
+{"id": "product_03604", "tokens": ["The", "portable", "Canon", "monitor", "is", "priced", "at", "$149."]}
+{"id": "product_03605", "tokens": ["The", "Samsung", "smartphone", "costs", "$299", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03606", "tokens": ["The", "ergonomic", "Adidas", "camera", "is", "priced", "at", "$499."]}
+{"id": "product_03607", "tokens": ["The", "ergonomic", "Samsung", "monitor", "is", "priced", "at", "$499."]}
+{"id": "product_03608", "tokens": ["The", "portable", "Sony", "monitor", "is", "priced", "at", "$799."]}
+{"id": "product_03609", "tokens": ["Nike", "announces", "smartphone", "with", "lightweight", "at", "$999."]}
+{"id": "product_03610", "tokens": ["Buy", "the", "Samsung", "television", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03611", "tokens": ["The", "Adidas", "laptop", "costs", "$799", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03612", "tokens": ["Great", "deal:", "Sony", "speaker", "(", "noise", "cancelling", ")", "now", "only", "$999!"]}
+{"id": "product_03613", "tokens": ["Get", "the", "lightweight", "Apple", "monitor", "today", "for", "$999."]}
+{"id": "product_03614", "tokens": ["The", "lightweight", "Canon", "smartphone", "is", "priced", "at", "$999."]}
+{"id": "product_03615", "tokens": ["Samsung's", "latest", "monitor", "offers", "waterproof", "for", "$999."]}
+{"id": "product_03616", "tokens": ["Great", "deal:", "Samsung", "smartwatch", "(", "ergonomic", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03617", "tokens": ["Lenovo's", "latest", "laptop", "offers", "touch", "screen", "for", "$299."]}
+{"id": "product_03618", "tokens": ["Buy", "the", "Dell", "laptop", "-", "noise", "cancelling", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03619", "tokens": ["Get", "the", "waterproof", "HP", "camera", "today", "for", "$149."]}
+{"id": "product_03620", "tokens": ["The", "HD", "display", "HP", "smartwatch", "is", "priced", "at", "$149."]}
+{"id": "product_03621", "tokens": ["Looking", "for", "a", "waterproof", "television?", "The", "Apple", "model", "is", "$799."]}
+{"id": "product_03622", "tokens": ["Looking", "for", "a", "fast", "charging", "television?", "The", "LG", "model", "is", "$1", ",", "499."]}
+{"id": "product_03623", "tokens": ["Looking", "for", "a", "noise", "cancelling", "tablet?", "The", "Lenovo", "model", "is", "$1", ",", "299."]}
+{"id": "product_03624", "tokens": ["The", "Lenovo", "tablet", "costs", "$149", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03625", "tokens": ["Great", "deal:", "Samsung", "laptop", "(", "wireless", ")", "now", "only", "$799!"]}
+{"id": "product_03626", "tokens": ["Get", "the", "ergonomic", "Lenovo", "speaker", "today", "for", "$499."]}
+{"id": "product_03627", "tokens": ["Lenovo's", "latest", "laptop", "offers", "touch", "screen", "for", "$499."]}
+{"id": "product_03628", "tokens": ["Nike", "announces", "headphones", "with", "lightweight", "at", "$599."]}
+{"id": "product_03629", "tokens": ["Buy", "the", "LG", "tablet", "-", "lightweight", ",", "amazing", "quality", ",", "just", "$299."]}
+{"id": "product_03630", "tokens": ["Buy", "the", "Nike", "television", "-", "wireless", ",", "amazing", "quality", ",", "just", "$499."]}
+{"id": "product_03631", "tokens": ["Samsung's", "latest", "headphones", "offers", "touch", "screen", "for", "$999."]}
+{"id": "product_03632", "tokens": ["Great", "deal:", "Apple", "speaker", "(", "portable", ")", "now", "only", "$799!"]}
+{"id": "product_03633", "tokens": ["Get", "the", "fast", "charging", "Lenovo", "tablet", "today", "for", "$999."]}
+{"id": "product_03634", "tokens": ["Dell", "announces", "monitor", "with", "touch", "screen", "at", "$149."]}
+{"id": "product_03635", "tokens": ["LG's", "latest", "camera", "offers", "ergonomic", "for", "$499."]}
+{"id": "product_03636", "tokens": ["Looking", "for", "a", "noise", "cancelling", "camera?", "The", "Nike", "model", "is", "$1", ",", "299."]}
+{"id": "product_03637", "tokens": ["Get", "the", "4K", "resolution", "HP", "speaker", "today", "for", "$999."]}
+{"id": "product_03638", "tokens": ["New", "Adidas", "camera", "available", "for", "$599", "with", "noise", "cancelling", "design."]}
+{"id": "product_03639", "tokens": ["Nike's", "latest", "tablet", "offers", "noise", "cancelling", "for", "$1", ",", "499."]}
+{"id": "product_03640", "tokens": ["Get", "the", "noise", "cancelling", "Canon", "laptop", "today", "for", "$799."]}
+{"id": "product_03641", "tokens": ["Canon", "announces", "smartwatch", "with", "4K", "resolution", "at", "$1", ",", "299."]}
+{"id": "product_03642", "tokens": ["Great", "deal:", "Dell", "speaker", "(", "noise", "cancelling", ")", "now", "only", "$149!"]}
+{"id": "product_03643", "tokens": ["The", "Samsung", "camera", "costs", "$999", "and", "features", "lightweight", "technology."]}
+{"id": "product_03644", "tokens": ["The", "Apple", "smartphone", "costs", "$799", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03645", "tokens": ["Looking", "for", "a", "ergonomic", "laptop?", "The", "Apple", "model", "is", "$599."]}
+{"id": "product_03646", "tokens": ["Buy", "the", "Nike", "television", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03647", "tokens": ["Looking", "for", "a", "ergonomic", "monitor?", "The", "Nike", "model", "is", "$999."]}
+{"id": "product_03648", "tokens": ["The", "ergonomic", "Sony", "laptop", "is", "priced", "at", "$299."]}
+{"id": "product_03649", "tokens": ["Sony", "announces", "smartwatch", "with", "ergonomic", "at", "$599."]}
+{"id": "product_03650", "tokens": ["Looking", "for", "a", "portable", "headphones?", "The", "Lenovo", "model", "is", "$149."]}
+{"id": "product_03651", "tokens": ["Great", "deal:", "Canon", "monitor", "(", "lightweight", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03652", "tokens": ["New", "Adidas", "television", "available", "for", "$499", "with", "waterproof", "design."]}
+{"id": "product_03653", "tokens": ["New", "Lenovo", "headphones", "available", "for", "$599", "with", "HD", "display", "design."]}
+{"id": "product_03654", "tokens": ["Premium", "Lenovo", "tablet", "with", "HD", "display", "available", "at", "$1", ",", "299."]}
+{"id": "product_03655", "tokens": ["Great", "deal:", "Dell", "camera", "(", "ergonomic", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03656", "tokens": ["The", "Lenovo", "headphones", "costs", "$999", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03657", "tokens": ["Premium", "Canon", "speaker", "with", "lightweight", "available", "at", "$499."]}
+{"id": "product_03658", "tokens": ["New", "Sony", "tablet", "available", "for", "$599", "with", "portable", "design."]}
+{"id": "product_03659", "tokens": ["Dell's", "latest", "monitor", "offers", "4K", "resolution", "for", "$599."]}
+{"id": "product_03660", "tokens": ["Premium", "Sony", "speaker", "with", "portable", "available", "at", "$149."]}
+{"id": "product_03661", "tokens": ["Dell", "announces", "smartwatch", "with", "HD", "display", "at", "$599."]}
+{"id": "product_03662", "tokens": ["The", "Samsung", "tablet", "costs", "$599", "and", "features", "touch", "screen", "technology."]}
+{"id": "product_03663", "tokens": ["The", "Nike", "television", "costs", "$149", "and", "features", "waterproof", "technology."]}
+{"id": "product_03664", "tokens": ["Get", "the", "wireless", "Lenovo", "monitor", "today", "for", "$299."]}
+{"id": "product_03665", "tokens": ["New", "Sony", "speaker", "available", "for", "$299", "with", "ergonomic", "design."]}
+{"id": "product_03666", "tokens": ["Looking", "for", "a", "noise", "cancelling", "laptop?", "The", "Apple", "model", "is", "$299."]}
+{"id": "product_03667", "tokens": ["Premium", "Dell", "keyboard", "with", "ergonomic", "available", "at", "$1", ",", "299."]}
+{"id": "product_03668", "tokens": ["Sony", "announces", "speaker", "with", "fast", "charging", "at", "$149."]}
+{"id": "product_03669", "tokens": ["Dell", "announces", "headphones", "with", "waterproof", "at", "$599."]}
+{"id": "product_03670", "tokens": ["Great", "deal:", "Lenovo", "monitor", "(", "fast", "charging", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03671", "tokens": ["The", "Nike", "television", "costs", "$1", ",", "299", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03672", "tokens": ["Lenovo's", "latest", "tablet", "offers", "wireless", "for", "$499."]}
+{"id": "product_03673", "tokens": ["Buy", "the", "Samsung", "speaker", "-", "lightweight", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03674", "tokens": ["New", "HP", "television", "available", "for", "$999", "with", "wireless", "design."]}
+{"id": "product_03675", "tokens": ["Get", "the", "noise", "cancelling", "HP", "television", "today", "for", "$1", ",", "499."]}
+{"id": "product_03676", "tokens": ["Premium", "Adidas", "smartwatch", "with", "4K", "resolution", "available", "at", "$999."]}
+{"id": "product_03677", "tokens": ["Get", "the", "fast", "charging", "HP", "tablet", "today", "for", "$299."]}
+{"id": "product_03678", "tokens": ["The", "portable", "Sony", "speaker", "is", "priced", "at", "$999."]}
+{"id": "product_03679", "tokens": ["The", "Adidas", "smartwatch", "costs", "$999", "and", "features", "touch", "screen", "technology."]}
+{"id": "product_03680", "tokens": ["Nike's", "latest", "speaker", "offers", "ergonomic", "for", "$999."]}
+{"id": "product_03681", "tokens": ["The", "Samsung", "speaker", "costs", "$499", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03682", "tokens": ["Buy", "the", "Lenovo", "monitor", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03683", "tokens": ["Get", "the", "ergonomic", "Adidas", "laptop", "today", "for", "$799."]}
+{"id": "product_03684", "tokens": ["Buy", "the", "Nike", "monitor", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03685", "tokens": ["Premium", "Nike", "headphones", "with", "fast", "charging", "available", "at", "$299."]}
+{"id": "product_03686", "tokens": ["Samsung's", "latest", "monitor", "offers", "waterproof", "for", "$149."]}
+{"id": "product_03687", "tokens": ["Premium", "Apple", "television", "with", "noise", "cancelling", "available", "at", "$299."]}
+{"id": "product_03688", "tokens": ["Apple's", "latest", "laptop", "offers", "fast", "charging", "for", "$799."]}
+{"id": "product_03689", "tokens": ["The", "Dell", "television", "costs", "$799", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03690", "tokens": ["The", "ergonomic", "Dell", "camera", "is", "priced", "at", "$999."]}
+{"id": "product_03691", "tokens": ["Looking", "for", "a", "touch", "screen", "smartphone?", "The", "Sony", "model", "is", "$499."]}
+{"id": "product_03692", "tokens": ["Buy", "the", "Apple", "laptop", "-", "HD", "display", ",", "amazing", "quality", ",", "just", "$499."]}
+{"id": "product_03693", "tokens": ["The", "Samsung", "tablet", "costs", "$999", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03694", "tokens": ["New", "HP", "camera", "available", "for", "$1", ",", "499", "with", "lightweight", "design."]}
+{"id": "product_03695", "tokens": ["Nike", "announces", "headphones", "with", "portable", "at", "$599."]}
+{"id": "product_03696", "tokens": ["Looking", "for", "a", "ergonomic", "smartphone?", "The", "LG", "model", "is", "$499."]}
+{"id": "product_03697", "tokens": ["Buy", "the", "Dell", "television", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03698", "tokens": ["Looking", "for", "a", "portable", "smartphone?", "The", "LG", "model", "is", "$149."]}
+{"id": "product_03699", "tokens": ["Buy", "the", "Apple", "laptop", "-", "portable", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03700", "tokens": ["Buy", "the", "Nike", "headphones", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03701", "tokens": ["The", "Samsung", "monitor", "costs", "$999", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03702", "tokens": ["Canon's", "latest", "smartphone", "offers", "waterproof", "for", "$999."]}
+{"id": "product_03703", "tokens": ["Apple's", "latest", "keyboard", "offers", "portable", "for", "$999."]}
+{"id": "product_03704", "tokens": ["The", "Lenovo", "tablet", "costs", "$1", ",", "499", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03705", "tokens": ["New", "Dell", "headphones", "available", "for", "$1", ",", "299", "with", "waterproof", "design."]}
+{"id": "product_03706", "tokens": ["The", "LG", "smartphone", "costs", "$499", "and", "features", "lightweight", "technology."]}
+{"id": "product_03707", "tokens": ["New", "Dell", "tablet", "available", "for", "$1", ",", "299", "with", "ergonomic", "design."]}
+{"id": "product_03708", "tokens": ["Looking", "for", "a", "ergonomic", "camera?", "The", "Canon", "model", "is", "$1", ",", "299."]}
+{"id": "product_03709", "tokens": ["Premium", "Sony", "camera", "with", "HD", "display", "available", "at", "$149."]}
+{"id": "product_03710", "tokens": ["Premium", "Nike", "laptop", "with", "4K", "resolution", "available", "at", "$299."]}
+{"id": "product_03711", "tokens": ["New", "LG", "television", "available", "for", "$299", "with", "4K", "resolution", "design."]}
+{"id": "product_03712", "tokens": ["Great", "deal:", "Samsung", "tablet", "(", "lightweight", ")", "now", "only", "$999!"]}
+{"id": "product_03713", "tokens": ["Great", "deal:", "Samsung", "laptop", "(", "lightweight", ")", "now", "only", "$149!"]}
+{"id": "product_03714", "tokens": ["The", "HD", "display", "Lenovo", "speaker", "is", "priced", "at", "$999."]}
+{"id": "product_03715", "tokens": ["The", "touch", "screen", "Canon", "speaker", "is", "priced", "at", "$299."]}
+{"id": "product_03716", "tokens": ["Apple's", "latest", "speaker", "offers", "portable", "for", "$999."]}
+{"id": "product_03717", "tokens": ["New", "LG", "television", "available", "for", "$149", "with", "waterproof", "design."]}
+{"id": "product_03718", "tokens": ["The", "wireless", "Apple", "keyboard", "is", "priced", "at", "$799."]}
+{"id": "product_03719", "tokens": ["New", "Adidas", "monitor", "available", "for", "$149", "with", "wireless", "design."]}
+{"id": "product_03720", "tokens": ["The", "Lenovo", "smartwatch", "costs", "$999", "and", "features", "portable", "technology."]}
+{"id": "product_03721", "tokens": ["The", "Canon", "speaker", "costs", "$599", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03722", "tokens": ["Dell", "announces", "smartphone", "with", "portable", "at", "$1", ",", "299."]}
+{"id": "product_03723", "tokens": ["Great", "deal:", "Nike", "smartwatch", "(", "waterproof", ")", "now", "only", "$499!"]}
+{"id": "product_03724", "tokens": ["Premium", "Nike", "tablet", "with", "HD", "display", "available", "at", "$599."]}
+{"id": "product_03725", "tokens": ["HP's", "latest", "smartphone", "offers", "lightweight", "for", "$1", ",", "499."]}
+{"id": "product_03726", "tokens": ["Lenovo's", "latest", "monitor", "offers", "lightweight", "for", "$499."]}
+{"id": "product_03727", "tokens": ["Get", "the", "4K", "resolution", "Lenovo", "smartphone", "today", "for", "$1", ",", "299."]}
+{"id": "product_03728", "tokens": ["Great", "deal:", "HP", "television", "(", "wireless", ")", "now", "only", "$799!"]}
+{"id": "product_03729", "tokens": ["The", "Sony", "tablet", "costs", "$599", "and", "features", "wireless", "technology."]}
+{"id": "product_03730", "tokens": ["The", "noise", "cancelling", "Apple", "laptop", "is", "priced", "at", "$999."]}
+{"id": "product_03731", "tokens": ["The", "portable", "LG", "smartwatch", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03732", "tokens": ["The", "wireless", "Apple", "laptop", "is", "priced", "at", "$599."]}
+{"id": "product_03733", "tokens": ["New", "Samsung", "monitor", "available", "for", "$299", "with", "lightweight", "design."]}
+{"id": "product_03734", "tokens": ["The", "Samsung", "speaker", "costs", "$799", "and", "features", "touch", "screen", "technology."]}
+{"id": "product_03735", "tokens": ["Buy", "the", "Nike", "monitor", "-", "wireless", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03736", "tokens": ["The", "4K", "resolution", "Adidas", "smartwatch", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03737", "tokens": ["New", "LG", "camera", "available", "for", "$1", ",", "299", "with", "wireless", "design."]}
+{"id": "product_03738", "tokens": ["Looking", "for", "a", "ergonomic", "smartphone?", "The", "Lenovo", "model", "is", "$299."]}
+{"id": "product_03739", "tokens": ["Sony", "announces", "tablet", "with", "fast", "charging", "at", "$149."]}
+{"id": "product_03740", "tokens": ["Nike's", "latest", "headphones", "offers", "lightweight", "for", "$149."]}
+{"id": "product_03741", "tokens": ["Buy", "the", "Canon", "headphones", "-", "noise", "cancelling", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03742", "tokens": ["The", "portable", "HP", "smartphone", "is", "priced", "at", "$1", ",", "499."]}
+{"id": "product_03743", "tokens": ["Samsung's", "latest", "laptop", "offers", "touch", "screen", "for", "$499."]}
+{"id": "product_03744", "tokens": ["The", "Samsung", "monitor", "costs", "$1", ",", "299", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03745", "tokens": ["Premium", "Dell", "television", "with", "HD", "display", "available", "at", "$999."]}
+{"id": "product_03746", "tokens": ["Canon's", "latest", "smartphone", "offers", "HD", "display", "for", "$599."]}
+{"id": "product_03747", "tokens": ["Premium", "Samsung", "television", "with", "4K", "resolution", "available", "at", "$499."]}
+{"id": "product_03748", "tokens": ["Apple's", "latest", "headphones", "offers", "portable", "for", "$599."]}
+{"id": "product_03749", "tokens": ["Looking", "for", "a", "ergonomic", "camera?", "The", "Sony", "model", "is", "$799."]}
+{"id": "product_03750", "tokens": ["Apple", "announces", "keyboard", "with", "lightweight", "at", "$799."]}
+{"id": "product_03751", "tokens": ["Premium", "HP", "keyboard", "with", "waterproof", "available", "at", "$799."]}
+{"id": "product_03752", "tokens": ["The", "Canon", "smartphone", "costs", "$1", ",", "299", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03753", "tokens": ["Premium", "Sony", "smartphone", "with", "touch", "screen", "available", "at", "$799."]}
+{"id": "product_03754", "tokens": ["Premium", "LG", "laptop", "with", "wireless", "available", "at", "$1", ",", "499."]}
+{"id": "product_03755", "tokens": ["Lenovo's", "latest", "smartphone", "offers", "touch", "screen", "for", "$1", ",", "299."]}
+{"id": "product_03756", "tokens": ["Premium", "Nike", "monitor", "with", "4K", "resolution", "available", "at", "$499."]}
+{"id": "product_03757", "tokens": ["The", "HD", "display", "Dell", "laptop", "is", "priced", "at", "$999."]}
+{"id": "product_03758", "tokens": ["Looking", "for", "a", "4K", "resolution", "headphones?", "The", "Apple", "model", "is", "$1", ",", "299."]}
+{"id": "product_03759", "tokens": ["Buy", "the", "Sony", "tablet", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03760", "tokens": ["Get", "the", "touch", "screen", "Nike", "smartphone", "today", "for", "$1", ",", "499."]}
+{"id": "product_03761", "tokens": ["Sony's", "latest", "headphones", "offers", "fast", "charging", "for", "$299."]}
+{"id": "product_03762", "tokens": ["New", "Apple", "speaker", "available", "for", "$599", "with", "touch", "screen", "design."]}
+{"id": "product_03763", "tokens": ["Nike", "announces", "television", "with", "touch", "screen", "at", "$149."]}
+{"id": "product_03764", "tokens": ["HP's", "latest", "headphones", "offers", "portable", "for", "$499."]}
+{"id": "product_03765", "tokens": ["Premium", "Samsung", "keyboard", "with", "noise", "cancelling", "available", "at", "$799."]}
+{"id": "product_03766", "tokens": ["New", "Apple", "laptop", "available", "for", "$1", ",", "499", "with", "fast", "charging", "design."]}
+{"id": "product_03767", "tokens": ["The", "lightweight", "Adidas", "keyboard", "is", "priced", "at", "$499."]}
+{"id": "product_03768", "tokens": ["The", "HP", "smartwatch", "costs", "$999", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03769", "tokens": ["Looking", "for", "a", "4K", "resolution", "smartwatch?", "The", "Adidas", "model", "is", "$149."]}
+{"id": "product_03770", "tokens": ["Premium", "Adidas", "monitor", "with", "noise", "cancelling", "available", "at", "$599."]}
+{"id": "product_03771", "tokens": ["Great", "deal:", "LG", "keyboard", "(", "lightweight", ")", "now", "only", "$799!"]}
+{"id": "product_03772", "tokens": ["Premium", "Samsung", "smartwatch", "with", "noise", "cancelling", "available", "at", "$1", ",", "299."]}
+{"id": "product_03773", "tokens": ["The", "portable", "Samsung", "monitor", "is", "priced", "at", "$799."]}
+{"id": "product_03774", "tokens": ["HP", "announces", "smartwatch", "with", "ergonomic", "at", "$1", ",", "299."]}
+{"id": "product_03775", "tokens": ["Get", "the", "HD", "display", "LG", "smartphone", "today", "for", "$299."]}
+{"id": "product_03776", "tokens": ["Looking", "for", "a", "noise", "cancelling", "keyboard?", "The", "Samsung", "model", "is", "$599."]}
+{"id": "product_03777", "tokens": ["Lenovo's", "latest", "keyboard", "offers", "waterproof", "for", "$1", ",", "299."]}
+{"id": "product_03778", "tokens": ["Premium", "LG", "smartphone", "with", "touch", "screen", "available", "at", "$1", ",", "299."]}
+{"id": "product_03779", "tokens": ["Great", "deal:", "LG", "tablet", "(", "lightweight", ")", "now", "only", "$799!"]}
+{"id": "product_03780", "tokens": ["Premium", "Nike", "tablet", "with", "ergonomic", "available", "at", "$599."]}
+{"id": "product_03781", "tokens": ["New", "Nike", "headphones", "available", "for", "$999", "with", "ergonomic", "design."]}
+{"id": "product_03782", "tokens": ["The", "HP", "tablet", "costs", "$999", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03783", "tokens": ["The", "wireless", "Dell", "smartwatch", "is", "priced", "at", "$149."]}
+{"id": "product_03784", "tokens": ["Looking", "for", "a", "lightweight", "television?", "The", "Sony", "model", "is", "$299."]}
+{"id": "product_03785", "tokens": ["The", "Dell", "headphones", "costs", "$999", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03786", "tokens": ["The", "Adidas", "speaker", "costs", "$799", "and", "features", "portable", "technology."]}
+{"id": "product_03787", "tokens": ["Looking", "for", "a", "waterproof", "monitor?", "The", "Dell", "model", "is", "$499."]}
+{"id": "product_03788", "tokens": ["Buy", "the", "Adidas", "television", "-", "wireless", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03789", "tokens": ["Apple's", "latest", "monitor", "offers", "touch", "screen", "for", "$799."]}
+{"id": "product_03790", "tokens": ["Buy", "the", "Dell", "camera", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03791", "tokens": ["Great", "deal:", "Samsung", "headphones", "(", "lightweight", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03792", "tokens": ["Lenovo's", "latest", "television", "offers", "portable", "for", "$149."]}
+{"id": "product_03793", "tokens": ["Canon's", "latest", "smartphone", "offers", "touch", "screen", "for", "$149."]}
+{"id": "product_03794", "tokens": ["Great", "deal:", "Nike", "monitor", "(", "wireless", ")", "now", "only", "$299!"]}
+{"id": "product_03795", "tokens": ["Buy", "the", "Lenovo", "monitor", "-", "portable", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03796", "tokens": ["Premium", "Dell", "laptop", "with", "wireless", "available", "at", "$799."]}
+{"id": "product_03797", "tokens": ["Great", "deal:", "Adidas", "headphones", "(", "touch", "screen", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03798", "tokens": ["The", "Lenovo", "speaker", "costs", "$999", "and", "features", "touch", "screen", "technology."]}
+{"id": "product_03799", "tokens": ["Premium", "Adidas", "keyboard", "with", "lightweight", "available", "at", "$799."]}
+{"id": "product_03800", "tokens": ["The", "Apple", "keyboard", "costs", "$799", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03801", "tokens": ["Apple", "announces", "laptop", "with", "noise", "cancelling", "at", "$1", ",", "299."]}
+{"id": "product_03802", "tokens": ["Premium", "LG", "television", "with", "noise", "cancelling", "available", "at", "$1", ",", "499."]}
+{"id": "product_03803", "tokens": ["The", "Lenovo", "speaker", "costs", "$299", "and", "features", "portable", "technology."]}
+{"id": "product_03804", "tokens": ["Great", "deal:", "Adidas", "smartphone", "(", "waterproof", ")", "now", "only", "$499!"]}
+{"id": "product_03805", "tokens": ["Nike", "announces", "laptop", "with", "touch", "screen", "at", "$1", ",", "499."]}
+{"id": "product_03806", "tokens": ["The", "touch", "screen", "HP", "laptop", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03807", "tokens": ["Get", "the", "fast", "charging", "Lenovo", "headphones", "today", "for", "$999."]}
+{"id": "product_03808", "tokens": ["Samsung's", "latest", "headphones", "offers", "portable", "for", "$999."]}
+{"id": "product_03809", "tokens": ["Looking", "for", "a", "4K", "resolution", "laptop?", "The", "Samsung", "model", "is", "$499."]}
+{"id": "product_03810", "tokens": ["The", "ergonomic", "Apple", "speaker", "is", "priced", "at", "$599."]}
+{"id": "product_03811", "tokens": ["The", "Apple", "laptop", "costs", "$999", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03812", "tokens": ["The", "ergonomic", "Sony", "monitor", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03813", "tokens": ["Great", "deal:", "LG", "keyboard", "(", "noise", "cancelling", ")", "now", "only", "$799!"]}
+{"id": "product_03814", "tokens": ["Looking", "for", "a", "noise", "cancelling", "smartwatch?", "The", "HP", "model", "is", "$149."]}
+{"id": "product_03815", "tokens": ["New", "Samsung", "camera", "available", "for", "$799", "with", "noise", "cancelling", "design."]}
+{"id": "product_03816", "tokens": ["Looking", "for", "a", "touch", "screen", "headphones?", "The", "Sony", "model", "is", "$1", ",", "499."]}
+{"id": "product_03817", "tokens": ["New", "Canon", "smartwatch", "available", "for", "$1", ",", "299", "with", "HD", "display", "design."]}
+{"id": "product_03818", "tokens": ["Premium", "LG", "laptop", "with", "portable", "available", "at", "$599."]}
+{"id": "product_03819", "tokens": ["Premium", "Dell", "laptop", "with", "ergonomic", "available", "at", "$999."]}
+{"id": "product_03820", "tokens": ["Premium", "LG", "television", "with", "noise", "cancelling", "available", "at", "$299."]}
+{"id": "product_03821", "tokens": ["Buy", "the", "Lenovo", "camera", "-", "lightweight", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03822", "tokens": ["Looking", "for", "a", "waterproof", "headphones?", "The", "Nike", "model", "is", "$149."]}
+{"id": "product_03823", "tokens": ["The", "LG", "tablet", "costs", "$149", "and", "features", "lightweight", "technology."]}
+{"id": "product_03824", "tokens": ["Adidas", "announces", "smartwatch", "with", "noise", "cancelling", "at", "$1", ",", "299."]}
+{"id": "product_03825", "tokens": ["Great", "deal:", "Dell", "headphones", "(", "waterproof", ")", "now", "only", "$499!"]}
+{"id": "product_03826", "tokens": ["LG", "announces", "keyboard", "with", "noise", "cancelling", "at", "$149."]}
+{"id": "product_03827", "tokens": ["The", "Adidas", "monitor", "costs", "$599", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03828", "tokens": ["Get", "the", "waterproof", "Adidas", "tablet", "today", "for", "$299."]}
+{"id": "product_03829", "tokens": ["Nike's", "latest", "smartwatch", "offers", "touch", "screen", "for", "$999."]}
+{"id": "product_03830", "tokens": ["The", "wireless", "Samsung", "laptop", "is", "priced", "at", "$149."]}
+{"id": "product_03831", "tokens": ["Great", "deal:", "Sony", "headphones", "(", "lightweight", ")", "now", "only", "$499!"]}
+{"id": "product_03832", "tokens": ["The", "Sony", "laptop", "costs", "$1", ",", "299", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03833", "tokens": ["New", "Dell", "television", "available", "for", "$499", "with", "portable", "design."]}
+{"id": "product_03834", "tokens": ["Adidas", "announces", "smartphone", "with", "noise", "cancelling", "at", "$599."]}
+{"id": "product_03835", "tokens": ["Great", "deal:", "Sony", "smartphone", "(", "waterproof", ")", "now", "only", "$149!"]}
+{"id": "product_03836", "tokens": ["HP's", "latest", "television", "offers", "lightweight", "for", "$799."]}
+{"id": "product_03837", "tokens": ["Get", "the", "HD", "display", "Canon", "camera", "today", "for", "$799."]}
+{"id": "product_03838", "tokens": ["The", "Samsung", "television", "costs", "$149", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03839", "tokens": ["Samsung", "announces", "speaker", "with", "ergonomic", "at", "$1", ",", "499."]}
+{"id": "product_03840", "tokens": ["Apple", "announces", "television", "with", "fast", "charging", "at", "$599."]}
+{"id": "product_03841", "tokens": ["The", "HP", "monitor", "costs", "$149", "and", "features", "fast", "charging", "technology."]}
+{"id": "product_03842", "tokens": ["Great", "deal:", "Canon", "camera", "(", "touch", "screen", ")", "now", "only", "$799!"]}
+{"id": "product_03843", "tokens": ["The", "waterproof", "Samsung", "tablet", "is", "priced", "at", "$499."]}
+{"id": "product_03844", "tokens": ["Buy", "the", "Samsung", "television", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03845", "tokens": ["Premium", "Adidas", "tablet", "with", "touch", "screen", "available", "at", "$299."]}
+{"id": "product_03846", "tokens": ["Looking", "for", "a", "waterproof", "smartwatch?", "The", "Nike", "model", "is", "$599."]}
+{"id": "product_03847", "tokens": ["Get", "the", "noise", "cancelling", "Sony", "headphones", "today", "for", "$1", ",", "299."]}
+{"id": "product_03848", "tokens": ["Sony's", "latest", "keyboard", "offers", "4K", "resolution", "for", "$499."]}
+{"id": "product_03849", "tokens": ["Premium", "Adidas", "laptop", "with", "lightweight", "available", "at", "$1", ",", "299."]}
+{"id": "product_03850", "tokens": ["New", "HP", "laptop", "available", "for", "$1", ",", "299", "with", "wireless", "design."]}
+{"id": "product_03851", "tokens": ["Looking", "for", "a", "touch", "screen", "television?", "The", "LG", "model", "is", "$1", ",", "499."]}
+{"id": "product_03852", "tokens": ["Get", "the", "portable", "Adidas", "camera", "today", "for", "$799."]}
+{"id": "product_03853", "tokens": ["Premium", "Adidas", "headphones", "with", "HD", "display", "available", "at", "$1", ",", "499."]}
+{"id": "product_03854", "tokens": ["The", "fast", "charging", "Lenovo", "television", "is", "priced", "at", "$499."]}
+{"id": "product_03855", "tokens": ["The", "Samsung", "monitor", "costs", "$1", ",", "499", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03856", "tokens": ["New", "Apple", "keyboard", "available", "for", "$599", "with", "ergonomic", "design."]}
+{"id": "product_03857", "tokens": ["The", "Apple", "keyboard", "costs", "$1", ",", "499", "and", "features", "touch", "screen", "technology."]}
+{"id": "product_03858", "tokens": ["Nike's", "latest", "smartwatch", "offers", "fast", "charging", "for", "$1", ",", "499."]}
+{"id": "product_03859", "tokens": ["Premium", "Sony", "headphones", "with", "fast", "charging", "available", "at", "$299."]}
+{"id": "product_03860", "tokens": ["New", "HP", "smartphone", "available", "for", "$999", "with", "HD", "display", "design."]}
+{"id": "product_03861", "tokens": ["New", "Lenovo", "laptop", "available", "for", "$149", "with", "noise", "cancelling", "design."]}
+{"id": "product_03862", "tokens": ["The", "wireless", "Dell", "laptop", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03863", "tokens": ["Apple", "announces", "smartphone", "with", "4K", "resolution", "at", "$1", ",", "299."]}
+{"id": "product_03864", "tokens": ["The", "HP", "speaker", "costs", "$299", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03865", "tokens": ["New", "Samsung", "monitor", "available", "for", "$299", "with", "waterproof", "design."]}
+{"id": "product_03866", "tokens": ["The", "Apple", "keyboard", "costs", "$1", ",", "299", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03867", "tokens": ["Great", "deal:", "HP", "speaker", "(", "4K", "resolution", ")", "now", "only", "$299!"]}
+{"id": "product_03868", "tokens": ["Get", "the", "touch", "screen", "Nike", "laptop", "today", "for", "$799."]}
+{"id": "product_03869", "tokens": ["The", "Nike", "laptop", "costs", "$299", "and", "features", "waterproof", "technology."]}
+{"id": "product_03870", "tokens": ["The", "wireless", "Lenovo", "keyboard", "is", "priced", "at", "$599."]}
+{"id": "product_03871", "tokens": ["Lenovo", "announces", "camera", "with", "HD", "display", "at", "$1", ",", "299."]}
+{"id": "product_03872", "tokens": ["The", "Lenovo", "monitor", "costs", "$1", ",", "499", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03873", "tokens": ["Premium", "LG", "laptop", "with", "portable", "available", "at", "$999."]}
+{"id": "product_03874", "tokens": ["The", "Adidas", "smartphone", "costs", "$799", "and", "features", "wireless", "technology."]}
+{"id": "product_03875", "tokens": ["Looking", "for", "a", "HD", "display", "laptop?", "The", "Apple", "model", "is", "$599."]}
+{"id": "product_03876", "tokens": ["New", "Samsung", "headphones", "available", "for", "$999", "with", "waterproof", "design."]}
+{"id": "product_03877", "tokens": ["Get", "the", "touch", "screen", "Nike", "smartwatch", "today", "for", "$1", ",", "299."]}
+{"id": "product_03878", "tokens": ["Get", "the", "ergonomic", "Lenovo", "monitor", "today", "for", "$1", ",", "499."]}
+{"id": "product_03879", "tokens": ["Looking", "for", "a", "noise", "cancelling", "headphones?", "The", "Samsung", "model", "is", "$999."]}
+{"id": "product_03880", "tokens": ["Looking", "for", "a", "lightweight", "tablet?", "The", "Samsung", "model", "is", "$1", ",", "299."]}
+{"id": "product_03881", "tokens": ["Get", "the", "4K", "resolution", "Apple", "smartphone", "today", "for", "$1", ",", "299."]}
+{"id": "product_03882", "tokens": ["Premium", "Samsung", "television", "with", "portable", "available", "at", "$999."]}
+{"id": "product_03883", "tokens": ["Great", "deal:", "Samsung", "camera", "(", "fast", "charging", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03884", "tokens": ["Great", "deal:", "HP", "television", "(", "HD", "display", ")", "now", "only", "$499!"]}
+{"id": "product_03885", "tokens": ["Buy", "the", "Nike", "tablet", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03886", "tokens": ["Canon's", "latest", "television", "offers", "touch", "screen", "for", "$1", ",", "499."]}
+{"id": "product_03887", "tokens": ["New", "Samsung", "laptop", "available", "for", "$499", "with", "lightweight", "design."]}
+{"id": "product_03888", "tokens": ["Lenovo's", "latest", "laptop", "offers", "ergonomic", "for", "$149."]}
+{"id": "product_03889", "tokens": ["Get", "the", "ergonomic", "Lenovo", "television", "today", "for", "$299."]}
+{"id": "product_03890", "tokens": ["New", "HP", "camera", "available", "for", "$499", "with", "noise", "cancelling", "design."]}
+{"id": "product_03891", "tokens": ["Looking", "for", "a", "lightweight", "television?", "The", "Adidas", "model", "is", "$999."]}
+{"id": "product_03892", "tokens": ["Great", "deal:", "Dell", "smartwatch", "(", "lightweight", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03893", "tokens": ["The", "lightweight", "Lenovo", "headphones", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03894", "tokens": ["Great", "deal:", "Samsung", "tablet", "(", "waterproof", ")", "now", "only", "$1", ",", "499!"]}
+{"id": "product_03895", "tokens": ["The", "Lenovo", "television", "costs", "$499", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03896", "tokens": ["Canon's", "latest", "tablet", "offers", "wireless", "for", "$1", ",", "499."]}
+{"id": "product_03897", "tokens": ["Canon", "announces", "smartphone", "with", "wireless", "at", "$999."]}
+{"id": "product_03898", "tokens": ["Buy", "the", "LG", "headphones", "-", "portable", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03899", "tokens": ["Premium", "Samsung", "camera", "with", "lightweight", "available", "at", "$1", ",", "299."]}
+{"id": "product_03900", "tokens": ["Get", "the", "waterproof", "Nike", "keyboard", "today", "for", "$799."]}
+{"id": "product_03901", "tokens": ["Premium", "Adidas", "smartphone", "with", "HD", "display", "available", "at", "$299."]}
+{"id": "product_03902", "tokens": ["The", "Sony", "camera", "costs", "$1", ",", "299", "and", "features", "noise", "cancelling", "technology."]}
+{"id": "product_03903", "tokens": ["The", "lightweight", "Adidas", "headphones", "is", "priced", "at", "$999."]}
+{"id": "product_03904", "tokens": ["Looking", "for", "a", "wireless", "smartwatch?", "The", "Apple", "model", "is", "$1", ",", "299."]}
+{"id": "product_03905", "tokens": ["The", "LG", "television", "costs", "$799", "and", "features", "lightweight", "technology."]}
+{"id": "product_03906", "tokens": ["The", "HD", "display", "Dell", "television", "is", "priced", "at", "$299."]}
+{"id": "product_03907", "tokens": ["Adidas's", "latest", "monitor", "offers", "noise", "cancelling", "for", "$999."]}
+{"id": "product_03908", "tokens": ["Get", "the", "4K", "resolution", "LG", "tablet", "today", "for", "$149."]}
+{"id": "product_03909", "tokens": ["Dell", "announces", "laptop", "with", "HD", "display", "at", "$499."]}
+{"id": "product_03910", "tokens": ["LG's", "latest", "speaker", "offers", "portable", "for", "$1", ",", "499."]}
+{"id": "product_03911", "tokens": ["The", "fast", "charging", "Sony", "tablet", "is", "priced", "at", "$599."]}
+{"id": "product_03912", "tokens": ["Buy", "the", "Apple", "television", "-", "portable", ",", "amazing", "quality", ",", "just", "$799."]}
+{"id": "product_03913", "tokens": ["The", "noise", "cancelling", "Adidas", "headphones", "is", "priced", "at", "$1", ",", "499."]}
+{"id": "product_03914", "tokens": ["New", "Dell", "keyboard", "available", "for", "$799", "with", "portable", "design."]}
+{"id": "product_03915", "tokens": ["New", "Samsung", "camera", "available", "for", "$799", "with", "HD", "display", "design."]}
+{"id": "product_03916", "tokens": ["Buy", "the", "Sony", "monitor", "-", "portable", ",", "amazing", "quality", ",", "just", "$599."]}
+{"id": "product_03917", "tokens": ["Sony's", "latest", "headphones", "offers", "noise", "cancelling", "for", "$499."]}
+{"id": "product_03918", "tokens": ["Buy", "the", "LG", "television", "-", "waterproof", ",", "amazing", "quality", ",", "just", "$1", ",", "299."]}
+{"id": "product_03919", "tokens": ["Adidas", "announces", "smartwatch", "with", "HD", "display", "at", "$1", ",", "499."]}
+{"id": "product_03920", "tokens": ["Canon", "announces", "keyboard", "with", "lightweight", "at", "$299."]}
+{"id": "product_03921", "tokens": ["Looking", "for", "a", "ergonomic", "smartwatch?", "The", "HP", "model", "is", "$1", ",", "299."]}
+{"id": "product_03922", "tokens": ["New", "HP", "smartphone", "available", "for", "$1", ",", "499", "with", "touch", "screen", "design."]}
+{"id": "product_03923", "tokens": ["New", "Nike", "keyboard", "available", "for", "$299", "with", "waterproof", "design."]}
+{"id": "product_03924", "tokens": ["Canon", "announces", "tablet", "with", "4K", "resolution", "at", "$499."]}
+{"id": "product_03925", "tokens": ["The", "waterproof", "Sony", "keyboard", "is", "priced", "at", "$149."]}
+{"id": "product_03926", "tokens": ["Premium", "Dell", "camera", "with", "wireless", "available", "at", "$599."]}
+{"id": "product_03927", "tokens": ["Premium", "Lenovo", "headphones", "with", "noise", "cancelling", "available", "at", "$499."]}
+{"id": "product_03928", "tokens": ["Buy", "the", "Lenovo", "monitor", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03929", "tokens": ["Buy", "the", "Samsung", "laptop", "-", "HD", "display", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03930", "tokens": ["Adidas's", "latest", "monitor", "offers", "fast", "charging", "for", "$1", ",", "299."]}
+{"id": "product_03931", "tokens": ["The", "HD", "display", "LG", "headphones", "is", "priced", "at", "$599."]}
+{"id": "product_03932", "tokens": ["The", "Canon", "camera", "costs", "$799", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03933", "tokens": ["Get", "the", "HD", "display", "Lenovo", "speaker", "today", "for", "$999."]}
+{"id": "product_03934", "tokens": ["The", "HD", "display", "Canon", "speaker", "is", "priced", "at", "$599."]}
+{"id": "product_03935", "tokens": ["The", "wireless", "HP", "keyboard", "is", "priced", "at", "$299."]}
+{"id": "product_03936", "tokens": ["Apple's", "latest", "headphones", "offers", "HD", "display", "for", "$599."]}
+{"id": "product_03937", "tokens": ["Samsung", "announces", "smartphone", "with", "portable", "at", "$299."]}
+{"id": "product_03938", "tokens": ["Get", "the", "noise", "cancelling", "Dell", "keyboard", "today", "for", "$1", ",", "499."]}
+{"id": "product_03939", "tokens": ["Looking", "for", "a", "touch", "screen", "headphones?", "The", "Sony", "model", "is", "$999."]}
+{"id": "product_03940", "tokens": ["Buy", "the", "Samsung", "headphones", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$149."]}
+{"id": "product_03941", "tokens": ["New", "Sony", "speaker", "available", "for", "$799", "with", "waterproof", "design."]}
+{"id": "product_03942", "tokens": ["Great", "deal:", "Apple", "smartwatch", "(", "lightweight", ")", "now", "only", "$1", ",", "299!"]}
+{"id": "product_03943", "tokens": ["Premium", "LG", "keyboard", "with", "4K", "resolution", "available", "at", "$1", ",", "499."]}
+{"id": "product_03944", "tokens": ["The", "touch", "screen", "Lenovo", "keyboard", "is", "priced", "at", "$1", ",", "299."]}
+{"id": "product_03945", "tokens": ["Get", "the", "ergonomic", "Sony", "television", "today", "for", "$1", ",", "299."]}
+{"id": "product_03946", "tokens": ["The", "waterproof", "HP", "laptop", "is", "priced", "at", "$999."]}
+{"id": "product_03947", "tokens": ["HP's", "latest", "monitor", "offers", "4K", "resolution", "for", "$799."]}
+{"id": "product_03948", "tokens": ["The", "Dell", "keyboard", "costs", "$599", "and", "features", "ergonomic", "technology."]}
+{"id": "product_03949", "tokens": ["Buy", "the", "Lenovo", "smartwatch", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03950", "tokens": ["Get", "the", "HD", "display", "Apple", "laptop", "today", "for", "$499."]}
+{"id": "product_03951", "tokens": ["Lenovo's", "latest", "television", "offers", "touch", "screen", "for", "$599."]}
+{"id": "product_03952", "tokens": ["The", "Dell", "television", "costs", "$499", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03953", "tokens": ["Premium", "Canon", "camera", "with", "4K", "resolution", "available", "at", "$599."]}
+{"id": "product_03954", "tokens": ["Great", "deal:", "Lenovo", "smartphone", "(", "4K", "resolution", ")", "now", "only", "$799!"]}
+{"id": "product_03955", "tokens": ["Dell", "announces", "smartphone", "with", "portable", "at", "$299."]}
+{"id": "product_03956", "tokens": ["Get", "the", "4K", "resolution", "Samsung", "tablet", "today", "for", "$299."]}
+{"id": "product_03957", "tokens": ["Premium", "Sony", "monitor", "with", "4K", "resolution", "available", "at", "$599."]}
+{"id": "product_03958", "tokens": ["New", "Adidas", "laptop", "available", "for", "$149", "with", "touch", "screen", "design."]}
+{"id": "product_03959", "tokens": ["Dell", "announces", "speaker", "with", "fast", "charging", "at", "$1", ",", "299."]}
+{"id": "product_03960", "tokens": ["Buy", "the", "Dell", "television", "-", "wireless", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03961", "tokens": ["The", "LG", "smartwatch", "costs", "$499", "and", "features", "waterproof", "technology."]}
+{"id": "product_03962", "tokens": ["Buy", "the", "Apple", "speaker", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$999."]}
+{"id": "product_03963", "tokens": ["Get", "the", "4K", "resolution", "Sony", "headphones", "today", "for", "$999."]}
+{"id": "product_03964", "tokens": ["Get", "the", "lightweight", "Samsung", "laptop", "today", "for", "$599."]}
+{"id": "product_03965", "tokens": ["Canon's", "latest", "camera", "offers", "wireless", "for", "$1", ",", "499."]}
+{"id": "product_03966", "tokens": ["Get", "the", "touch", "screen", "HP", "television", "today", "for", "$799."]}
+{"id": "product_03967", "tokens": ["New", "Sony", "television", "available", "for", "$599", "with", "ergonomic", "design."]}
+{"id": "product_03968", "tokens": ["The", "Adidas", "headphones", "costs", "$149", "and", "features", "4K", "resolution", "technology."]}
+{"id": "product_03969", "tokens": ["Great", "deal:", "Dell", "laptop", "(", "wireless", ")", "now", "only", "$299!"]}
+{"id": "product_03970", "tokens": ["New", "HP", "smartwatch", "available", "for", "$149", "with", "ergonomic", "design."]}
+{"id": "product_03971", "tokens": ["LG", "announces", "camera", "with", "4K", "resolution", "at", "$299."]}
+{"id": "product_03972", "tokens": ["The", "Dell", "keyboard", "costs", "$1", ",", "499", "and", "features", "waterproof", "technology."]}
+{"id": "product_03973", "tokens": ["Samsung's", "latest", "smartphone", "offers", "HD", "display", "for", "$599."]}
+{"id": "product_03974", "tokens": ["Get", "the", "noise", "cancelling", "Apple", "headphones", "today", "for", "$999."]}
+{"id": "product_03975", "tokens": ["Nike's", "latest", "television", "offers", "4K", "resolution", "for", "$499."]}
+{"id": "product_03976", "tokens": ["New", "LG", "keyboard", "available", "for", "$299", "with", "lightweight", "design."]}
+{"id": "product_03977", "tokens": ["The", "LG", "monitor", "costs", "$1", ",", "299", "and", "features", "wireless", "technology."]}
+{"id": "product_03978", "tokens": ["Premium", "Adidas", "smartwatch", "with", "portable", "available", "at", "$1", ",", "499."]}
+{"id": "product_03979", "tokens": ["Premium", "Apple", "tablet", "with", "portable", "available", "at", "$1", ",", "299."]}
+{"id": "product_03980", "tokens": ["Looking", "for", "a", "touch", "screen", "television?", "The", "Sony", "model", "is", "$999."]}
+{"id": "product_03981", "tokens": ["Get", "the", "noise", "cancelling", "HP", "keyboard", "today", "for", "$499."]}
+{"id": "product_03982", "tokens": ["The", "portable", "Lenovo", "camera", "is", "priced", "at", "$499."]}
+{"id": "product_03983", "tokens": ["Sony", "announces", "smartwatch", "with", "noise", "cancelling", "at", "$999."]}
+{"id": "product_03984", "tokens": ["Buy", "the", "Lenovo", "headphones", "-", "4K", "resolution", ",", "amazing", "quality", ",", "just", "$1", ",", "499."]}
+{"id": "product_03985", "tokens": ["Looking", "for", "a", "touch", "screen", "laptop?", "The", "Samsung", "model", "is", "$1", ",", "499."]}
+{"id": "product_03986", "tokens": ["The", "Canon", "speaker", "costs", "$499", "and", "features", "waterproof", "technology."]}
+{"id": "product_03987", "tokens": ["HP's", "latest", "speaker", "offers", "noise", "cancelling", "for", "$499."]}
+{"id": "product_03988", "tokens": ["New", "Adidas", "smartwatch", "available", "for", "$149", "with", "fast", "charging", "design."]}
+{"id": "product_03989", "tokens": ["Buy", "the", "Dell", "monitor", "-", "fast", "charging", ",", "amazing", "quality", ",", "just", "$299."]}
+{"id": "product_03990", "tokens": ["Get", "the", "4K", "resolution", "Apple", "television", "today", "for", "$999."]}
+{"id": "product_03991", "tokens": ["Looking", "for", "a", "waterproof", "headphones?", "The", "HP", "model", "is", "$1", ",", "499."]}
+{"id": "product_03992", "tokens": ["Buy", "the", "LG", "smartphone", "-", "ergonomic", ",", "amazing", "quality", ",", "just", "$499."]}
+{"id": "product_03993", "tokens": ["The", "Adidas", "television", "costs", "$999", "and", "features", "HD", "display", "technology."]}
+{"id": "product_03994", "tokens": ["The", "4K", "resolution", "Lenovo", "keyboard", "is", "priced", "at", "$299."]}
+{"id": "product_03995", "tokens": ["Looking", "for", "a", "portable", "smartphone?", "The", "Nike", "model", "is", "$499."]}
+{"id": "product_03996", "tokens": ["Great", "deal:", "HP", "television", "(", "touch", "screen", ")", "now", "only", "$599!"]}
+{"id": "product_03997", "tokens": ["Lenovo", "announces", "smartwatch", "with", "waterproof", "at", "$599."]}
+{"id": "product_03998", "tokens": ["Adidas's", "latest", "television", "offers", "fast", "charging", "for", "$499."]}
+{"id": "product_03999", "tokens": ["Great", "deal:", "Sony", "tablet", "(", "4K", "resolution", ")", "now", "only", "$799!"]}

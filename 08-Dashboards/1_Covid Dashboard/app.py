@@ -5,15 +5,12 @@ COVID app
 '''
 
 import dash
+from dash import html, dcc, dash_table, Input, Output
 import dash_bootstrap_components as dbc
-import dash_html_components as html
 import requests
 import pandas as pd
-import dash_core_components as dcc
 import plotly.express as px
 import numpy as np
-from dash.dependencies import Input,Output
-import dash_table
 
 app = dash.Dash(external_stylesheets = [ dbc.themes.FLATLY],)
 
@@ -21,18 +18,29 @@ app = dash.Dash(external_stylesheets = [ dbc.themes.FLATLY],)
 COVID_IMG = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbigredmarkets.com%2Fwp-content%2Fuploads%2F2020%2F03%2FCovid-19.png&f=1&nofb=1"
 
 
-url = "https://api.covid19api.com/summary"
-response_world = requests.request("GET", url)
-df_countries=pd.DataFrame(response_world.json()['Countries'])
-df_global=pd.DataFrame(response_world.json()['Global'], index=[0])
-df_last_updated=response_world.json()['Date']
+url_global = "https://disease.sh/v3/covid-19/all"
+url_countries = "https://disease.sh/v3/covid-19/countries"
 
-confirmed = df_global['TotalConfirmed'][0]
-newconfirmed = df_global['NewConfirmed'][0]
-deaths = df_global['TotalDeaths'][0]
-newdeaths = df_global['NewDeaths'][0]
-recovered = df_global['TotalRecovered'][0]
-newrecovered = df_global['NewRecovered'][0]
+response_global = requests.request("GET", url_global)
+response_countries = requests.request("GET", url_countries)
+
+df_global = pd.DataFrame([response_global.json()])
+df_countries = pd.DataFrame(response_countries.json())
+
+# Map the new API response to old variable names
+confirmed = df_global['cases'][0]
+newconfirmed = df_global['todayCases'][0]
+deaths = df_global['deaths'][0]
+newdeaths = df_global['todayDeaths'][0]
+recovered = df_global['recovered'][0]
+newrecovered = df_global['todayRecovered'][0]
+
+# Prepare countries dataframe with old column names for compatibility
+df_countries['Country'] = df_countries['country']
+df_countries['TotalConfirmed'] = df_countries['cases']
+df_countries['TotalDeaths'] = df_countries['deaths']
+df_countries['TotalRecovered'] = df_countries['recovered']
+df_countries['CountryCode'] = df_countries['countryInfo'].apply(lambda x: x['iso2'] if isinstance(x, dict) else None)
 
 
 data = {'alpha-2':["AD",	"AE",	"AF",	"AG",	"AI",	"AL",	"AM",	"AN",	"AO",	"AQ",	"AR",	"AS",	"AT",	"AU",	"AW",
@@ -190,8 +198,8 @@ app.layout = html.Div(id = 'parent', children = [navbar,body_app])
 
 
 
-@app.callback(Output(component_id='world-table-output', component_property= 'children'),
-              [Input(component_id='country-dropdown', component_property='value')])
+@app.callback(Output('world-table-output', 'children'),
+              Input('country-dropdown', 'value'))
 
 def table_country(country):
     if country == 'All':
@@ -255,4 +263,4 @@ def table_country(country):
 
 
 if __name__ == "__main__":
-    app.run_server()
+    app.run(debug=True)

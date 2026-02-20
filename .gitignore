@@ -1,2 +1,13 @@
 # Slides folder
 slides/
+
+# Virtual environments
+venv/
+venv_*/
+.venv/
+env/
+ENV/
+.env/
+
+# Claude Code configuration
+.claude/

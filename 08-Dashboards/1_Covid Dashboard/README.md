@@ -39,9 +39,10 @@ Each card shows the current total with a "+N" indicator for new cases in the lat
 ## Technical Implementation
 
 ### Data Source
-- **API**: COVID-19 API (`https://api.covid19api.com/summary`)
+- **API**: Novel COVID API / disease.sh (`https://disease.sh/v3/covid-19/`)
 - Real-time data fetched on app initialization
 - Global summary and country-level breakdown
+- **Note**: Updated from the deprecated `api.covid19api.com` API
 
 ### Key Components
 
@@ -162,30 +163,47 @@ The `data_for_cases()` function creates reusable card components with:
 
 ## API Response Structure
 
+### Global Endpoint (`/all`)
 ```python
 response.json() = {
-    'Global': {
-        'TotalConfirmed': int,
-        'NewConfirmed': int,
-        'TotalDeaths': int,
-        'NewDeaths': int,
-        'TotalRecovered': int,
-        'NewRecovered': int
-    },
-    'Countries': [
-        {
-            'Country': str,
-            'CountryCode': str,
-            'TotalConfirmed': int,
-            'TotalDeaths': int,
-            'TotalRecovered': int,
-            ...
-        },
-        ...
-    ],
-    'Date': str (ISO timestamp)
+    'cases': int,
+    'todayCases': int,
+    'deaths': int,
+    'todayDeaths': int,
+    'recovered': int,
+    'todayRecovered': int,
+    'updated': timestamp,
+    'active': int,
+    'critical': int,
+    ...
 }
 ```
+
+### Countries Endpoint (`/countries`)
+```python
+response.json() = [
+    {
+        'country': str,
+        'countryInfo': {
+            'iso2': str,
+            'iso3': str,
+            'lat': float,
+            'long': float,
+            'flag': str (url)
+        },
+        'cases': int,
+        'todayCases': int,
+        'deaths': int,
+        'todayDeaths': int,
+        'recovered': int,
+        'todayRecovered': int,
+        ...
+    },
+    ...
+]
+```
+
+**API Documentation**: https://disease.sh/docs/
 
 ## Learning Outcomes
 

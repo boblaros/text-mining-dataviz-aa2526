@@ -1,18 +1,21 @@
-# Core Dash Dependencies
-dash==2.14.0
-dash-bootstrap-components==1.5.0
-plotly==5.17.0
+# Core Dash Dependencies (Python 3.12 compatible)
+dash>=2.17.0
+dash-bootstrap-components>=1.6.0
+plotly>=5.22.0
 
 # Data Processing
-pandas==2.1.0
-numpy==1.24.3
+pandas>=2.2.0
+numpy>=1.26.0
 
 # COVID Dashboard - API Requests
-requests==2.31.0
+requests>=2.31.0
 
 # NLP QA App - Transformer Models
-transformers==4.35.0
-torch==2.1.0
+transformers>=4.40.0
+torch>=2.3.0
+
+# Python 3.12 compatibility
+setuptools>=69.0.0
 
 # Optional: For production deployment
 # gunicorn==21.2.0

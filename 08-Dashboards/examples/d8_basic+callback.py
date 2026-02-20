@@ -6,9 +6,9 @@ component (the output).
 '''
 
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output
+from dash import dcc
+from dash import html
+from dash import Input, Output
 
 #app initialization
 app = dash.Dash()
@@ -50,4 +50,4 @@ def basic_callback(input_value):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run(debug=True)

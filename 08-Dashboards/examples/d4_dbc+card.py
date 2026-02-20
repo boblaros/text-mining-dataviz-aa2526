@@ -6,7 +6,7 @@ Visualizing Cards into the Dashboards
 
 import dash
 import dash_bootstrap_components as dbc
-import dash_html_components as html
+from dash import html
 
 
 app = dash.Dash(external_stylesheets = [ dbc.themes.FLATLY],)
@@ -40,4 +40,4 @@ app.layout = dbc.Container([
     ],fluid = True)
 
 if __name__ == "__main__":
-    app.run_server()
+    app.run(debug=True)

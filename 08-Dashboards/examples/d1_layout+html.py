@@ -9,10 +9,10 @@ pip install dash plotly
 """
 
 import dash
-import dash_html_components as html
+from dash import html
 import plotly.graph_objects as go
 import plotly.express as px
-import dash_core_components as dcc
+from dash import dcc
 
 #inizializzazione dell'applicazione
 app = dash.Dash()
@@ -66,4 +66,4 @@ app.layout = html.Div(id = 'parent', children = [
     ])
 
 if __name__ == '__main__': 
-    app.run_server()
+    app.run(debug=True)

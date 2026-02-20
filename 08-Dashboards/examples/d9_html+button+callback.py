@@ -4,8 +4,8 @@ Callbacks associated to a click on a button'''
 
 # from emb_cov import *
 import dash
-import dash_html_components as html
-from dash.dependencies import Input, Output
+from dash import html
+from dash import Input, Output
 
 #app inizialization
 app = dash.Dash()
@@ -32,4 +32,4 @@ def button_update(value): #function that given the Input, generates the Output
     
 
 if __name__ == "__main__":
-    app.run_server(debug=False)
+    app.run(debug=True)

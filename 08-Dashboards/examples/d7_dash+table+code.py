@@ -6,8 +6,8 @@ Tables: Data Tables in Dash component designed for viewing, editing, and explori
 
 
 import dash
-import dash_html_components as html
-import dash_table
+from dash import html
+from dash import dash_table
 import pandas as pd
 
 #df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/multiple_y_axis.csv")
@@ -80,5 +80,5 @@ app.layout = html.Div(id = 'parent_div', children = [table])
 
 
 if __name__ == '__main__':
-    app.run_server() 
+    app.run(debug=True) 
     

@@ -8,9 +8,9 @@ Inputs and States in DashBoards
 '''
 
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output, State
+from dash import dcc
+from dash import html
+from dash import Input, Output, State
 
 
 app = dash.Dash()
@@ -36,4 +36,4 @@ def update_output(n_clicks, input1, input2):
 
 
 if __name__== '__main__':
-    app.run_server()
+    app.run(debug=True)

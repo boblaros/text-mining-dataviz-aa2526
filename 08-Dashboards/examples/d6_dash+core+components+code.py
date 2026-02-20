@@ -7,8 +7,8 @@ https://dash.plotly.com/dash-core-components
 """    
     
 import dash
-import dash_html_components as html
-import dash_core_components as dcc
+from dash import html
+from dash import dcc
 from datetime import datetime as dt
 
 
@@ -97,4 +97,4 @@ quotes, and more.'''])
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run(debug=True)

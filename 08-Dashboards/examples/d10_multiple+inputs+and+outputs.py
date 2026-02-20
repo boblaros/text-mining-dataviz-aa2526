@@ -6,10 +6,10 @@ timeline and the dropdown list selection.
 '''
 
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 import plotly.express as px
-from dash.dependencies import Input, Output
+from dash import Input, Output
 import numpy as np
 
 # GapMinder dataset: https://www.gapminder.org/data/
@@ -63,4 +63,4 @@ def graph_update(slider_value, dropdown_value):
     
 
 if __name__== '__main__':
-    app.run_server()
+    app.run(debug=True)

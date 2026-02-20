@@ -19,7 +19,7 @@ import numpy as np
 
 ## reading the dataset 
 
-url = 'https://raw.githubusercontent.com/nluninja/text-mining-dataviz/refs/heads/main/6.%20Dashboards/2_Sales%20App/retail_sales.csv'
+url = 'https://raw.githubusercontent.com/nluninja/text-mining-dataviz-aa2526/refs/heads/main/08-Dashboards/2_Sales%20App/retail_sales.csv'
 
 pd_2 = pd.read_csv(url)
 

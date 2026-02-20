@@ -15,7 +15,7 @@ import numpy as np
 app = dash.Dash(external_stylesheets = [ dbc.themes.FLATLY],)
 
 
-COVID_IMG = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbigredmarkets.com%2Fwp-content%2Fuploads%2F2020%2F03%2FCovid-19.png&f=1&nofb=1"
+COVID_IMG = "https://toppng.com/uploads/preview/coronavirus-covid-19-11582576796epubzxzj0e.png"
 
 
 url_global = "https://disease.sh/v3/covid-19/all"

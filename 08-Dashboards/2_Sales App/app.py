@@ -10,10 +10,8 @@ Sales DashBoard App
 ###    and want to autoupdate the changes while making the changes.  
 
 import dash
-import dash_html_components as html
+from dash import html, dcc, Input, Output
 import plotly.graph_objects as go
-import dash_core_components as dcc
-from dash.dependencies import Input, Output
 import pandas as pd
 import dash_bootstrap_components as dbc
 import numpy as np
@@ -403,8 +401,7 @@ def update_cards(base, comparison):
 
 
 if __name__ == "__main__":
-    app.run_server()
-    #debug = True
+    app.run(debug=True)
 
 
 

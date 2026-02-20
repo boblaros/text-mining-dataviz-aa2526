@@ -40,7 +40,7 @@ app.layout = html.Div(id = 'parent', children = [
 
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run(debug=True)
 
 
 

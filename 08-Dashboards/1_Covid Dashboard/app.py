@@ -13,6 +13,7 @@ import plotly.express as px
 import numpy as np
 
 app = dash.Dash(external_stylesheets = [ dbc.themes.FLATLY],)
+server = app.server  # Required for deployment (Heroku, Render, etc.)
 
 
 COVID_IMG = "https://toppng.com/uploads/preview/coronavirus-covid-19-11582576796epubzxzj0e.png"

@@ -17,7 +17,7 @@ app = dash.Dash()
 app.layout = html.Div(id = 'parent', children = [
     
     #heading 
-    html.H3(id = 'h3', children = 'Basic Callback example'),
+    html.H3(id = 'mytitle', children = 'Basic Callback example', style={'font-family':'Verdana', 'font-size':100, 'color':'red'}),
     
     html.Br(),
     

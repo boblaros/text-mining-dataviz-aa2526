@@ -57,7 +57,7 @@ def line_chart(df, df2):
 #layout definition
 
 app.layout = html.Div(id = 'parent', children = [
-    html.H1(id = 'H1', children = 'Styling using html components', style = {'textAlign':'center',\
+    html.H1(id = 'mytitle', children = 'Styling using html components - DEMO MODE', style = {'textAlign':'center',\
                                             'marginTop':40,'marginBottom':40}),
     html.Div(id = 'bar_div', children = [dcc.Graph(id = 'bar_plot', figure = bar_chart(df, df2))],style = {'width':'50%','display':'inline-block'}),
     
@@ -66,4 +66,4 @@ app.layout = html.Div(id = 'parent', children = [
     ])
 
 if __name__ == '__main__': 
-    app.run(debug=True)
+    app.run(debug=True,port=8051)

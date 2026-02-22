@@ -13,18 +13,18 @@ app = dash.Dash()
 #app layout
 app.layout = html.Div(id = 'parent', children = [
     
-    html.Button(id = 'html-button', children = 'Click the button !', n_clicks = 0),
+    html.Button(id = 'mybutton', children = 'Click the button !', n_clicks = 0),
     
     html.Br(),
     
-    html.Div(id = 'output-text')
+    html.Div(id = 'myoutputtext')
     
     
     ])
 
 #app callback
-@app.callback(Output(component_id='output-text', component_property='children'),
-              [Input(component_id='html-button',component_property='n_clicks')])
+@app.callback(Output(component_id='myoutputtext', component_property='children'),
+              [Input(component_id='mybutton',component_property='n_clicks')])
 def button_update(value): #function that given the Input, generates the Output
     return html.Div(str(value) + ' clicks !')
 

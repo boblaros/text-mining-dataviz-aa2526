@@ -68,6 +68,43 @@ Interactive dashboard development with Dash.
 - Callbacks (basic, multiple inputs/outputs, chained, with State)
 - Real-world applications: COVID dashboard, sales app, NLP Q&A app
 
+### 09 - Transfer Learning
+Practical demonstrations of transfer learning in NLP.
+- **Transfer Learning Demo**: Comparing three approaches on BERT
+  - Training from scratch (random initialization)
+  - Feature extraction (frozen BERT + classifier)
+  - Fine-tuning (end-to-end adaptation)
+  - Performance comparison and visualization
+- **ULMFit Experiment**: Three-step transfer learning process
+  - General-domain language model pre-training (simulated)
+  - Target task language model fine-tuning
+  - Classifier training with gradual unfreezing
+  - Discriminative fine-tuning with layer-wise learning rates
+
+### 10 - Attention Mechanisms
+Understanding attention in neural networks.
+- Bahdanau Attention (simplified implementation)
+- Visualization of attention weights
+- Seq2seq models with attention
+
+### 11 - Transformers
+Introduction to Transformer architecture and Hugging Face ecosystem.
+- Transformer anatomy and self-attention mechanism
+- Multi-head attention visualization
+- Hugging Face Transformers library introduction
+- Working with pre-trained models
+- Tokenizers and model pipelines
+
+### 12 - BERT
+Advanced applications with BERT-based models.
+- Text Classification with Transformers
+  - Fine-tuning BERT for sentiment analysis
+  - Model evaluation and comparison
+- Question Answering with fine-tuned BERT
+  - SQuAD dataset and QA task
+  - Extractive QA implementation
+  - Confidence scores and answer extraction
+
 ## Getting Started
 
 ### Clone the Repository

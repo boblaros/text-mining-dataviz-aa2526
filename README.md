@@ -95,15 +95,140 @@ Introduction to Transformer architecture and Hugging Face ecosystem.
 - Working with pre-trained models
 - Tokenizers and model pipelines
 
-### 12 - BERT
+### 12 - BERT (Encoder Models)
 Advanced applications with BERT-based models.
 - Text Classification with Transformers
   - Fine-tuning BERT for sentiment analysis
   - Model evaluation and comparison
+  - Comprehensive metrics (Accuracy, Precision, Recall, F1, ROC)
 - Question Answering with fine-tuned BERT
   - SQuAD dataset and QA task
   - Extractive QA implementation
+  - Exact Match (EM) and F1 metrics
   - Confidence scores and answer extraction
+
+### 13 - GPT (Decoder Models)
+Text generation with GPT models.
+- Autoregressive text generation
+- Sampling strategies (temperature, top-k, top-p)
+- Generation metrics
+  - Perplexity (model confidence)
+  - Diversity metrics (Distinct-n, Self-BLEU)
+  - BLEU and ROUGE scores
+- BERT vs GPT comparison
+- Controlled generation techniques
+
+### 14 - RAG & Modern LLMs
+Real-world applications combining retrieval and generation.
+- **RAG Pipeline**
+  - Building knowledge bases with vector databases (FAISS)
+  - Semantic search with embeddings
+  - Retrieval-Augmented Generation architecture
+  - Retrieval metrics (Precision@K, Recall@K, MRR, NDCG)
+  - Generation quality metrics (faithfulness, relevance)
+  - End-to-end performance analysis
+- **Modern LLM APIs**
+  - Working with GPT-4, Claude, and other modern LLMs
+  - Prompt engineering techniques
+  - Few-shot learning
+  - Cost-performance optimization
+  - LLM evaluation frameworks
+  - Production best practices
+
+---
+
+## Modules 12-14: Advanced Transformers (10 Hours)
+
+**NOTE:** Modules 12-14 are NEW content focused on modern transformer models with comprehensive metrics coverage, ideal for quantitative students.
+
+### Time Allocation
+- **Module 12 (BERT)**: 2 hours - Encoder models for understanding
+- **Module 13 (GPT)**: 2 hours - Decoder models for generation
+- **Module 14 (RAG)**: 5 hours - Real-world applications
+- **Theory/Slides**: 1 hour - BERT architecture overview
+- **Total**: 10 hours
+
+### Complete Metrics Coverage
+
+These modules emphasize quantitative evaluation throughout:
+
+**Classification Tasks (Module 12.1):**
+- Accuracy, Precision, Recall, F1 Score
+- Macro/Micro/Weighted F1
+- Confusion Matrix, ROC Curves
+- Per-class performance analysis
+
+**Question Answering (Module 12.2):**
+- Exact Match (EM) - binary correctness
+- F1 Score - token-level overlap
+- Confidence scores
+
+**Text Generation (Module 13):**
+- Perplexity - model confidence
+- Distinct-1/2/3 - diversity metrics
+- Self-BLEU - inter-sample similarity
+- BLEU/ROUGE - task-specific quality
+- Inference time measurement
+
+**RAG Pipeline (Module 14.1):**
+- Retrieval: Precision@K, Recall@K, MRR, NDCG
+- Generation: Faithfulness, Answer Relevance, Correctness
+- Performance: Latency, Cost per query
+
+**Modern LLMs (Module 14.2):**
+- Accuracy, Latency (ms), Cost ($)
+- Monthly cost projections at scale
+- LLM-as-judge evaluation (1-5 scale)
+- Benchmark performance (MMLU, etc.)
+
+### Learning Outcomes
+
+By completing modules 12-14, students will be able to:
+
+**Technical Implementation:**
+1. Fine-tune BERT for classification, NER, and extractive Q&A
+2. Generate text with GPT using controlled sampling strategies
+3. Build complete RAG systems with vector databases
+4. Integrate modern LLM APIs (GPT-4, Claude) into applications
+5. Create production-ready NLP systems with proper evaluation
+
+**Evaluation & Analysis:**
+6. Calculate and interpret all major NLP metrics (EM, F1, Precision, Recall, etc.)
+7. Measure generation quality (perplexity, BLEU, ROUGE, diversity)
+8. Evaluate retrieval systems (Precision@K, MRR, NDCG)
+9. Perform comprehensive cost-benefit analysis
+10. Conduct model comparisons with quantitative evidence
+
+**Decision Making:**
+11. Choose appropriate models for different tasks (BERT vs GPT vs LLM APIs)
+12. Decide between fine-tuning and API usage based on data
+13. Optimize systems for production (cost, latency, quality trade-offs)
+14. Design evaluation frameworks for both objective and subjective tasks
+
+### For Instructors
+
+**Before Class:**
+- Review notebooks in Google Colab
+- Prepare API keys for Module 14.2 (or use mock mode)
+- Prepare 1-hour BERT theory presentation
+- Test metric calculations
+
+**During Class:**
+- Emphasize quantitative evaluation at every stage
+- Show cost-performance trade-off visualizations
+- Connect to student final projects
+- Discuss real-world production considerations
+
+**Resources Provided:**
+- 5 complete notebooks with code and explanations
+- Comprehensive metrics implementations
+- Cost analysis frameworks
+- Decision-making flowcharts
+
+For detailed instructor guide, see [BERT_GPT_RAG_SUMMARY.md](docs/BERT_GPT_RAG_SUMMARY.md).
+For complete course structure, see [COURSE_STRUCTURE.md](docs/COURSE_STRUCTURE.md).
+
+---
 
 ## Getting Started
 

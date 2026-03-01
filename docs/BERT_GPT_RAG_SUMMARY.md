@@ -10,15 +10,15 @@ This module covers modern transformer-based NLP across three folders (12-BERT, 1
 
 ```
 12-BERT/ (Encoder Models - 2 hours)
-├── NLP12_1_Classification.ipynb (1.5h) ✓ Existing, perfect
-└── NLP12_2_Q&A.ipynb (0.5h) ✓ Enhanced with EM & F1 metrics
+├── NLP12_1_Classification.ipynb (1.5h)  Existing, perfect
+└── NLP12_2_Q&A.ipynb (0.5h)  Enhanced with EM & F1 metrics
 
 13-GPT/ (Decoder Models - 2 hours)
-└── NLP13_1_Text_Generation.ipynb (2h) ✓ NEW
+└── NLP13_1_Text_Generation.ipynb (2h)  NEW
 
 14-RAG/ (Real-World Applications - 5 hours)
-├── NLP14_1_RAG_Pipeline.ipynb (3h) ✓ NEW
-└── NLP14_2_Modern_LLMs.ipynb (2h) ✓ NEW
+├── NLP14_1_RAG_Pipeline.ipynb (3h)  NEW
+└── NLP14_2_Modern_LLMs.ipynb (2h)  NEW
 
 Plus: BERT Theory slides (1 hour)
 Total: 10 hours
@@ -30,26 +30,26 @@ Total: 10 hours
 
 ### **12-BERT: Encoder Models** (2 hours)
 
-#### NLP12_1_Classification.ipynb ✓ (1.5h)
+#### NLP12_1_Classification.ipynb  (1.5h)
 - **Status**: Existing notebook, already perfect
 - **Content**: Fine-tuning BERT for sentiment analysis
-- **Metrics**: ✅ Complete (Accuracy, Precision, Recall, F1, Confusion Matrix, ROC)
+- **Metrics**:  Complete (Accuracy, Precision, Recall, F1, Confusion Matrix, ROC)
 
-#### NLP12_2_Q&A.ipynb ✓ (0.5h)
+#### NLP12_2_Q&A.ipynb  (0.5h)
 - **Status**: Enhanced with metrics section
 - **Original**: Basic Q&A inference demo
 - **Added**:
-  - ✅ Exact Match (EM) metric implementation
-  - ✅ F1 Score calculation (token-level overlap)
-  - ✅ Confidence score analysis
-  - ✅ Multi-example evaluation
-  - ✅ Average performance tracking
+  -  Exact Match (EM) metric implementation
+  -  F1 Score calculation (token-level overlap)
+  -  Confidence score analysis
+  -  Multi-example evaluation
+  -  Average performance tracking
 
 ---
 
 ### **13-GPT: Decoder Models** (2 hours)
 
-#### NLP13_1_Text_Generation.ipynb ✓ (2h)
+#### NLP13_1_Text_Generation.ipynb  (2h)
 **Structure:**
 1. **Introduction** (15 min)
    - BERT vs GPT architecture comparison
@@ -66,7 +66,7 @@ Total: 10 hours
    - Top-p (nucleus) sampling (p=0.9, 0.95)
    - Combined strategies
 
-4. **Generation Metrics** ⭐ (35 min)
+4. **Generation Metrics**  (35 min)
    - **Perplexity**: Model confidence measurement
    - **Distinct-n**: Diversity metrics (unique n-grams)
    - **Self-BLEU**: Inter-sample similarity
@@ -90,17 +90,17 @@ Total: 10 hours
    - Bridge to RAG
 
 **Key Metrics Covered:**
-- ✅ Perplexity (lower = better)
-- ✅ Distinct-1/2/3 (diversity)
-- ✅ Self-BLEU (lower = more diverse)
-- ✅ BLEU/ROUGE (task-specific)
-- ✅ Inference time
+-  Perplexity (lower = better)
+-  Distinct-1/2/3 (diversity)
+-  Self-BLEU (lower = more diverse)
+-  BLEU/ROUGE (task-specific)
+-  Inference time
 
 ---
 
 ### **14-RAG: Real-World Applications** (5 hours)
 
-#### NLP14_1_RAG_Pipeline.ipynb ✓ (3h)
+#### NLP14_1_RAG_Pipeline.ipynb  (3h)
 **Structure:**
 1. **Introduction** (10 min)
    - Why RAG? (hallucination, no external knowledge)
@@ -128,13 +128,13 @@ Total: 10 hours
    - End-to-end implementation
    - Multi-step processing
 
-7. **Retrieval Metrics** ⭐ (35 min)
+7. **Retrieval Metrics**  (35 min)
    - **Precision@K**: Relevant docs in top-K
    - **Recall@K**: Coverage of relevant docs
    - **MRR (Mean Reciprocal Rank)**: First relevant doc position
    - **NDCG**: Ranking quality with discounting
 
-8. **Generation Quality Metrics** ⭐ (25 min)
+8. **Generation Quality Metrics**  (25 min)
    - **Faithfulness**: Answer grounded in context
    - **Answer Relevance**: Semantic similarity to question
    - **Answer Correctness**: Comparison to ground truth
@@ -155,18 +155,18 @@ Total: 10 hours
     - Production considerations
 
 **Key Metrics Covered:**
-- ✅ Precision@K, Recall@K
-- ✅ MRR (Mean Reciprocal Rank)
-- ✅ NDCG (Normalized Discounted Cumulative Gain)
-- ✅ Faithfulness score
-- ✅ Answer relevance
-- ✅ Semantic similarity
-- ✅ Latency (ms)
-- ✅ Cost per query
+-  Precision@K, Recall@K
+-  MRR (Mean Reciprocal Rank)
+-  NDCG (Normalized Discounted Cumulative Gain)
+-  Faithfulness score
+-  Answer relevance
+-  Semantic similarity
+-  Latency (ms)
+-  Cost per query
 
 ---
 
-#### NLP14_2_Modern_LLMs.ipynb ✓ (2h)
+#### NLP14_2_Modern_LLMs.ipynb  (2h)
 **Structure:**
 1. **Modern LLM Landscape** (15 min)
    - Model comparison table (GPT-4, Claude, LLaMA, Mistral)
@@ -188,7 +188,7 @@ Total: 10 hours
    - Few-shot learning (zero-shot vs few-shot)
    - Chain-of-thought prompting
 
-5. **LLM Evaluation Framework** ⭐ (35 min)
+5. **LLM Evaluation Framework**  (35 min)
    - **Task-specific evaluation**: Accuracy on test sets
    - **Model comparison**: GPT-3.5 vs GPT-4 vs BERT
      - Accuracy
@@ -217,30 +217,30 @@ Total: 10 hours
    - State-of-the-art scores
 
 **Key Metrics Covered:**
-- ✅ Accuracy (task-specific)
-- ✅ Latency (ms)
-- ✅ Cost per query ($)
-- ✅ Cost per 1K queries
-- ✅ Monthly cost projections
-- ✅ LLM-as-judge scores (1-5 scale)
-- ✅ Benchmark performance (MMLU, etc.)
+-  Accuracy (task-specific)
+-  Latency (ms)
+-  Cost per query ($)
+-  Cost per 1K queries
+-  Monthly cost projections
+-  LLM-as-judge scores (1-5 scale)
+-  Benchmark performance (MMLU, etc.)
 
 ---
 
 ## Metrics Summary: Complete Coverage
 
-### Classification (BERT - NLP12_1) ✅
+### Classification (BERT - NLP12_1) 
 - Accuracy, Precision, Recall, F1 (macro/micro/weighted)
 - Confusion Matrix
 - ROC Curves
 - Per-class performance
 
-### Question Answering (BERT - NLP12_2) ✅
+### Question Answering (BERT - NLP12_2) 
 - **Exact Match (EM)**: Binary correctness
 - **F1 Score**: Token-level overlap
 - **Confidence Scores**: Logit-based confidence
 
-### Text Generation (GPT - NLP13_1) ✅
+### Text Generation (GPT - NLP13_1) 
 - **Perplexity**: Model confidence (lower is better)
 - **Distinct-1/2/3**: Diversity (unique n-grams %)
 - **Self-BLEU**: Inter-sample similarity (lower = more diverse)
@@ -248,7 +248,7 @@ Total: 10 hours
 - **ROUGE**: Recall-oriented (summarization)
 - **Inference Time**: Performance measurement
 
-### Retrieval-Augmented Generation (RAG - NLP14_1) ✅
+### Retrieval-Augmented Generation (RAG - NLP14_1) 
 **Retrieval:**
 - **Precision@K**: Relevant docs in top-K
 - **Recall@K**: Coverage of all relevant docs
@@ -262,7 +262,7 @@ Total: 10 hours
 - **Latency**: End-to-end time
 - **Cost**: Token usage and API cost
 
-### Modern LLMs (API-based - NLP14_2) ✅
+### Modern LLMs (API-based - NLP14_2) 
 - **Accuracy**: Task-specific correctness
 - **Latency**: Response time (ms)
 - **Cost**: Per query and per 1K queries ($)
@@ -277,24 +277,24 @@ Total: 10 hours
 By the end of this module, students will be able to:
 
 ### Technical Skills
-1. ✅ **Implement BERT** for classification and extractive Q&A
-2. ✅ **Use GPT** for text generation with controlled sampling
-3. ✅ **Build RAG pipelines** combining retrieval and generation
-4. ✅ **Work with modern LLM APIs** (OpenAI, Anthropic)
-5. ✅ **Apply prompt engineering** techniques effectively
+1.  **Implement BERT** for classification and extractive Q&A
+2.  **Use GPT** for text generation with controlled sampling
+3.  **Build RAG pipelines** combining retrieval and generation
+4.  **Work with modern LLM APIs** (OpenAI, Anthropic)
+5.  **Apply prompt engineering** techniques effectively
 
 ### Evaluation & Metrics
-6. ✅ **Calculate and interpret** EM, F1, Precision, Recall
-7. ✅ **Measure generation quality** with perplexity, BLEU, ROUGE, diversity
-8. ✅ **Evaluate retrieval systems** using Precision@K, MRR, NDCG
-9. ✅ **Assess RAG pipelines** end-to-end with multiple metrics
-10. ✅ **Perform cost-benefit analysis** for model selection
+6.  **Calculate and interpret** EM, F1, Precision, Recall
+7.  **Measure generation quality** with perplexity, BLEU, ROUGE, diversity
+8.  **Evaluate retrieval systems** using Precision@K, MRR, NDCG
+9.  **Assess RAG pipelines** end-to-end with multiple metrics
+10.  **Perform cost-benefit analysis** for model selection
 
 ### Decision Making
-11. ✅ **Choose appropriate models** for different tasks (BERT vs GPT vs LLM APIs)
-12. ✅ **Optimize for production** (cost, latency, quality tradeoffs)
-13. ✅ **Evaluate tradeoffs** between fine-tuning and API usage
-14. ✅ **Design evaluation frameworks** for subjective tasks
+11.  **Choose appropriate models** for different tasks (BERT vs GPT vs LLM APIs)
+12.  **Optimize for production** (cost, latency, quality tradeoffs)
+13.  **Evaluate tradeoffs** between fine-tuning and API usage
+14.  **Design evaluation frameworks** for subjective tasks
 
 ---
 
@@ -345,11 +345,11 @@ All with proper metrics and evaluation frameworks!
 | Module | Topic | Time | Metrics Focus |
 |--------|-------|------|---------------|
 | **BERT Theory** | Slides | 1h | Architecture understanding |
-| **12-BERT** | Classification | 1.5h | ✅ Precision, Recall, F1, ROC |
-| **12-BERT** | Q&A | 0.5h | ✅ EM, F1, Confidence |
-| **13-GPT** | Generation | 2h | ✅ Perplexity, Diversity, BLEU/ROUGE |
-| **14-RAG** | Pipeline | 3h | ✅ Retrieval + Generation metrics |
-| **14-RAG** | Modern LLMs | 2h | ✅ Cost, Latency, Quality tradeoffs |
+| **12-BERT** | Classification | 1.5h |  Precision, Recall, F1, ROC |
+| **12-BERT** | Q&A | 0.5h |  EM, F1, Confidence |
+| **13-GPT** | Generation | 2h |  Perplexity, Diversity, BLEU/ROUGE |
+| **14-RAG** | Pipeline | 3h |  Retrieval + Generation metrics |
+| **14-RAG** | Modern LLMs | 2h |  Cost, Latency, Quality tradeoffs |
 | **Total** | | **10h** | **Complete metric coverage** |
 
 ---
@@ -357,11 +357,11 @@ All with proper metrics and evaluation frameworks!
 ## Instructor Notes
 
 ### What's Ready to Use
-- ✅ All 3 new notebooks created and structured
-- ✅ NLP12_2 enhanced with metrics
-- ✅ Complete code examples throughout
-- ✅ Visualizations and tables included
-- ✅ Exercises embedded in notebooks
+-  All 3 new notebooks created and structured
+-  NLP12_2 enhanced with metrics
+-  Complete code examples throughout
+-  Visualizations and tables included
+-  Exercises embedded in notebooks
 
 ### Before Class
 1. Test all notebooks in Google Colab
@@ -395,7 +395,7 @@ Optional additions if time permits:
 ---
 
 **Created:** 2026-03-01
-**Status:** ✅ Complete and ready for delivery
+**Status:**  Complete and ready for delivery
 **Total Development Time:** ~3 hours
 **Student Learning Time:** 10 hours
 **Metrics Coverage:** Comprehensive across all models

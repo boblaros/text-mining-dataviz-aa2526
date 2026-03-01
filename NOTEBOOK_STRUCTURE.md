@@ -73,10 +73,10 @@ Various dashboard examples and applications
 - NLP12_1_Classification_with_Transformers.ipynb
 - NLP12_2_Q&A_with_finetuned_BERT.ipynb
 
-### 13 - GPT (1 notebook) **NEW**
+### 13 - GPT (1 notebook)
 - NLP13_1_Text_Generation.ipynb
 
-### 14 - RAG & Modern LLMs (2 notebooks) **NEW**
+### 14 - RAG & Modern LLMs (2 notebooks)
 - NLP14_1_RAG_Pipeline.ipynb
 - NLP14_2_Modern_LLMs.ipynb
 

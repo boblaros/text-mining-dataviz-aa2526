@@ -134,12 +134,6 @@ Real-world applications combining retrieval and generation.
   - Cost-performance optimization
   - LLM evaluation frameworks
   - Production best practices
-- **🆓 FREE Alternative: Gemini-based Notebooks**
-  - **NLP14_2_Modern_LLMs_Gemini.ipynb** - Modern LLMs with FREE Gemini API
-  - **NLP14_2_1_RAG_with_Gemini.ipynb** - Complete RAG pipeline with Gemini
-  - Perfect for students (no credit card required!)
-  - 60 requests/minute, 1,500 requests/day
-  - See [GEMINI_NOTEBOOKS_INFO.md](GEMINI_NOTEBOOKS_INFO.md) for setup guide
 
 ### 15 - AI Agents
 Autonomous systems that use LLMs with tools to complete complex tasks.
@@ -155,13 +149,6 @@ Autonomous systems that use LLMs with tools to complete complex tasks.
   - Calculator, Wikipedia search, weather, and datetime tools
   - Agent with conversation memory
   - Error handling and best practices
-- **🆓 FREE Alternative: NLP15_1_AI_Agent_Gemini.ipynb**
-  - Complete AI agent implementation with FREE Gemini API
-  - Native function calling support
-  - Multiple working tools and examples
-
-**Note:** For detailed information about each module, see the README file in each module folder ([12-BERT/](12-BERT/), [13-GPT/](13-GPT/), [14-RAG/](14-RAG/), [15-AI_Agent/](15-AI_Agent/)).
-
 ---
 
 ## 🆓 FREE API Access for Students
@@ -176,11 +163,7 @@ Three complete notebooks using **100% FREE** Google Gemini API:
    - Prompt engineering, few-shot learning, evaluation
    - No credit card required
 
-2. **RAG with Gemini** ([14-RAG/NLP14_2_1_RAG_with_Gemini.ipynb](14-RAG/NLP14_2_1_RAG_with_Gemini.ipynb))
-   - Complete Retrieval-Augmented Generation pipeline
-   - Free embeddings + Free LLM
-
-3. **AI Agents with Gemini** ([15-AI_Agent/NLP15_1_AI_Agent_Gemini.ipynb](15-AI_Agent/NLP15_1_AI_Agent_Gemini.ipynb))
+2. **AI Agents with Gemini** ([15-AI_Agent/NLP15_1_AI_Agent_Gemini.ipynb](15-AI_Agent/NLP15_1_AI_Agent_Gemini.ipynb))
    - Autonomous agents with tool use
    - Function calling, memory, multi-step reasoning
 
@@ -196,8 +179,6 @@ Three complete notebooks using **100% FREE** Google Gemini API:
 - 1,500 requests per day
 - 1 million tokens per month
 - More than enough for all coursework!
-
-📖 See [GEMINI_NOTEBOOKS_INFO.md](GEMINI_NOTEBOOKS_INFO.md) for complete setup guide and troubleshooting.
 
 ---
 

@@ -80,7 +80,6 @@ Various dashboard examples and applications
 - NLP14_1_RAG_Pipeline.ipynb
 - NLP14_2_Modern_LLMs.ipynb
 - NLP14_2_Modern_LLMs_Gemini.ipynb *(🆓 FREE Gemini alternative)*
-- NLP14_2_1_RAG_with_Gemini.ipynb *(🆓 FREE RAG with Gemini)*
 
 ### 15 - AI Agents (2 notebooks)
 - NLP15_1_AI_Agent_Introduction.ipynb
@@ -132,31 +131,7 @@ GPT - Decoders (13)
 RAG & Modern LLMs (14)
     ↓
 AI Agents (15)
-```
-
----
-
-## Total Count
-
-- **Modules**: 15
-- **Notebooks**: 46+
-- **New Content (2026)**: Modules 12-15 (9 notebooks)
-- **🆓 FREE Gemini Notebooks**: 3 (no credit card required!)
-
----
-
-## 🆓 Free API Access for Students
-
-Three notebooks use **Google Gemini's FREE API** (no credit card required):
-
-1. **NLP14_2_Modern_LLMs_Gemini.ipynb** - Modern LLMs with prompt engineering
-2. **NLP14_2_1_RAG_with_Gemini.ipynb** - Complete RAG pipeline
-3. **NLP15_1_AI_Agent_Gemini.ipynb** - AI agents with tool use
-
-**Free Tier:** 60 requests/minute, 1,500 requests/day
-
-See [GEMINI_NOTEBOOKS_INFO.md](GEMINI_NOTEBOOKS_INFO.md) for setup instructions.
-
+``
 ---
 
 **Course**: Data Visualization and Text Mining

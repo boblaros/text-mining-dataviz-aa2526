@@ -1,6 +1,6 @@
 # Notebook Structure
 
-**Last updated**: March 1, 2026
+**Last updated**: March 6, 2026
 
 This document provides a complete listing of all notebooks in the course, organized by module.
 
@@ -76,9 +76,15 @@ Various dashboard examples and applications
 ### 13 - GPT (1 notebook)
 - NLP13_1_Text_Generation.ipynb
 
-### 14 - RAG & Modern LLMs (2 notebooks)
+### 14 - RAG & Modern LLMs (4 notebooks)
 - NLP14_1_RAG_Pipeline.ipynb
 - NLP14_2_Modern_LLMs.ipynb
+- NLP14_2_Modern_LLMs_Gemini.ipynb *(🆓 FREE Gemini alternative)*
+- NLP14_2_1_RAG_with_Gemini.ipynb *(🆓 FREE RAG with Gemini)*
+
+### 15 - AI Agents (2 notebooks)
+- NLP15_1_AI_Agent_Introduction.ipynb
+- NLP15_1_AI_Agent_Gemini.ipynb *(🆓 FREE Gemini alternative)*
 
 ---
 
@@ -124,15 +130,32 @@ BERT - Encoders (12)
 GPT - Decoders (13)
     ↓
 RAG & Modern LLMs (14)
+    ↓
+AI Agents (15)
 ```
 
 ---
 
 ## Total Count
 
-- **Modules**: 14
-- **Notebooks**: 40+
-- **New Content (2026)**: Modules 12-14 (5 notebooks)
+- **Modules**: 15
+- **Notebooks**: 46+
+- **New Content (2026)**: Modules 12-15 (9 notebooks)
+- **🆓 FREE Gemini Notebooks**: 3 (no credit card required!)
+
+---
+
+## 🆓 Free API Access for Students
+
+Three notebooks use **Google Gemini's FREE API** (no credit card required):
+
+1. **NLP14_2_Modern_LLMs_Gemini.ipynb** - Modern LLMs with prompt engineering
+2. **NLP14_2_1_RAG_with_Gemini.ipynb** - Complete RAG pipeline
+3. **NLP15_1_AI_Agent_Gemini.ipynb** - AI agents with tool use
+
+**Free Tier:** 60 requests/minute, 1,500 requests/day
+
+See [GEMINI_NOTEBOOKS_INFO.md](GEMINI_NOTEBOOKS_INFO.md) for setup instructions.
 
 ---
 

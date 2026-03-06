@@ -120,22 +120,84 @@ Text generation with GPT models.
 
 ### 14 - RAG & Modern LLMs
 Real-world applications combining retrieval and generation.
-- **RAG Pipeline**
+- **RAG Pipeline** (NLP14_1_RAG_Pipeline.ipynb)
   - Building knowledge bases with vector databases (FAISS)
   - Semantic search with embeddings
   - Retrieval-Augmented Generation architecture
   - Retrieval metrics (Precision@K, Recall@K, MRR, NDCG)
   - Generation quality metrics (faithfulness, relevance)
   - End-to-end performance analysis
-- **Modern LLM APIs**
+- **Modern LLM APIs** (NLP14_2_Modern_LLMs.ipynb)
   - Working with GPT-4, Claude, and other modern LLMs
   - Prompt engineering techniques
   - Few-shot learning
   - Cost-performance optimization
   - LLM evaluation frameworks
   - Production best practices
+- **🆓 FREE Alternative: Gemini-based Notebooks**
+  - **NLP14_2_Modern_LLMs_Gemini.ipynb** - Modern LLMs with FREE Gemini API
+  - **NLP14_2_1_RAG_with_Gemini.ipynb** - Complete RAG pipeline with Gemini
+  - Perfect for students (no credit card required!)
+  - 60 requests/minute, 1,500 requests/day
+  - See [GEMINI_NOTEBOOKS_INFO.md](GEMINI_NOTEBOOKS_INFO.md) for setup guide
 
-**Note:** For detailed information about each module, see the README file in each module folder ([12-BERT/](12-BERT/), [13-GPT/](13-GPT/), [14-RAG/](14-RAG/)).
+### 15 - AI Agents
+Autonomous systems that use LLMs with tools to complete complex tasks.
+- **ReAct Agents** - Reasoning + Acting in iterative loops
+- **Agent Components**
+  - LLM brain for decision-making
+  - Tool integration (APIs, calculators, databases)
+  - Memory systems (short-term and long-term)
+  - Multi-step planning and execution
+- **Practical Implementation**
+  - Building agents with OpenAI function calling
+  - Building agents with Gemini function calling (FREE)
+  - Calculator, Wikipedia search, weather, and datetime tools
+  - Agent with conversation memory
+  - Error handling and best practices
+- **🆓 FREE Alternative: NLP15_1_AI_Agent_Gemini.ipynb**
+  - Complete AI agent implementation with FREE Gemini API
+  - Native function calling support
+  - Multiple working tools and examples
+
+**Note:** For detailed information about each module, see the README file in each module folder ([12-BERT/](12-BERT/), [13-GPT/](13-GPT/), [14-RAG/](14-RAG/), [15-AI_Agent/](15-AI_Agent/)).
+
+---
+
+## 🆓 FREE API Access for Students
+
+Many modern LLM notebooks require paid API keys (OpenAI, Anthropic), which can be a barrier for students. We've created **free alternatives using Google Gemini** that require no credit card!
+
+### Gemini-Based Notebooks
+
+Three complete notebooks using **100% FREE** Google Gemini API:
+
+1. **Modern LLMs with Gemini** ([14-RAG/NLP14_2_Modern_LLMs_Gemini.ipynb](14-RAG/NLP14_2_Modern_LLMs_Gemini.ipynb))
+   - Prompt engineering, few-shot learning, evaluation
+   - No credit card required
+
+2. **RAG with Gemini** ([14-RAG/NLP14_2_1_RAG_with_Gemini.ipynb](14-RAG/NLP14_2_1_RAG_with_Gemini.ipynb))
+   - Complete Retrieval-Augmented Generation pipeline
+   - Free embeddings + Free LLM
+
+3. **AI Agents with Gemini** ([15-AI_Agent/NLP15_1_AI_Agent_Gemini.ipynb](15-AI_Agent/NLP15_1_AI_Agent_Gemini.ipynb))
+   - Autonomous agents with tool use
+   - Function calling, memory, multi-step reasoning
+
+### Getting Your Free Gemini API Key
+
+1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
+2. Sign in with your Google account
+3. Click "Get API Key" → "Create API key"
+4. Copy your key and use it in the notebooks
+
+**Free Tier Limits:**
+- 60 requests per minute
+- 1,500 requests per day
+- 1 million tokens per month
+- More than enough for all coursework!
+
+📖 See [GEMINI_NOTEBOOKS_INFO.md](GEMINI_NOTEBOOKS_INFO.md) for complete setup guide and troubleshooting.
 
 ---
 
